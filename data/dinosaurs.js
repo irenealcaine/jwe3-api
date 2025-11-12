@@ -54,7 +54,7 @@ export const dinosaurs = [
     cohabitation: [
       { likes: ["Scavenger", "Carnotaurus"], dislikes: ["Carnivores", "Therizinosaurus"] }
     ]
-  },  
+  },
   {
     id: 3,
     name: "Allosaurus",
@@ -107,7 +107,35 @@ export const dinosaurs = [
       { water: 2, forest: 41, open_space: 19, tall_leaf: 8 }
     ],
     cohabitation: [
-      { likes: ["Ankylosaurus", "Diplodocus"]}
+      { likes: ["Ankylosaurus", "Diplodocus"] }
     ]
   },
+  {
+    id: 5,
+    name: "Ankylosaurus",
+    slug: "ankylosaurus",
+    image: "/images/ankylosaurus.png",
+    description: "Famed for its clubbed tail and the armour plates that cover its back, Ankylosaurus is a genus of Ankylosaurus that lived around 70m years ago during the Late Cretaceous period. Ankylosaurus’ protective osteoderms and robust build – the average specimen weighs 8 tonnes and is 9.6m in length - defend it from predators such as Tyrannosaurus rex, while its large stomach digested up to 60kg of ferns and shrubs every day.",
+    discovery: "Ankylosaurus was discovered in the Hell Creek Formation, Montana by Barnum Brown, four years after the famous palaeontologist, known as ‘Mr. Bones’, had discovered Tyrannosaur rex. The first fossils found were a collection of bones including two teeth and a skull fragment, although Brown actually unearthed numerous osteoderms in 1900, but incorrectly attributed them to Tyrannosaurus. Further Ankylosaurus fossils were found in Canada in 1910, including a complete skull.",
+    paleology: "Ankylosaurus lived in Canada and the western United States, which had a warm, humid climate at that time, and preferred to stay close to rivers, forests and wetlands, allowing them to cool off during hotter periods.",
+    era: "Late Cretaceous",
+    family: "Ankylosauridae",
+    genus: "Ankylosaurus",
+    height: 3.6,
+    length: 9.6,
+    weight: 8000,
+    diet: ["Ground Palaeobotany"],
+    egg_batch_size: [
+      { min: 1, max: 2 }
+    ],
+    dig_sites: ["Lance Formation Site C", "Scollard Formation B"],
+    security_rating: 6,
+    minimum_population: 1,
+    environment: [
+      { water: 3, open_space: 32, ground_leaf: 32, ground_fruit: 32 }
+    ],
+    cohabitation: [
+      { likes: ["Sauropod", "Ornithomimosaurid", "Ceratopsid", "Hadrosaurid", "Pachycephalosaurid", "Scavenger"], dislikes: ["Carnivores", "Ankylosaurid", "Stegosaurid", "Therizinosaurus"] }
+    ]
+  }
 ];
