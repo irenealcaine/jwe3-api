@@ -9,7 +9,9 @@ const briefFields = [
   "name",
   "slug",
   "image",
-  "era"
+  "era",
+  "description",
+  "diet"
 ];
 
 function pick(obj, keys) {
