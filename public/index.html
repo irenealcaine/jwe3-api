@@ -29,11 +29,79 @@
     a:hover {
       background: #00d88d;
     }
+    main.docs {
+      max-width: 900px;
+      margin: 2.5rem auto 0;
+      text-align: left;
+      background: rgba(255,255,255,0.03);
+      border: 1px solid rgba(255,255,255,0.04);
+      padding: 1.25rem 1.5rem;
+      border-radius: 10px;
+    }
+    .endpoint {
+      margin-bottom: 1.25rem;
+      padding-bottom: 0.75rem;
+      border-bottom: 1px dashed rgba(255,255,255,0.03);
+    }
+    pre {
+      background: #021016;
+      color: #cfeef0;
+      padding: 0.75rem;
+      border-radius: 6px;
+      overflow: auto;
+      font-size: 0.9rem;
+    }
+    code.route { font-weight: 600; color: #a7f3d0; }
+    small.muted { color: #9aa8b0; display: block; margin-top: 0.5rem; }
   </style>
 </head>
 <body>
   <h1>🦖 Jurassic World Evolution 3 API</h1>
   <p>Explora los dinosaurios disponibles en nuestra API.</p>
   <a href="/api/dinosaurs">Ver dinosaurios</a>
+  
+  <main class="docs" aria-label="Documentación de la API">
+    <h2 style="color:#00ffa3;">Documentación de la API</h2>
+    <p>Base URL: <code class="route">/api/dinosaurs</code></p>
+
+    <section class="endpoint">
+      <h3>GET <code class="route">/api/dinosaurs</code> — Listar todos los dinosaurios</h3>
+      <p>Respuesta: <code>200 OK</code> con un array de objetos dinosaurio.</p>
+      <pre>[
+  {
+    "id": 1,
+    "name": "Tyrannosaurus Rex",
+    "image": "/images/trex.png",
+    "description": "Un gran carnívoro del Cretácico tardío."
+  },
+  {
+    "id": 2,
+    "name": "Triceratops",
+    "image": "/images/triceratops.png",
+    "description": "Herbívoro con tres cuernos y un gran escudo óseo."
+  }
+]</pre>
+    </section>
+
+    <section class="endpoint">
+      <h3>GET <code class="route">/api/dinosaurs/:id</code> — Obtener un dinosaurio por ID</h3>
+      <p>Respuestas:</p>
+      <ul>
+        <li><strong>200 OK</strong> — objeto dinosaurio (cuando existe)</li>
+        <li><strong>404 Not Found</strong> — { "message": "Dinosaurio no encontrado" } (cuando no existe)</li>
+      </ul>
+      <p>Ejemplo (200):</p>
+      <pre>{
+  "id": 1,
+  "name": "Tyrannosaurus Rex",
+  "image": "/images/trex.png",
+  "description": "Un gran carnívoro del Cretácico tardío."
+}</pre>
+      <p>Ejemplo (404):</p>
+      <pre>{ "message": "Dinosaurio no encontrado" }</pre>
+    </section>
+
+    <small class="muted">Nota: Las imágenes están servidas desde <code>/images/&lt;archivo&gt;</code>. Si sirves estáticamente la carpeta pública, por ejemplo <code>/images/trex.png</code> será accesible.</small>
+  </main>
 </body>
 </html>
