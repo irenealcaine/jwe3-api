@@ -66,19 +66,29 @@
 
     <section class="endpoint">
       <h3>GET <code class="route">/api/dinosaurs</code> — Listar todos los dinosaurios</h3>
-      <p>Respuesta: <code>200 OK</code> con un array de objetos dinosaurio.</p>
+      <p>Respuesta: <code>200 OK</code> con un array de objetos dinosaurio (esquema de tipos).</p>
       <pre>[
   {
-    "id": 1,
-    "name": "Tyrannosaurus Rex",
-    "image": "/images/trex.png",
-    "description": "Un gran carnívoro del Cretácico tardío."
-  },
-  {
-    "id": 2,
-    "name": "Triceratops",
-    "image": "/images/triceratops.png",
-    "description": "Herbívoro con tres cuernos y un gran escudo óseo."
+    "id": "&lt;integer&gt;",
+    "name": "&lt;string&gt;",
+    "slug": "&lt;string&gt;",
+    "image": "&lt;string - path to image&gt;",
+    "description": "&lt;string&gt;",
+    "discovery": "&lt;string&gt;",
+    "paleology": "&lt;string&gt;",
+    "era": "&lt;string&gt;",
+    "family": "&lt;string&gt;",
+    "genus": "&lt;string&gt;",
+    "height": "&lt;number - meters&gt;",
+    "length": "&lt;number - meters&gt;",
+    "weight": "&lt;number - kg&gt;",
+    "diet": ["&lt;string&gt;"],
+    "egg_batch_size": [{ "min": "&lt;integer&gt;", "max": "&lt;integer&gt;" }],
+    "dig_sites": ["&lt;string&gt;"],
+    "security_rating": "&lt;integer&gt;",
+    "minimum_population": "&lt;integer&gt;",
+    "environment": [{ "water": "&lt;number&gt;", "forest": "&lt;number&gt;", "open_space": "&lt;number&gt;", "sand": "&lt;number&gt;", "prey": "&lt;number (probability)&gt;" }],
+    "cohabitation": [{ "likes": ["&lt;string&gt;"], "dislikes": ["&lt;string&gt;"] }]
   }
 ]</pre>
     </section>
@@ -90,12 +100,28 @@
         <li><strong>200 OK</strong> — objeto dinosaurio (cuando existe)</li>
         <li><strong>404 Not Found</strong> — { "message": "Dinosaurio no encontrado" } (cuando no existe)</li>
       </ul>
-      <p>Ejemplo (200):</p>
+      <p>Ejemplo (200) — esquema de tipos (objeto completo):</p>
       <pre>{
-  "id": 1,
-  "name": "Tyrannosaurus Rex",
-  "image": "/images/trex.png",
-  "description": "Un gran carnívoro del Cretácico tardío."
+  "id": "&lt;integer&gt;",
+  "name": "&lt;string&gt;",
+  "slug": "&lt;string&gt;",
+  "image": "&lt;string - path to image&gt;",
+  "description": "&lt;string&gt;",
+  "discovery": "&lt;string&gt;",
+  "paleology": "&lt;string&gt;",
+  "era": "&lt;string&gt;",
+  "family": "&lt;string&gt;",
+  "genus": "&lt;string&gt;",
+  "height": "&lt;number - meters&gt;",
+  "length": "&lt;number - meters&gt;",
+  "weight": "&lt;number - kg&gt;",
+  "diet": ["&lt;string&gt;"],
+  "egg_batch_size": [{ "min": "&lt;integer&gt;", "max": "&lt;integer&gt;" }],
+  "dig_sites": ["&lt;string&gt;"],
+  "security_rating": "&lt;integer&gt;",
+  "minimum_population": "&lt;integer&gt;",
+  "environment": [{ "water": "&lt;number&gt;", "forest": "&lt;number&gt;", "open_space": "&lt;number&gt;", "sand": "&lt;number&gt;", "prey": "&lt;number (probability)&gt;" }],
+  "cohabitation": [{ "likes": ["&lt;string&gt;"], "dislikes": ["&lt;string&gt;"] }]
 }</pre>
       <p>Ejemplo (404):</p>
       <pre>{ "message": "Dinosaurio no encontrado" }</pre>

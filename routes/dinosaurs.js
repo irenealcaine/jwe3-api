@@ -3,8 +3,27 @@ import { dinosaurs } from "../data/dinosaurs.js";
 
 const router = express.Router();
 
+// Campos que queremos mostrar en la lista (resumen)
+const briefFields = [
+  "id",
+  "name",
+  "slug",
+  "image",
+  "era"
+];
+
+function pick(obj, keys) {
+  const out = {};
+  keys.forEach(k => {
+    if (Object.prototype.hasOwnProperty.call(obj, k)) out[k] = obj[k];
+  });
+  return out;
+}
+
 router.get("/", (req, res) => {
-  res.json(dinosaurs);
+  // Por defecto devolvemos solo un resumen de cada dinosaurio
+  const list = dinosaurs.map(d => pick(d, briefFields));
+  res.json(list);
 });
 
 router.get("/:id", (req, res) => {
