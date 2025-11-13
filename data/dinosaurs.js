@@ -272,7 +272,7 @@ export const dinosaurs = [
     security_rating: 4,
     minimum_population: 1,
     environment: [
-      { water: 37, forest: 44, sand: 1, rock: 19, open_space: 63, prey: 0.5, fish: 0.4, tall_leaf: 8, ground_leaf: 8, ground_fruit: 32 }
+      { water: 37, forest: 44, rock: 19 }
     ],
     cohabitation: [
       { likes: ["Scavenger", "Suchomimus"], dislikes: ["Carnivores", "Therizinosaurus"] }
