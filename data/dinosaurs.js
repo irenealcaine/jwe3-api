@@ -137,5 +137,145 @@ export const dinosaurs = [
     cohabitation: [
       { likes: ["Sauropod", "Ornithomimosaurid", "Ceratopsid", "Hadrosaurid", "Pachycephalosaurid", "Scavenger"], dislikes: ["Carnivores", "Ankylosaurid", "Stegosaurid", "Therizinosaurus"] }
     ]
+  },
+  {
+    id: 6,
+    name: "Apatosaurus",
+    slug: "apatosaurus",
+    image: "/images/apatosaurus.webp",
+    description: "At over 20m in length and around 20 tonnes, Apatosaurus is one of the largest dinosaurs ever to have existed. This herbivorous Sauropod has a long neck that allows it to feed on the leaves of tall trees as well as lower-hanging plants, while the tip of its tail can be whipped to produce a loud bang that scares off predators.",
+    discovery: "Apatosaurus was discovered in 1877, when Othniel Charles Marsh unearthed a near-complete skeleton in the Rocky Mountains, Colorado. Its name, which translates to ‘deceptive lizard’, stems from Marsh’s initial misconception that its bone structure was that of an aquatic reptile.",
+    paleology: "Fossils dating back to the Late Jurassic period (approximately 150 million years ago) have been found across the western United States and parts of Europe. The location of these findings have led researchers to believe that Apatosaurus lived near rivers, and co-existed with Camarasaurus, Ceratosaurus and the feared Allosaurus.",
+    era: "Late Jurassic",
+    family: "Diplodocidae",
+    genus: "Apatosaurus",
+    height: 6,
+    length: 27,
+    weight: 20000,
+    diet: ["Tall Palaeobotany"],
+    egg_batch_size: [
+      { min: 1, max: 2 }
+    ],
+    dig_sites: ["Dinosaur National", "Monument A", "Morrison Formation B"],
+    security_rating: 3,
+    minimum_population: 1,
+    environment: [
+      { water: 3, forest: 39, open_space: 26, tall_leaf: 32 }
+    ],
+    cohabitation: [
+      { likes: ["Brachiosaurus", "Ornithomimosaurid", "Ceratopsid","Ankylosaurid","Hadrosaurid","Pachycephalosaurid","Stegosaurid"], dislikes: ["Sauropod", "Indominus rex","Scorpios rex"] }
+    ]
+  },
+  {
+    id: 7,
+    name: "Archaeornithomimus",
+    slug: "archaeornithomimus",
+    image: "/images/archaeornithomimus.webp",
+    description: "Archaeornithomimus is a genus of bird-like theropod, with a sharp beak and long hind legs. Its size – this dinosaur weighs between 100 and 200lbs and reaches around 3.3m in length – and physical features led to its name, which translates to ‘ancient bird mimic’. Archaeornithomimus had an omnivorous diet consisting of everything from plants to eggs and even other juvenile dinosaurs.",
+    discovery: "Remains of Archaeornithomimus have been found across Asia, with fossils found in China, Kyrgyzstan and Uzbekistan. The first discovery came in 1923, when Roy Chapman Andrews unearthed the bones of a new species, originally named Ornithomimus asiaticus. The prefix ‘archae’ (‘ancient’) was added in 1972, underlining Archaeornithomimus’ status as one of the oldest known species of Ornithomimid.",
+    paleology: "This dinosaur lived in Asia between 70 and 95 million years ago during the Late Cretaceous period and preferred to live along the floodplains of rivers, where vegetation would be easy to come by. Archaeornithomimus co-existed in this period with many other dinosaurs including Gigantoraptor, Bactrosaurus and Sonidosaurus.",
+    era: "Late Cretaceous",
+    family: "Ornithomimidae",
+    genus: "Archaeornithomimus",
+    height: 2.2,
+    length: 3.3,
+    weight: 50,
+    diet: ["Ground Palaeobotany"],
+    egg_batch_size: [
+      { min: 3, max: 6 }
+    ],
+    dig_sites: ["Bissekty Formation", "Iren Dabasu Formation"],
+    security_rating: 1,
+    minimum_population: 8,
+    environment: [
+      { water: 17, forest: 37, ground_fruit: 46 }
+    ],
+    cohabitation: [
+      { likes: ["Sauropod", "Ceratopsid", "Ankylosaurid", "Hadrosaurid","Stegosaurid"], dislikes: ["Dr. Wu Hybrids", "Therizinosaurus"] }
+    ]
+  },
+  {
+    id: 8,
+    name: "Atrociraptor",
+    slug: "atrociraptor",
+    image: "/images/atrociraptor.webp",
+    description: "Atrociraptor is a carnivorous dinosaur from the dromaeosaurid family, and dates back to the Late Cretaceous period. The name Atrociraptor translates from Latin as ‘savage seizer’, in reference to the rows of serrated teeth it uses to catch and kill prey such as lizards and small mammals. This genus is one of InGen’s ‘designer dinosaurs’ and exists in a variety of colours. It grows to around 4m in length and has been bred to display great dexterity, high intelligence and large, powerful claws, making it an extremely efficient hunter.",
+    discovery: "The first Atrociraptor remains were discovered in 1995 when a local man named Wayne Marshall unearthed a series of teeth and jaw parts from the Horseshoe Canyon Formation in Alberta, Canada. It wasn’t formally described until 2004, when palaeontologists Phillip J. Currie and David Varricchio gave it the name Atrociraptor. To this day, the 1995 finding is the only known Atrociraptor specimen.",
+    paleology: "Atrociraptor lived along the floodplains and swamps of Alberta around 68.5 million years ago and shared its habitat with a range of other dinosaurs including Albertosaurus, Ornithomimus and Deinonychus.",
+    era: "Late Cretaceous",
+    family: "Dromaeosauridae",
+    genus: "Atrociraptor",
+    height: 2,
+    length: 3.9,
+    weight: 226,
+    diet: ["Carnivore", "Live Prey"],
+    egg_batch_size: [
+      { min: 3, max: 4 }
+    ],
+    dig_sites: ["Horseshoe Canyon", "Formation A"],
+    security_rating: 5,
+    minimum_population: 2,
+    environment: [
+      { water: 6, forest: 33, open_space: 61, prey: 0.5 }
+    ],
+    cohabitation: [
+      { dislikes: ["Carnivores", "Therizinosaurus"] }
+    ]
+  },
+  {
+    id: 9,
+    name: "Attenborosaurus",
+    slug: "attenborosaurus",
+    image: "/images/attenborosaurus.webp",
+    description: "Named after the esteemed British natural historian David Attenborough, Attenborosaurus is a genus of pliosaurid that grows up to 6.4m in length. Notable for its long neck and paddle-like limbs, this piscivorous marine reptile can move through the water at high speeds, catching prey with its long, sharp teeth.",
+    discovery: "Attenborosaurus’ discovery is an interesting story; the first fossils were found in the United Kingdom in 1880 but were destroyed during the Second World War. Luckily, detailed plaster casts were made, allowing researchers to examine everything but the skin. Although the discovery was initially classified as another species of Plesiosaurus, analysis of the plaster casts confirmed that this was an entirely new genus. In 1993, American palaeontologist Bob Bakker gave the genus its name, in honour of Attenborough’s life’s work.",
+    paleology: "Attenborosaurus lived approximately 190-200 million years ago during the Early Jurassic period, and roamed the warm waters just off the south coast of the United Kingdom, existing on a diet of fish and other marine life.",
+    era: "Early Jurassic",
+    family: "Pliosauridae",
+    genus: "Attenborosaurus",
+    height: 0.9,
+    length: 6.4,
+    weight: 1100,
+    diet: ["Shoal"],
+    egg_batch_size: [
+      { min: 3, max: 5 }
+    ],
+    dig_sites: ["Jurassic Coast B"],
+    security_rating: 1,
+    minimum_population: 3,
+    environment: [
+      { open_space: 100, fish: 0.4 }
+    ],
+    cohabitation: [
+      { likes: ["Marine (Medium)", "Marine (Small)"] }
+    ]
+  },
+  {
+    id: 10,
+    name: "Baryonyx",
+    slug: "baryonyx",
+    image: "/images/baryonyx.webp",
+    description: "The large theropod Baryonyx can grow up to 10m in length and is notable for its crocodile-like jaws. Baryonyx is primarily a piscivore – although it lives on land, it can grab fish out of rivers with its long claws, and swim in shallow waters to catch prey with its long, serrated teeth. It is believed that Baryonyx is also a scavenger, feeding on the carcasses of smaller dinosaurs on land.",
+    discovery: "Baryonyx – translated to ‘heavy claw’ - was discovered in 1983 by an amateur fossil collector from the United Kingdom named William J. Walker, while surveying the clay pits of modern-day Surrey. His initial discovery consisted of a giant claw as well as some other bones, and further investigation unearthed a near-complete Baryonyx skeleton (now housed in the Natural History Museum in London).",
+    paleology: "Baryonyx lived in the Early Cretaceous period, around 125m years ago, co-existed with other dinosaurs including Polocanthus, Iguanodon and Valdosaurus in parts of northern Europe and Africa. Baryonyx’s mainly fish-based diet suggests it preferred to live close to shallow water, roaming near rivers and marshes.",
+    era: "Early Cretaceous",
+    family: "Spinosauridae",
+    genus: "Baryonyx",
+    height: 2.6,
+    length: 9.3,
+    weight: 1700,
+    diet: ["Piscivore", "Carnivore","Live Prey"],
+    egg_batch_size: [
+      { min: 1, max: 3 }
+    ],
+    dig_sites: ["Isle of Wight", "Smokejack Clay Pit"],
+    security_rating: 4,
+    minimum_population: 1,
+    environment: [
+      { water: 37, forest: 44, sand: 1, rock: 19, open_space: 63, prey: 0.5, fish: 0.4, tall_leaf: 8, ground_leaf: 8, ground_fruit: 32 }
+    ],
+    cohabitation: [
+      { likes: ["Scavenger", "Suchomimus"], dislikes: ["Carnivores", "Therizinosaurus"] }
+    ]
   }
 ];
