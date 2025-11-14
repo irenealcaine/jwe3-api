@@ -1,5 +1,5 @@
 import express from "express";
-import { getAllDinosaurs, getDinosaurById } from "../services/dinosaur.services.js";
+import { getAllDinosaurs, getDinosaurBySlug } from "../services/dinosaurs.services.js";
 
 const router = express.Router();
 
@@ -8,12 +8,13 @@ router.get("/", (req, res) => {
   res.json(list);
 });
 
-router.get("/:id", (req, res) => {
-  const dino = getDinosaurById(req.params.id);
+
+router.get("/:slug", (req, res) => {
+  const dino = getDinosaurBySlug(req.params.slug);
   if (dino) {
     res.json(dino);
   } else {
-    res.status(404).json({ message: "Dinosaurio no encontrado" });
+    res.status(404).json({ message: "Dinosaurio no encontrado (slug)" });
   }
 });
 

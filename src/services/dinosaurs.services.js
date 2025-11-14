@@ -23,6 +23,6 @@ export const getAllDinosaurs = () => {
   return dinosaurs.map(d => pick(d, briefFields));
 };
 
-export const getDinosaurById = (id) => {
-  return dinosaurs.find(d => d.id === parseInt(id));
+export const getDinosaurBySlug = (slug) => {
+  return dinosaurs.find(d => d.slug === slug);
 };
