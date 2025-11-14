@@ -14,6 +14,9 @@ app.use("/images", express.static("public/images"));
 app.use("/api/dinosaurs", dinosaurRoutes);
 
 // 🔹 Arranque del servidor
-app.listen(3000, () => {
-  console.log("🦕 Servidor en marcha → http://localhost:3000");
+const PORT = process.env.PORT || 3000;
+
+app.listen(PORT, () => {
+  console.log(`🦕 Servidor en marcha → http://localhost:${PORT}`);
 });
+
