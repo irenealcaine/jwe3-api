@@ -14,7 +14,10 @@
     "length": 12,
     "weight": 7000,
     "diet": [
-      "Carnivore",
+      "Carnivore"
+    ],
+    "feeder": [
+      "Meat",
       "Live Prey"
     ],
     "egg_batch_size": [
@@ -37,6 +40,7 @@
         "prey": 1.00
       }
     ],
+    "territory": "land",
     "cohabitation": [
       {
         "likes": [
@@ -47,7 +51,8 @@
           "Therizinosaurus"
         ]
       }
-    ]
+    ],
+    "game": "Base game"
   },
   {
     "id": 2,
@@ -64,7 +69,10 @@
     "length": 9.5,
     "weight": 4000,
     "diet": [
-      "Carnivore",
+      "Carnivore"
+    ],
+    "feeder": [
+      "Meat",
       "Live Prey"
     ],
     "egg_batch_size": [
@@ -87,6 +95,7 @@
         "prey": 0.5
       }
     ],
+    "territory": "land",
     "cohabitation": [
       {
         "likes": [
@@ -98,7 +107,8 @@
           "Therizinosaurus"
         ]
       }
-    ]
+    ],
+    "game": "Base game"
   },
   {
     "id": 3,
@@ -115,7 +125,10 @@
     "length": 12.1,
     "weight": 2300,
     "diet": [
-      "Carnivore",
+      "Carnivore"
+    ],
+    "feeder": [
+      "Meat",
       "Live Prey"
     ],
     "egg_batch_size": [
@@ -139,6 +152,7 @@
         "prey": 0.5
       }
     ],
+    "territory": "land",
     "cohabitation": [
       {
         "likes": [
@@ -151,7 +165,8 @@
           "Therizinosaurus"
         ]
       }
-    ]
+    ],
+    "game": "Base game"
   },
   {
     "id": 4,
@@ -168,6 +183,9 @@
     "length": 28,
     "weight": 2300,
     "diet": [
+      "Herbivore"
+    ],
+    "feeder": [
       "Tall Palaeobotany"
     ],
     "egg_batch_size": [
@@ -186,6 +204,7 @@
         "tall_leaf": 8
       }
     ],
+    "territory": "land",
     "cohabitation": [
       {
         "likes": [
@@ -193,7 +212,8 @@
           "Diplodocus"
         ]
       }
-    ]
+    ],
+    "game": "Base game"
   },
   {
     "id": 5,
@@ -210,6 +230,9 @@
     "length": 9.6,
     "weight": 8000,
     "diet": [
+      "Herbivore"
+    ],
+    "feeder": [
       "Ground Palaeobotany"
     ],
     "egg_batch_size": [
@@ -232,6 +255,7 @@
         "ground_fruit": 32
       }
     ],
+    "territory": "land",
     "cohabitation": [
       {
         "likes": [
@@ -249,7 +273,8 @@
           "Therizinosaurus"
         ]
       }
-    ]
+    ],
+    "game": "Base game"
   },
   {
     "id": 6,
@@ -266,6 +291,9 @@
     "length": 27,
     "weight": 20000,
     "diet": [
+      "Herbivore"
+    ],
+    "feeder": [
       "Tall Palaeobotany"
     ],
     "egg_batch_size": [
@@ -289,6 +317,7 @@
         "tall_leaf": 32
       }
     ],
+    "territory": "land",
     "cohabitation": [
       {
         "likes": [
@@ -306,7 +335,8 @@
           "Scorpios rex"
         ]
       }
-    ]
+    ],
+    "game": "Base game"
   },
   {
     "id": 7,
@@ -323,6 +353,9 @@
     "length": 3.3,
     "weight": 50,
     "diet": [
+      "Herbivore"
+    ],
+    "feeder": [
       "Ground Palaeobotany"
     ],
     "egg_batch_size": [
@@ -344,6 +377,7 @@
         "ground_fruit": 46
       }
     ],
+    "territory": "land",
     "cohabitation": [
       {
         "likes": [
@@ -358,7 +392,8 @@
           "Therizinosaurus"
         ]
       }
-    ]
+    ],
+    "game": "Base game"
   },
   {
     "id": 8,
@@ -375,7 +410,10 @@
     "length": 3.9,
     "weight": 226,
     "diet": [
-      "Carnivore",
+      "Carnivore"
+    ],
+    "feeder": [
+      "Meat",
       "Live Prey"
     ],
     "egg_batch_size": [
@@ -398,6 +436,7 @@
         "prey": 0.5
       }
     ],
+    "territory": "land",
     "cohabitation": [
       {
         "dislikes": [
@@ -405,7 +444,8 @@
           "Therizinosaurus"
         ]
       }
-    ]
+    ],
+    "game": "Base game"
   },
   {
     "id": 9,
@@ -422,7 +462,10 @@
     "length": 6.4,
     "weight": 1100,
     "diet": [
-      "Shoal"
+      "Piscivore"
+    ],
+    "feeder": [
+      "Fish"
     ],
     "egg_batch_size": [
       {
@@ -441,6 +484,7 @@
         "fish": 0.4
       }
     ],
+    "territory": "water",
     "cohabitation": [
       {
         "likes": [
@@ -448,7 +492,8 @@
           "Marine (Small)"
         ]
       }
-    ]
+    ],
+    "game": "Base game"
   },
   {
     "id": 10,
@@ -465,9 +510,13 @@
     "length": 9.3,
     "weight": 1700,
     "diet": [
-      "Piscivore",
       "Carnivore",
-      "Live Prey"
+      "Piscivore"
+    ],
+    "feeder": [
+      "Meat",
+      "Live Prey",
+      "Fish"
     ],
     "egg_batch_size": [
       {
@@ -488,6 +537,7 @@
         "rock": 19
       }
     ],
+    "territory": "land",
     "cohabitation": [
       {
         "likes": [
@@ -499,6 +549,7 @@
           "Therizinosaurus"
         ]
       }
-    ]
+    ],
+    "game": "Base game"
   }
 ]

@@ -14,7 +14,7 @@ router.get("/:slug", (req, res) => {
   if (dino) {
     res.json(dino);
   } else {
-    res.status(404).json({ message: "Dinosaurio no encontrado (slug)" });
+    res.status(404).json({ message: "Dinosaurio no encontrado (slug incorrecto)" });
   }
 });
 
