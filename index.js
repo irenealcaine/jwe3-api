@@ -1,6 +1,6 @@
 import express from "express";
 import cors from "cors";
-import dinosaurRoutes from "./src/routes/dinosaurs.js";
+import dinosaurRoutes from "./src/routes/dinosaurs.routes.js";
 
 const app = express();
 app.use(cors());
