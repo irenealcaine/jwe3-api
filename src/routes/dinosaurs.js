@@ -1,5 +1,5 @@
 import express from "express";
-import { dinosaurs } from "../data/dinosaurs.js";
+import dinosaurs from "../data/dinosaurs.json" with { type: "json" };
 
 const router = express.Router();
 
