@@ -551,5 +551,101 @@
       }
     ],
     "game": "Base game"
+  },
+  {
+    "id": 11,
+    "name": "Brachiosaurus ",
+    "slug": "brachiosaurus",
+    "image": "/images/brachiosaurus.webp",
+    "description": "Brachiosaurus is a genus of herbivorous sauropod and one of the largest dinosaurs to have lived, weighing in at over 50 tonnes. Thanks to its long neck, Brachiosaurus can feed on leaves from trees up to 12 metres high, eating up to 400kg of vegetation every day, while its vast size means any potential predators tend to steer clear.",
+    "discovery": "The first Brachiosaurus fossils were uncovered in 1900 in the Morrison Formation, Colorado, and credited to Elmer S. Riggs, a celebrated American palaeontologist. At the time, Brachiosaurus was considered to be the biggest dinosaur ever to have existed, although larger specimens have been discovered since.",
+    "paleology": "The location of fossils found dates Brachiosaurus to the Late Jurassic period, around 140-150m years ago, and co-existed with many other dinosaurs including the notorious Allosaurus and Ceratosaurus. While Brachiosaurus mainly lived in the western United States, remains have been found as far away as Portugal and Tanzania.",
+    "era": "Late Jurassic",
+    "family": "Brachiosauridae",
+    "genus": "Brachiosaurus",
+    "height": 12.4,
+    "length": 21.5,
+    "weight": 56000,
+    "diet": [
+      "Herbivore"
+    ],
+    "feeder": [
+      "Tall Palaeobotany"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 1,
+        "max": 2
+      }
+    ],
+    "dig_sites": [
+      "Cleveland Lloyd Dinosaur",
+      "Quarry A",
+      "Garden Park",
+      "Morrison Formation C"
+    ],
+    "security_rating": 4,
+    "minimum_population": 1,
+    "environment": [
+      {
+        "water": 3,
+        "forest": 32,
+        "open_space": 16,
+        "tall_nut": 48
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "Apatosaurus",
+          "Camarasaurus",
+          "Ornithomimosaurid",
+          "Ceratopsid",
+          "Ankylosaurid",
+          "Hadrosaurid",
+          "Pachycephalosaurid",
+          "Stegosaurid"
+        ],
+        "dislikes": [
+          "Sauropod",
+          "Indominus rex",
+          "Scorpios rex"
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+  {
+    "id": 12,
+    "name": "Caiuajara ",
+    "slug": "caiuajara",
+    "image": "/images/caiuajara.webp",
+    "description": "A flying reptile with a large bony fin on its snout, the Caiuajara had a tough beak and no teeth. It could boast a wingspan of over 2 metres, and these sociable flying reptiles lived in colonies of mature adults. They likely matured in nurseries of young and sub-mature animals living together.",
+    "discovery": "The Caiuajara was discovered in a rare pterosaur bone bed known as the Pterosaur Graveyard. Dating from the Upper Cretaceous, this site included at least 47 different individuals. Found in southern Brazil, where once had been a Cretaceous desert, the new pterosaur was named after the formation it was found within.",
+    "paleology": "The Caiuajara lived during the Cretaceous period in the desert dunes of what is now southern Brazil. They congregated near inland sand lakes and faced the risk of death from desert storms.",
+    "era": "Late Cretaceous",
+    "family": "Tapejaridae",
+    "genus": "Caiuajara",
+    "height": 1.3,
+    "length": 2.5,
+    "weight": 3.5,
+    "diet": [
+      "Piscivore",
+      "Carnivore"
+    ],
+    "feeder": [
+      "Fish",
+      "Live Prey"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 2,
+        "max": 4
+      }
+    ],
+    "territory": "sky",
+    
+    "game": "Base game"
   }
 ]
