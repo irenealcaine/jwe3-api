@@ -647,5 +647,237 @@
     "territory": "sky",
     
     "game": "Base game"
+  },
+{
+    "id": 13,
+    "name": "Carnotaurus",
+    "slug": "carnotaurus",
+    "image": "/images/carnotaurus.webp",
+    "description": "Notable for the thick horns above its eyes, Carnotaurus is a theropod from the Late Cretaceous period. Weighing around 2 tonnes and spanning 10m in length with two rows of long, sharp teeth, this carnivorous dinosaur was the apex predator of its era – and the combination of its unique horns and flesh-ripping teeth gave Carnotaurus its name, meaning ‘meat-eating bull’.",
+    "discovery": "Everything that is known about Carnotaurus comes from a single near-complete skeleton, discovered by Argentine palaeontologist José Bonaparte. The fossils were unearthed in Chubut Province, Argentina in 1984, with further exploration of the area uncovering numerous skin patches from the same dinosaur.",
+    "paleology": "Carnotaurus lived among the lakes and lagoons of South America around 70m years ago, preferring the warmth and humidity of this environment. It lived alongside various species of dinosaur as well as crocodiles and turtles, using its powerful hind legs to catch smaller prey such as Niebla antiqua.",
+    "era": "Late Cretaceous",
+    "family": "Abelisauridae",
+    "genus": "Carnotaurus",
+    "height": 2.9,
+    "length": 10.4,
+    "weight": 2100,
+    "diet": [
+      "Carnivore"
+    ],
+    "feeder": [
+      "Meat",
+      "Live Prey"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 2,
+        "max": 4
+      }
+    ],
+    "dig_sites": [
+      "La Colonia Formation"
+    ],
+    "security_rating": 5,
+    "minimum_population": 2,
+    "environment": [
+      {
+        "water": 5,
+        "sand": 48,
+        "open_space": 48,
+        "prey": 0.50
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "Majungasaurus",
+          "Albertosaurus",
+          "Scavenger"
+        ],
+        "dislikes": [
+          "Small Carnivores",
+          "Therizinosaurus"
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+{
+    "id": 14,
+    "name": "Ceratosaurus",
+    "slug": "ceratosaurus",
+    "image": "/images/ceratosaurus.webp",
+    "description": "At around 7m in length and just under one tonne in weight, Ceratosaurus is an average-sized theropod from the Late Jurassic period. This carnivore is best known for the large horn on its snout and two further horns above its eyes, which gave rise to its name – Ceratosaurus translates to ‘horned lizard’.",
+    "discovery": "The first discovery of Ceratosaurus came in 1883, when Marshall Parker Felch dug up a near-complete skeleton in Cañon City, Colorado – one of many dinosaurs found in the area around this time. Further Ceratosaurus remains have been found across North America, with some fossils unearthed as far away as Portugal and Tanzania.",
+    "paleology": "Ceratosaurus lived in North America around 150m years ago and co-existed with larger dinosaurs including Apatosaurus and the fearsome apex predator Allosaurus. As a carnivore further down the food chain, Ceratosaurus kept clear of larger dinosaurs, prowling the forests for smaller herbivores to prey upon.",
+    "era": "Late Jurassic",
+    "family": "Ceratosauridae",
+    "genus": "Ceratosaurus",
+    "height": 2,
+    "length": 7,
+    "weight": 700,
+    "diet": [
+      "Carnivore"
+    ],
+    "feeder": [
+      "Meat",
+      "Live Prey"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 1,
+        "max": 3
+      }
+    ],
+    "dig_sites": [
+      "Lourinhã Formation A",
+      "Morrison Formation A"
+    ],
+    "security_rating": 5,
+    "minimum_population": 2,
+    "environment": [
+      {
+        "water": 6,
+        "forest": 31,
+        "open_space": 62,
+        "prey": 0.5
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "Allosaurus",
+          "Oviraptor",
+          "Smaller Carnivores"
+        ],
+        "dislikes": [
+          "Large Carnivores",
+          "Medium Carnivores",
+          "Small Carnivores"
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+{
+    "id": 15,
+    "name": "Chasmosaurus",
+    "slug": "chasmosaurus",
+    "image": "/images/chasmosaurus.webp",
+    "description": "The herbivore Chasmosaurus is a genus of ceratopsid dinosaur with a similar appearance to Triceratops, although it is significantly smaller than its more well-known relative. Chasmosaurus weighs around one and a half tonnes and spans approximately 7.5m in length and is notable for the three horns on its face and large frill on its neck.",
+    "discovery": "Chasmosaurus was discovered in 1898 by Canadian palaeontologist Lawrence Morris Lambe, who excavated part of the dinosaur’s neck frill from Berry Creek, California. It was initially classified as a genus of Monoclonius, but later findings confirmed it was a new discovery. Further remains have been found in the intervening years, allowing experts to define new species within the Chasmosaurus genus.",
+    "paleology": "Chasmosaurus lived in Canada during the Late Cretaceous period, around 75m years ago, and existed alongside numerous other dinosaurs including Centrosaurus and the infamous Tyrannosaur rex. It used its powerful, durable beak to tear plants out of the ground, while its tough skin protected it from predators.",
+    "era": "Late Cretaceous",
+    "family": "Ceratopsidae",
+    "genus": "Chasmosaurus",
+    "height": 3.8,
+    "length": 7.5,
+    "weight": 1500,
+    "diet": [
+      "Herbivore"
+    ],
+    "feeder": [
+      "Ground Palaeobotany"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 2,
+        "max": 5
+      }
+    ],
+    "dig_sites": [
+      "Scollard Formation A",
+      "Horseshoe Canyon",
+      "Formation A",
+      "Dinosaur Park Formation B"
+    ],
+    "security_rating": 3,
+    "minimum_population": 1,
+    "environment": [
+      {
+        "water": 4,
+        "forest": 19,
+        "open_space": 39
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "Pachyrhinosaurus",
+          "Styracosaurus",
+          "Ankylosaurid"
+        ],
+        "dislikes": [
+          "Dr. Wu Hybrids",
+          "Ceratopsid",
+          "Stegosaurid",
+          "Therizinosaurus"
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+{
+    "id": 15,
+    "name": "Chungkingosaurus",
+    "slug": "chungkingosaurus",
+    "image": "/images/chungkingosaurus.webp",
+    "description": "Chungkingosaurus is an herbivorous dinosaur from the stegosauria suborder and gets its name from the location of its discovery, Chongqing in Sichuan, China. At around 3m in length, Chungkingosaurus is one of the smaller Stegosauria, with distinctive spikes adorning its neck, back and tail that help it to protect itself from predators.",
+    "discovery": "The first Chungkingosaurus was discovered in 1977, when a group of Chinese palaeontologists excavated numerous bones including part of a skeleton, back plates and tail vertebrae. In 1983, Dong Zhiming – one of the group that unearthed the first Chungkingosaurus artefact – officially classified it as a member of the Stegosaurinae family.",
+    "paleology": "Chungkingosaurus lived during the Late Jurassic period, approximately 150m years ago, across much of Asia – in particular the Chongqing and Guizhou region of China. It roamed forest areas with many larger Sauropods including Mamenchisaurus, while steering clear of predators such as Szechuanosaurus.",
+    "era": "Late Jurassic",
+    "family": "Huayangosauridae",
+    "genus": "Chungkingosaurus",
+    "height": 1,
+    "length": 3.2,
+    "weight": 1500,
+    "diet": [
+      "Herbivore"
+    ],
+    "feeder": [
+      "Ground Palaeobotany"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 1,
+        "max": 3
+      }
+    ],
+    "dig_sites": [
+      "Ziliujing Formation A"
+    ],
+    "security_rating": 5,
+    "minimum_population": 1,
+    "environment": [
+      {
+        "water": 7,
+        "open_space": 72,
+        "ground_fruit": 21
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "Gigantspinosaurus",
+          "Sauropod",
+          "Ornithomimosaurid",
+          "Hadrosaurid",
+          "Pachycephalosaurid"
+        ],
+        "dislikes": [
+          "Dr. Wu Hybrids",
+          "Ceratopsid",
+          "Ankylosaurid",
+          "Stegosaurid",
+          "Therizinosaurus"
+        ]
+      }
+    ],
+    "game": "Base game"
   }
 ]
