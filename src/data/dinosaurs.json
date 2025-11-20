@@ -879,5 +879,116 @@
       }
     ],
     "game": "Base game"
+  },
+{
+    "id": 16,
+    "name": "Coelophysis",
+    "slug": "coelophysis",
+    "image": "/images/coelophysis.webp",
+    "description": "The small theropod Coelophysis is one of the earliest dinosaurs to have walked the earth, dating back 190-225m years to the Triassic period. Its name translates to ‘hollow form’ in reference to its hollow leg bones, which allow it to reach speeds of up to 25mph thanks to its light frame. Coelophysis is a carnivore and uses its sharp teeth and talons to catch its prey.",
+    "discovery": "Coelophysis was discovered in 1881 by amateur dinosaur enthusiast David Baldwin in New Mexico, although it wasn’t officially named until it was studied by expert Edward Drinker Cope in 1889. The first fossils found were of very poor quality, and it wasn’t until 1947 that Coelophysis was fully understood, when a large number of bones were found near to the original discovery site.",
+    "paleology": "Coelophysis fossils have been found across the world, from North America to the South of Africa and China. It co-existed with many other dinosaurs and reptiles in dry environments, feeding on small crocodiles and insects as well as scavenging on the carcasses of other dinosaurs.",
+    "era": "Late Triassic",
+    "family": "Coelophysidae",
+    "genus": "Coelophysis",
+    "height": 1.3,
+    "length": 3,
+    "weight": 18,
+    "diet": [
+      "Carnivore"
+    ],
+    "feeder": [
+      "Meat",
+      "Live Prey"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 4,
+        "max": 6
+      }
+    ],
+    "dig_sites": [
+      "Ghost Ranch"
+    ],
+    "security_rating": 1,
+    "minimum_population": 6,
+    "environment": [
+      {
+        "water": 7,
+        "forest": 16,
+        "open_space": 77,
+        "prey": 0.20
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "Everything"
+        ],
+        "dislikes": [
+          "Indominus rex",
+          "Indoraptor",
+          "Scorpios rex"
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+{
+    "id": 17,
+    "name": "Compsognathus",
+    "slug": "compsognathus",
+    "image": "/images/compsognathus.webp",
+    "description": "Compsognathus is one of the smallest theropods ever to have existed, at under 1m in length and weighing little over 2kg – roughly the size of a chicken. Despite its small stature Compsognathus is a carnivore, using its speed and agility to hunt down lizards, insects and even other small dinosaurs. Compsognathus’ name translates to ‘pretty jaw’, a reference to its long, narrow snout.",
+    "discovery": "This dinosaur was discovered by fossil collector Joseph Oberndorfer in around 1859 and formed part of a collection of bones he excavated in Bavaria, Germany. The discovery consisted of a near-complete skeleton and was the only known Compsognathus specimen until over a century later in 1971, when another partial skeleton was found in Nice, France.",
+    "paleology": "Compsognathus existed during the Late Jurassic period around 150 million years ago and roamed the lagoons and beaches of Central Europe, which was comprised of many smaller islands at the time. It lived alongside numerous other dinosaurs and lizards – in fact, examination of the Bavarian skeleton’s stomach found the remains of a Bavarisaurus, a small lizard.",
+    "era": "Late Jurassic",
+    "family": "Compsognathidae",
+    "genus": "Compsognathus",
+    "height": 0.3,
+    "length": 1,
+    "weight": 2.3,
+    "diet": [
+      "Carnivore"
+    ],
+    "feeder": [
+      "Meat",
+      "Live Prey"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 4,
+        "max": 6
+      }
+    ],
+    "dig_sites": [
+      "Solnhofen Formation",
+      "Canjuers"
+    ],
+    "security_rating": 1,
+    "minimum_population": 8,
+    "environment": [
+      {
+        "water": 5,
+        "sand": 48,
+        "open_space": 48,
+        "prey": 0.10
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "Everything"
+        ],
+        "dislikes": [
+          "Indominus rex",
+          "Indoraptor",
+          "Scorpios rex"
+        ]
+      }
+    ],
+    "game": "Base game"
   }
 ]
