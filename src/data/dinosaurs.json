@@ -990,5 +990,117 @@
       }
     ],
     "game": "Base game"
+  },
+{
+    "id": 18,
+    "name": "Concavenator",
+    "slug": "concavenator",
+    "image": "/images/concavenator.webp",
+    "description": "Notable for the large crest on its back, Concavenator is a carnivorous theropod that dates back around 130 million years to the Early Cretaceous period. This genus can grow up to 6m in length and over 800lbs in weight, with a long tail for maintaining balance and a pronounced triangular crest above its hips. Experts believe the crest may be used to regulate temperature or act as a display for attracting a mate.",
+    "discovery": "This genus was first discovered in La Huérguina Formation, Spain by palaeontologists José Luis Sanz, Francisco Ortega and Fernando Escaso, and was formally named Concavenator in 2010 – the name translates to ‘Cuenca hunter with a hump’ referring to the location of its discovery and its most striking feature.",
+    "paleology": "Concavenator lived in the wet, woodland areas of Spain and western Europe, and fed on smaller therapods and mammals, using its serrated teeth to tear through the flesh of its prey. It shared its habitat with a wide range of dinosaurs including Euronychodon, Richardoestesia and Pelecanimimus.",
+    "era": "Early Cretaceous",
+    "family": "Carcharodontosauridae",
+    "genus": "Concavenator",
+    "height": 2,
+    "length": 6,
+    "weight": 400,
+    "diet": [
+      "Carnivore"
+    ],
+    "feeder": [
+      "Meat",
+      "Live Prey"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 1,
+        "max": 2
+      }
+    ],
+    "dig_sites": [
+      "La Huérguina Formation"
+    ],
+    "security_rating": 4,
+    "minimum_population": 1,
+    "environment": [
+      {
+        "water": 35,
+        "forest": 33,
+        "open_space": 33,
+        "prey": 0.50
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "Scavenger"
+        ],
+        "dislikes": [
+          "Carnivores",
+          "Therizinosaurus"
+        ]
+      }
+    ],
+    "game": "Deluxe pack edition"
+  },
+{
+    "id": 19,
+    "name": "Corythosaurus",
+    "slug": "corythosaurus",
+    "image": "/images/corythosaurus.webp",
+    "description": "Named after the distinctive crest on the top of its head – Corythosaurus translates to ‘helmet lizard’ – this herbivorous Hadrosaurid lived around 75m years ago during the Late Cretaceous period. Corythosaurus weighed around four tonnes and grew up to 9m in length, making it one of the largest Hadrosaurids, with a bill-shaped snout and thousands of small teeth for chewing through tough vegetation.",
+    "discovery": "Corythosaurus was discovered in 1911 by renowned American palaeontologist Barnum Brown, who unearthed a near-complete skeleton in Red Deer River, a city in Alberta, Canada. Brown – known as ‘Mr. Bones’ thanks to his stellar reputation in his field – also excavated a significant amount of skin, allowing him to understand more about the genus.",
+    "paleology": "Corythosaurus lived in the forests of North America, co-existing with other large herbivores including Parasaurolophus and Centrosaurus. Studies have shown that these dinosaurs all had different jaw structures, suggesting that they had separate diets that allowed them to live alongside one another without competing for food.",
+    "era": "Late Cretaceous",
+    "family": "Hadrosauridae",
+    "genus": "Corythosaurus",
+    "height": 3.1,
+    "length": 9,
+    "weight": 4000,
+    "diet": [
+      "Herbivore"
+    ],
+    "feeder": [
+      "Ground Palaeobotany"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 2,
+        "max": 4
+      }
+    ],
+    "dig_sites": [
+      "Dinosaur Park Formation B",
+      "Lance Formation Site B",
+      "Scollard Formation A"
+    ],
+    "security_rating": 2,
+    "minimum_population": 4,
+    "environment": [
+      {
+        "water": 6,
+        "open_space": 63,
+        "ground_fiber": 31
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "Sauropod",
+          "Ornithomimosaurid",
+          "Ceratopsid",
+          "Ankylosaurid",
+          "Stegosaurid"
+        ],
+        "dislikes": [
+          "Dr. Wu Hybrids",
+          "Therizinosaurus"
+        ]
+      }
+    ],
+    "game": "Base game"
   }
 ]
