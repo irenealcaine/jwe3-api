@@ -822,7 +822,7 @@
     "game": "Base game"
   },
 {
-    "id": 15,
+    "id": 16,
     "name": "Chungkingosaurus",
     "slug": "chungkingosaurus",
     "image": "/images/chungkingosaurus.webp",
@@ -881,7 +881,7 @@
     "game": "Base game"
   },
 {
-    "id": 16,
+    "id": 17,
     "name": "Coelophysis",
     "slug": "coelophysis",
     "image": "/images/coelophysis.webp",
@@ -936,7 +936,7 @@
     "game": "Base game"
   },
 {
-    "id": 17,
+    "id": 18,
     "name": "Compsognathus",
     "slug": "compsognathus",
     "image": "/images/compsognathus.webp",
@@ -992,7 +992,7 @@
     "game": "Base game"
   },
 {
-    "id": 18,
+    "id": 19,
     "name": "Concavenator",
     "slug": "concavenator",
     "image": "/images/concavenator.webp",
@@ -1046,7 +1046,7 @@
     "game": "Deluxe pack edition"
   },
 {
-    "id": 19,
+    "id": 20,
     "name": "Corythosaurus",
     "slug": "corythosaurus",
     "image": "/images/corythosaurus.webp",
@@ -1097,6 +1097,169 @@
         ],
         "dislikes": [
           "Dr. Wu Hybrids",
+          "Therizinosaurus"
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+{
+    "id": 21,
+    "name": "Deinonychus",
+    "slug": "deinonychus",
+    "image": "/images/deinonychus.webp",
+    "description": "Deinonychus is a genus of theropod that existed around 110m years ago during the Early Cretaceous period. Its name translates to ‘terrible claw’, a reference to the long, scything talon on the second toe of its hind feet, which Deinonychus uses to defend itself from predators and attack its prey. Deinonychus is a close relative of Velociraptor and can grow up to 3m in length.",
+    "discovery": "Barnum Brown, known colloquially as ‘Mr. Bones’, discovered the first Deinonychus fossils in 1931 while exploring the Cloverly Formation in Montana in search of Tenontosaurus remains. During the mid-1960s over a thousand more Deinonychus bones were discovered near the location of the original find, allowing researchers to gain a much better understanding of Deinonychus’ appearance and behaviour.",
+    "paleology": "Deinonychus lived on the floodplains of the western states of the United States and Canada, roaming nearby forests and lagoons. It co-existed with – and preyed upon - many dinosaurs including Acrocanthosaurus and Sauropelta, and preferred to hunt alone rather than in packs.",
+    "era": "Early Cretaceous",
+    "family": "Dromaeosauridae",
+    "genus": "Deinonychus",
+    "height": 1.6,
+    "length": 3.2,
+    "weight": 100,
+    "diet": [
+      "Carnivore"
+    ],
+    "feeder": [
+      "Meat",
+      "Live Prey"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 3,
+        "max": 5
+      }
+    ],
+    "dig_sites": [
+      "Cedar Mountain Formation",
+      "Cloverly Formation"
+    ],
+    "security_rating": 5,
+    "minimum_population": 3,
+    "environment": [
+      {
+        "water": 7,
+        "forest": 27,
+        "open_space": 67,
+        "prey": 0.30
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "Scavenger"
+        ],
+        "dislikes": [
+          "Carnivores",
+          "Therizinosaurus"
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+{
+    "id": 22,
+    "name": "Dilophosaurus",
+    "slug": "dilophosaurus",
+    "image": "/images/dilophosaurus.webp",
+    "description": "Dilophosaurus is a genus of large carnivorous theropod, averaging around 3m in length and 300kg in weight. It gets its name – which translates to ‘two-crested lizard’ - from the distinctive crests that sit atop its head, which are used to attract mates for reproduction. Dilophosaurus’ slender build means it can move at high speeds, while its powerful jaw allows it to keep hold of prey as it struggles to escape.",
+    "discovery": "The first Dilophosaurus fossils were discovered by American palaeontologist Charles L. Camp in Arizona in 1940. For many years the genus was misclassified as a Megalosaurus - it wasn’t until 1970 that fellow dinosaur expert Samuel P. Welles declared it a new genus after realising remains that had been wrongly described as cheek bones were in fact crests – a feature that had not previously been found in a theropod.",
+    "paleology": "Dilophosaurus inhabited the western states of North America during the Early Jurassic period, around 190m years ago. As one of the biggest carnivores of its environment, Dilophosaurus is likely to have preyed on large herbivores – although it may also have eaten fish and small reptiles.",
+    "era": "Early Jurassic",
+    "family": "Dilophosauridae",
+    "genus": "Dilophosaurus",
+    "height": 1.6,
+    "length": 3,
+    "weight": 300,
+    "diet": [
+      "Carnivore"
+    ],
+    "feeder": [
+      "Meat",
+      "Live Prey"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 3,
+        "max": 6
+      }
+    ],
+    "dig_sites": [
+      "Kayenta Formation"
+    ],
+    "security_rating": 5,
+    "minimum_population": 3,
+    "environment": [
+      {
+        "water": 5,
+        "forest": 48,
+        "open_space": 48,
+        "prey": 0.40
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "Scavenger"
+        ],
+        "dislikes": [
+          "Carnivores",
+          "Therizinosaurus"
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+{
+    "id": 23,
+    "name": "Dimetrodon",
+    "slug": "dimetrodon",
+    "image": "/images/dimetrodon.webp",
+    "description": "Although it has a sailed back similar to many dinosaurs, Dimetrodon is actually a primitive synapsid dating back to the Early Permian period, around 290 million years ago – before the existence of even the earliest dinosaurs! The name Dimetrodon means ‘two measures of teeth’, in reference to this apex predator’s razor-sharp teeth that it used to grab and tear flesh from its prey.",
+    "discovery": "The first Dimetrodon fossils were described in 1877 by legendary American palaeontologist Edward Drinker Cope, after he procured them from a group who had excavated the Red Beds rock formation in Texas. Cope officially named the genus Dimetrodon a year later, although he initially believed that the sail was a fin belonging to a lizard.",
+    "paleology": "Dimetrodon remains have been found across the southern United States and even as far away as Germany, dating back to a period when Europe and America formed a supercontinent known as Euramerica. The genus lived alongside a rich variety of primitive animals such as Diplocaulus, Edaphosaurus and Captorhinus, and is believed to have been the apex predator of its environment.",
+    "era": "Early Permian",
+    "family": "Sphenacodontidae",
+    "genus": "Dimetrodon",
+    "height": 1.8,
+    "length": 4.5,
+    "weight": 226,
+    "diet": [
+      "Carnivore"
+    ],
+    "feeder": [
+      "Meat",
+      "Live Prey"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 2,
+        "max": 4
+      }
+    ],
+    "dig_sites": [
+      "Red Beds"
+    ],
+    "security_rating": 2,
+    "minimum_population": 3,
+    "environment": [
+      {
+        "water": 50,
+        "forest": 10,
+        "sand": 40,
+        "prey": 0.30
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "Scavenger"
+        ],
+        "dislikes": [
+          "Carnivores",
           "Therizinosaurus"
         ]
       }
