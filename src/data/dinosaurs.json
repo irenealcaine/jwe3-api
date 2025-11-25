@@ -1265,5 +1265,122 @@
       }
     ],
     "game": "Base game"
+  },
+{
+    "id": 24,
+    "name": "Dimorphodon",
+    "slug": "dimorphodon",
+    "image": "/images/dimorphodon.webp",
+    "description": "The pterosaur Dimorphodon is notable for the size of its head, which is much bigger than found in similar pterosaurs such as Pterodactylus. Its name translates to ‘two-form tooth’, in reference to the two sets of teeth it has, while Dimorphodon is one of the smaller species of pterosaur, weighing just a few kilograms and with a wingspan of around 1.5m.",
+    "discovery": "This genus was discovered by palaeontologist and fossil collector Mary Anning in Dorset, on the south coast of the United Kingdom, in 1828. It was initially classified as a new species of Pterodactylus, but in 1858 Anning’s discovery, then known as Pterodactylus macronyx, was officially classified as a new genus, Dimorphodon.",
+    "paleology": "Dimorphodon lived during the Early Jurassic period, around 190-200m years ago. It lived along the coasts of Europe and was a piscivore, roaming nearby forests to hunt for insects and small animals – although it may also have fed on carrion when it couldn’t find any prey.",
+    "era": "Early Jurassic",
+    "family": "Dimorphodontidae",
+    "genus": "Dimorphodon",
+    "height": 1,
+    "length": 1.5,
+    "weight": 1.9,
+    "diet": [
+      "Piscivore",
+      "Carnivore"
+    ],
+    "feeder": [
+      "Fish",
+      "Live Prey"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 3,
+        "max": 6
+      }
+    ],
+    "dig_sites": [
+      "Jurassic Coast A"
+    ],
+    "security_rating": 1,
+    "minimum_population": 4,
+    "environment": [
+      {
+        "water": 50,
+        "sand": 20,
+        "open_space": 40,
+        "fish": 3
+      }
+    ],
+    "territory": "sky",
+    "cohabitation": [
+      {
+        "likes": [
+          "Quetzalcoatlus"
+        ],
+        "dislikes": [
+          "Indominus rex",
+          "Indoraptor",
+          "Scorpios rex"
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+{
+    "id": 25,
+    "name": "Diplodocus",
+    "slug": "diplodocus",
+    "image": "/images/diplodocus.webp",
+    "description": "Diplodocus is one of the biggest sauropods that has ever existed, at around 12 tonnes in weight and 24m in length. This gentle giant is a herbivore and uses its long neck to feed from tall trees (in fact, Diplodocus’ teeth are strong enough to strip bark) as well as plants and shrubs at ground level, while its vast size discourages predators from attacking.",
+    "discovery": "The first Diplodocus remains were discovered in 1877 by geologist Benjamin Franklin Mudge and palaeontologist Samuel Wendell Williston in Cañon City, Colorado. Many more Diplodocus fossils have since been found nearby, with artefacts unearthed across the west of the United States.",
+    "paleology": "Diplodocus lived in the Morrison Formation around 150m years ago during the Late Jurassic period and tended to live near swamps, where water was easy to come by and there was plenty of vegetation. Once fully grown it would not have had any natural predators, although juveniles may have been targeted by Allosaurus and Ceratosaurus.",
+    "era": "Late Jurassic",
+    "family": "Diplodocidae",
+    "genus": "Diplodocus",
+    "height": 4,
+    "length": 24,
+    "weight": 12000,
+    "diet": [
+      "Herbivore"
+    ],
+    "feeder": [
+      "Tall Palaeobotany"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 1,
+        "max": 2
+      }
+    ],
+    "dig_sites": [
+      "Dinosaur National ",
+      "Monument A",
+      "Garden Park",
+      "Morrison Formation C"
+    ],
+    "security_rating": 3,
+    "minimum_population": 2,
+    "environment": [
+      {
+        "water": 3,
+        "forest": 45,
+        "open_space": 19
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "Ornithomimosaurid",
+          "Ceratopsid",
+          "Ankylosaurid",
+          "Hadrosaurid",
+          "Pachycephalosaurid",
+          "Stegosaurid"
+        ],
+        "dislikes": [
+          "Sauropod",
+          "Indominus rex",
+          "Scorpios rex"
+        ]
+      }
+    ],
+    "game": "Base game"
   }
 ]
