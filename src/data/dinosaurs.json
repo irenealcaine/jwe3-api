@@ -1441,5 +1441,111 @@
       }
     ],
     "game": "Base game"
+  },
+{
+    "id": 27,
+    "name": "Dryosaurus",
+    "slug": "dryosaurus",
+    "image": "/images/dryosaurus.webp",
+    "description": "Dryosaurus is a genus of ornithopod dinosaur that lived during the Late Jurassic period, around 140-155m years ago. It weighs around 80-90kg and can reach up to 5m in length, with strong legs for running at speed and a stiff tail for retaining balance – both key attributes for escaping predators. Its name translates to ‘tree lizard’, in reference to its preference for forest areas.",
+    "discovery": "This genus was discovered in 1876 by American palaeontologist Samuel Wendell Williston in Wyoming, USA, although it wasn’t until 1894 that is was classified as a new genus of dinosaur. Many more Dryosaurus fossils were unearthed during the 20th Century, providing examples of the genus at various ages.",
+    "paleology": "Dryosaurus lived in the Morrison Formation in the western United States, co-existing with various dinosaurs including Stegosaurus and the predators Ceratosaurus and Allosaurus along the vast floodplains of the region. It had an herbivorous diet, feeding on ground-level plants and shrubs.",
+    "era": "Late Jurassic",
+    "family": "Dryosauridae",
+    "genus": "Dryosaurus",
+    "height": 1.8,
+    "length": 5,
+    "weight": 80,
+    "diet": [
+      "Herbivore"
+    ],
+    "feeder": [
+      "Ground Palaeobotany"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 3,
+        "max": 6
+      }
+    ],
+    "dig_sites": [
+      "Morrison Formation B"
+    ],
+    "security_rating": 1,
+    "minimum_population": 3,
+    "environment": [
+      {
+        "water": 4,
+        "open_space": 48,
+        "ground_leaf": 24, 
+        "ground_fiber": 24
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "Sauropod",
+          "Ceratopsid",
+          "Ankylosaurid",
+          "Hadrosaurid",
+          "Stegosaurid"
+        ],
+        "dislikes": [
+          "Dr. Wu Hybrids",
+          "Therizinosaurus"
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+{
+    "id": 28,
+    "name": "Dunkleosteus",
+    "slug": "dunkleosteus",
+    "image": "/images/dunkleosteus.webp",
+    "description": "Dunkleosteus dates back to the late Devonian period and is the apex predator of its environment, with a set of powerful jaws that allow it to rip through even the best armoured prey. This genus gets part of its name from its blunt, bony head (‘osteus’ is the Greek word for bone), and can grow up to 10m in length and weigh in excess of four tonnes.",
+    "discovery": "The genus was discovered by amateur palaeontologist Jay Terrell in 1867 when he was searching for fossils along the banks of Lake Erie in Ohio, USA. Terrell’s find was initially believed to be a Dinichthys specimen, but further research confirmed that it was a new genus. Named after the esteemed American palaeontologist David Hosbrook Dunkle in 1956, Dunkleosteus fossils have since been found across North America, Europe and North Africa.",
+    "paleology": "Dunkleosteus lived in a marine environment around 360-380 million years ago, preferring the bottom of the ocean where it could feed on cephalopods, ammonites, fish and even sharks. It shared its habitat with other prehistoric carnivorous fish including Titanichthys, although it had no natural predators.",
+    "era": "Late Devonian",
+    "family": "Dunkleosteidae",
+    "genus": "Dunkleosteus",
+    "height": 1,
+    "length": 10,
+    "weight": 4000,
+    "diet": [
+      "Piscivore"
+    ],
+    "feeder": [
+      "Fish",
+      "Sharks"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 1,
+        "max": 3
+      }
+    ],
+    "dig_sites": [
+      "Lost Burro Gap"
+    ],
+    "security_rating": 3,
+    "minimum_population": 1,
+    "environment": [
+      {
+        "open_space": 100,
+        "fish": 0.4
+      }
+    ],
+    "territory": "water",
+    "cohabitation": [
+      {
+       
+        "dislikes": [
+          "Megalodon"
+        ]
+      }
+    ],
+    "game": "Base game"
   }
 ]
