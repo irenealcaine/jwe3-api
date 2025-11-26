@@ -1382,5 +1382,64 @@
       }
     ],
     "game": "Base game"
+  },
+{
+    "id": 26,
+    "name": "Dreadnoughtus",
+    "slug": "dreadnoughtus",
+    "image": "/images/dreadnoughtus.webp",
+    "description": "At around 65 tonnes in weight and 19m in length, the titanosaurian sauropod Dreadnoughtus – which translates to ‘fears nothing’ - is one of the largest dinosaurs that has ever lived. Despite its vast size and intimidating name Dreadnoughtus is a herbivore, using its 11m long neck to reach leaves that other dinosaurs can’t get to, while also feeding on ground-level vegetation.",
+    "discovery": "Dreadnoughtus was first discovered in the Cerro Fortaleza Formation, Argentina by American palaeontologist Kenneth Lacovara in 2005. The fossils found form one of the most complete dinosaur skeletons ever found, and the number and weight of the bones meant that they weren’t fully unearthed until 2009.",
+    "paleology": "Dreadnoughtus existed during the Cretaceous period around 75-100m years ago, living alongside other large sauropods in the forests and floodplains of Argentina. Although there were many predators in the environment during this period, Dreadnoughtus’ size means it is unlikely to have been hunted – but if it was attacked, it could use its powerful tail to defend itself.",
+    "era": "Late Cretaceous",
+    "family": "Titanosauria",
+    "genus": "Dreadnoughtus",
+    "height": 15.8,
+    "length": 18.6,
+    "weight": 65400,
+    "diet": [
+      "Herbivore"
+    ],
+    "feeder": [
+      "Tall Palaeobotany"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "dig_sites": [
+      "Cerro Fortaleza Formation"
+    ],
+    "security_rating": 5,
+    "minimum_population": 1,
+    "environment": [
+      {
+        "water": 2,
+        "forest": 39,
+        "open_space": 29,
+        "tall_fiber": 20
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "Ornithomimosaurid",
+          "Ceratopsid",
+          "Ankylosaurid",
+          "Hadrosaurid",
+          "Pachycephalosaurid",
+          "Stegosaurid"
+        ],
+        "dislikes": [
+          "Sauropod",
+          "Indominus rex",
+          "Scorpios rex"
+        ]
+      }
+    ],
+    "game": "Base game"
   }
 ]
