@@ -1547,5 +1547,318 @@
       }
     ],
     "game": "Base game"
+  },
+{
+    "id": 29,
+    "name": "Edmontosaurus",
+    "slug": "edmontosaurus",
+    "image": "/images/edmontosaurus.webp",
+    "description": "Edmontosaurus is a genus of herbivorous hadrosaurid dinosaur notable for its distinctive bill-shaped mouth. At 9m in length and over 3 tonnes in weight, Edmontosaurus is one of the largest hadrosaurids – but despite its bulky frame it can run at speeds of up to 30mph, allowing it to escape from predators.",
+    "discovery": "The first Edmontosaurus bones were discovered in 1891, when the ‘king of collectors’ John Bell Hatcher unearthed them in the Lance Formation, Wyoming. However, the fossils were initially considered a new species of Claosaurus – it wasn’t until 1917, and the discovery of two further skeletons in Edmonton, Canada, that it was classified as a new genus.",
+    "paleology": "Edmontosaurus lived during the Late Cretaceous period around 65-75m years ago, and co-existed with dinosaurs like Triceratops, Albertosaurus and Pachycephalosaurus in the subtropical climate of Canada. It shared its environment with the apex predator Tyrannosaurus, relying on its speed and intelligence to stay safe.",
+    "era": "Late Cretaceous",
+    "family": "Hadrosauridae",
+    "genus": "Edmontosaurus",
+    "height": 3,
+    "length": 9,
+    "weight": 3200,
+    "diet": [
+      "Herbivore"
+    ],
+    "feeder": [
+      "Ground Palaeobotany"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 2,
+        "max": 5
+      }
+    ],
+    "dig_sites": [
+      "Horseshoe Canyon",
+      "Formation A",
+      "Lance Formation Site A"
+    ],
+    "security_rating": 3,
+    "minimum_population": 4,
+    "environment": [
+      {
+        "water": 7,
+        "open_space": 74,
+        "ground_fiber": 8
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "Sauropod",
+          "Ornithomimosaurid",
+          "Ceratopsid",
+          "Ankylosaurid",
+          "Stegosaurid"
+        ],
+        "dislikes": [
+          "Dr. Wu Hybrids",
+          "Therizinosaurus"
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+{
+    "id": 30,
+    "name": "Gallimimus",
+    "slug": "gallimimus",
+    "image": "/images/gallimimus.webp",
+    "description": "Gallimimus is a genus of theropod from the ornithomimidae family. Although its name translates to ‘chicken mimic’, Gallimimus is the biggest of the ornithomimid dinosaurs, at around 450kg and 4m in length – the name refers to its neck vertebrae, which are similar to those of chickens. Fast, agile, intelligent and with excellent vision. Gallimimus is well adapted to evading predators and catching its own prey.",
+    "discovery": "This genus was discovered in the Gobi Desert in 1964 by Polish palaeobiologist Zofia Kielan-Jaworowska when she excavated a partial skeleton in the sands of the Nemegt Basin. Further exploration of the area in the next few years unearthed more Gallimimus bones, giving researchers a more rounded understanding of the genus.",
+    "paleology": "The remains of Gallimimus have been found across Mongolia, with fossils dating the genus to the Late Cretaceous period, approximately 70m years ago. It lived alongside a wide variety of dinosaurs near rivers, lakes and streams, feeding on ground-level plants and shrubs.",
+    "era": "Late Cretaceous",
+    "family": "Ornithomimidae",
+    "genus": "Gallimimus",
+    "height": 3,
+    "length": 4.7,
+    "weight": 450,
+    "diet": [
+      "Herbivore"
+    ],
+    "feeder": [
+      "Ground Palaeobotany"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 4,
+        "max": 6
+      }
+    ],
+    "dig_sites": [
+      "Nemegt Formation A"
+    ],
+    "security_rating": 1,
+    "minimum_population": 6,
+    "environment": [
+      {
+        "water": 7,
+        "forest": 31,
+        "ground_leaf": 62
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "Sauropod",
+          "Ceratopsid",
+          "Ankylosaurid",
+          "Hadrosaurid",
+          "Stegosaurid"
+        ],
+        "dislikes": [
+          "Dr. Wu Hybrids",
+          "Therizinosaurus"
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+{
+    "id": 31,
+    "name": "Geosternbergia",
+    "slug": "geosternbergia",
+    "image": "/images/geosternbergia.webp",
+    "description": "Geosternbergia is named after American palaeontologist George F. Sternberg, who was the first to discover then genus. It is one of the largest pterosaurs, with a wingspan of over 7m and a long, tapered beak that can grab fish out of the water or be used as a spear for catching them. Geosternbergia is notable for the distinctive crest on its head, which it used to attract mates for reproduction.",
+    "discovery": "Sternberg extracted the first Geosternbergia fossils from the Niobrara Formation, Kansas in 1952. It was originally classified as a new species of Pteranodon, but further study let to its reclassification as a subgenus in 1971 and eventually a new genus in 2010.",
+    "paleology": "Geosternbergia dates back to the Late Cretaceous period, around 85m years ago, and lived in North America. It mainly lived near coastal regions and had a piscivorous diet, darting into the ocean to feed and steering clear of the apex predator, Tyrannosaurus rex.",
+    "era": "Late Cretaceous",
+    "family": "Pteranodontidae",
+    "genus": "Geosternbergia",
+    "height": 1,
+    "length": 7,
+    "weight": 3,
+    "diet": [
+      "Piscivore",
+      "Carnivore"
+    ],
+    "feeder": [
+      "Fish",
+      "Live Prey"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 1,
+        "max": 3
+      }
+    ],
+    "dig_sites": [
+      "Niobrara Formation"
+    ],
+    "security_rating": 4,
+    "minimum_population": 1,
+    "environment": [
+      {
+        "water": 2,
+        "forest": 25,
+        "open_space": 73,
+        "fish": 0.5
+      }
+    ],
+    "territory": "sky",
+    "cohabitation": [
+      {
+        "likes": [
+          "Pteranodon",
+          "Tropeognathus"
+        ],
+        "dislikes": [
+          "Dr. Wu Hybrids"
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+{
+    "id": 32,
+    "name": "Giganotosaurus",
+    "slug": "giganotosaurus",
+    "image": "/images/giganotosaurus.webp",
+    "description": "At around 14 tonnes in weight and 15m in length, Giganotosaurus is one of the largest theropods ever to have lived – its name translates to ‘giant southern lizard’, in reference to its large frame and its South American habitat. It has a similar appearance to the infamous Tyrannosaurus rex, with rows of long, serrated teeth and a powerful jaw for tearing into its prey.",
+    "discovery": "Giganotosaurus was discovered by amateur fossil collector Rubén D. Carolini in 1993 when he was searching for bones in Neuquén, Argentina. Carolini’s first find was a leg bone belonging to an unknown large theropod, which led to further exploration of the area – the following year, numerous related artefacts were excavated that confirmed that this was a new genus.",
+    "paleology": "Giganotosaurus was the apex predator of the Late Cretaceous period approximately 90-110m years ago and lived in southern Argentina alongside many other genera of dinosaurs. It fed on large herbivores of the period including Argentinosaurus, mainly attacking juveniles due to their smaller size.",
+    "era": "Late Cretaceous",
+    "family": "Carcharodontosauridae",
+    "genus": "Giganotosaurus",
+    "height": 5.3,
+    "length": 15.5,
+    "weight": 14000,
+    "diet": [
+      "Carnivore"
+    ],
+    "feeder": [
+      "Meat",
+      "Live Prey"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 1,
+        "max": 2
+      }
+    ],
+    "dig_sites": [
+      "Candeleros Formation"
+    ],
+    "security_rating": 6,
+    "minimum_population": 1,
+    "environment": [
+      {
+        "water": 5,
+        "forest": 24,
+        "open_space": 72,
+        "prey": 1.00
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "Scavenger"
+        ],
+        "dislikes": [
+          "Carnivores",
+          "Therizinosaurus"
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+{
+    "id": 33,
+    "name": "Gigantspinosaurus",
+    "slug": "gigantspinosaurus",
+    "image": "/images/gigantspinosaurus.webp",
+    "description": "Gigantspinosaurus is a genus of herbivorous dinosaur notable for the large spines on its shoulders, which help to protect it from predators – in fact, its name translates to ‘giant-spined lizard’. It is part of the stegosaur family, weighing around 700kg and growing up to 7.7m in length with a strong jaw that helps it to chew the plants and shrubs it feeds on.",
+    "discovery": "The first Gigantspinosaurus discovery took place in Pengtang, China in 1985, when palaeontologist Ouyang Hui unearthed a partial skeleton featuring a lower jaw, tail and feet, as well as some skin impressions. The bones were initially thought to be that of a Tuojiangosaurus but following the excavation of a second Gigantspinosaurus specimen from Fuquan the previous year, it was finally classified as a new genus in 2006.",
+    "paleology": "Gigantspinosaurus existed during the Late Jurassic period around 160m years ago, with the fossil discovery locations suggesting that it preferred a wet environment with plenty of vegetation. It lived alongside many other dinosaurs, including its relative the stegosaur family, Chungkingosaurus.",
+    "era": "Late Jurassic",
+    "family": "Stegosauria",
+    "genus": "Gigantspinosaurus",
+    "height": 3,
+    "length": 7.7,
+    "weight": 700,
+    "diet": [
+      "Herbivore"
+    ],
+    "feeder": [
+      "Ground Palaeobotany"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 2,
+        "max": 6
+      }
+    ],
+    "dig_sites": [
+      "Ziliujing Formation B"
+    ],
+    "security_rating": 2,
+    "minimum_population": 2,
+    "environment": [
+      {
+        "water": 7,
+        "forest": 31,
+        "ground_leaf": 62
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "Chungkingosaurus",
+          "Huayangosaurus",
+          "Sauropod",
+          "Ornithomimosaurid",
+          "Hadrosaurid",
+          "Pachycephalosaurid"
+        ],
+        "dislikes": [
+          "Dr. Wu Hybrids",
+          "Ceratopsid",
+          "Ankylosaurid",
+          "Stegosaurid",
+          "Therizinosaurus"
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+{
+    "id": 34,
+    "name": "Guanlong",
+    "slug": "guanlong",
+    "image": "/images/guanlong.webp",
+    "description": "The name for this small tyrannosaurid dinosaur means ‘crown dragon’, named for the large, air-filled cranial crest it possessed. This predator measured about 3 metres in length, and reached maturity at around 7 years old.",
+    "discovery": "Preserved remains of a pair of Guanlong skeletons, one adult and one juvenile, were first discovered in the Wucaiwan area of Junggar Basin in China, buried in mudstone. A joint Chinese-American team discovered the dinosaur in 2002, and the Guanlong was first described to the scientific community in 2006.",
+    "paleology": "The Guanlong is the oldest-known of the tyrannosaurids, making it a distant ancestor of the famous Tyrannosaurus rex. The Guanlong had a decorative crest that may have been used to attract mates. They lived in what is now northwestern China about 160 million years ago, and were likely a secondary predator within its ecosystem, with a primitive carnosaur being the primary.",
+    "era": "Late Jurassic",
+    "family": "Proceratosauridae",
+    "genus": "Guanlong",
+    "height": 1.1,
+    "length": 3,
+    "weight": 75,
+    "diet": [
+      "Carnivore"
+    ],
+    "feeder": [
+      "Meat",
+      "Live Prey"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 2,
+        "max": 4
+      }
+    ],
+    "territory": "land",
+    "game": "Deluxe pack edition"
   }
 ]
