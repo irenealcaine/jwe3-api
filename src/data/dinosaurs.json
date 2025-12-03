@@ -1860,5 +1860,154 @@
     ],
     "territory": "land",
     "game": "Deluxe pack edition"
+  },
+{
+    "id": 35,
+    "name": "Herrerasaurus",
+    "slug": "herrerasaurus",
+    "image": "/images/herrerasaurus.webp",
+    "description": "Herrerasaurus is a small theropod, measuring around 4.5m in length and 200kg in weight. It is one of the earliest known dinosaurs, dating back to the Late Triassic period. With a light frame that allow it to run very quickly and large, jagged teeth that help it to latch onto prey, Herrerasaurus feeds on smaller herbivores.",
+    "discovery": "This genus gets its name from the man who discovered it, an Argentine goatherd named Victorino Herrera. He found the first Herrerasaurus bones in San Juan in 1959, although it was not officially classified as a new genus until 1988, when a complete skull was unearthed.",
+    "paleology": "Herrerasaurus lived in Argentina around 228m years ago. As one of the earliest dinosaurs it shared its environment mostly with reptiles like Saurosuchus and Venaticosuchus, although another early dinosaur, Eoraptor, existed during the same period. Research suggests that Herrerasaurus preferred a warm, wet climate, and mainly lived in forests and on floodplains.",
+    "era": "Late Triassic",
+    "family": "Herrerasauridae",
+    "genus": "Herrerasaurus",
+    "height": 1.1,
+    "length": 4.5,
+    "weight": 200,
+    "diet": [
+      "Carnivore"
+    ],
+    "feeder": [
+      "Meat",
+      "Live Prey"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 3,
+        "max": 4
+      }
+    ],
+    "dig_sites": [
+      "Ischigualasto Formation"
+    ],
+    "security_rating": 5,
+    "minimum_population": 3,
+    "environment": [
+      {
+        "water": 6,
+        "forest": 35,
+        "open_space": 59,
+        "prey": 0.4
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "Scavenger"
+        ],
+        "dislikes": [
+          "Carnivores",
+          "Therizinosaurus"
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+{
+    "id": 36,
+    "name": "Homalocephale",
+    "slug": "homalocephale",
+    "image": "/images/homalocephale.webp",
+    "description": "Notable for its distinctive flat skull (its name translates to ‘even head’), Homalocephale is a small, herbivorous dinosaur that grows to around 2.3m in length and around 45kg in weight. This genus has excellent eyesight and long legs that help it to locate and escape predators, while its thick, flat skull and wide pelvis protect it from attack.",
+    "discovery": "Homalocephale was first classified as a new genus in 1974 by Polish palaeontologists Halszka Osmólska and Teresa Maryańska, based on a small number of fossils, including a partial skull, found in Mongolia. Many palaeontologists believed the bones were actually from a juvenile Prenocephale, rather than a genus in its own right.",
+    "paleology": "Homalocephale lived during the Late Cretaceous period around 68-72m years ago, roaming the forested areas of Mongolia in search of vegetation at ground level. These densely wooded areas may also have helped Homalocephale to hide from larger carnivores that shared this environment.",
+    "era": "Late Cretaceous",
+    "family": "Pachycephalosauridae",
+    "genus": "Homalocephale",
+    "height": 0.9,
+    "length": 2.3,
+    "weight": 43,
+    "diet": [
+      "Herbivore"
+    ],
+    "feeder": [
+      "Ground Palaeobotany"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 4,
+        "max": 6
+      }
+    ],
+    "dig_sites": [
+      "Nemegt Formation B"
+    ],
+    "security_rating": 1,
+    "minimum_population": 7,
+    "environment": [
+      {
+        "water": 34,
+        "open_space": 34,
+        "ground_leaf": 16, 
+        "ground_fiber": 16
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "Sauropod",
+          "Ankylosaurid",
+          "Stegosaurid"
+        ],
+        "dislikes": [
+          "Dr. Wu Hybrids",
+          "Therizinosaurus"
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+{
+    "id": 37,
+    "name": "Ichthyosaurus",
+    "slug": "ichthyosaurus",
+    "image": "/images/ichthyosaurus.webp",
+    "description": "Ichthyosaurus is a small marine reptile, measuring around 2m in length – far smaller than other genera of ichthyosaurs, which can grow up to 25m. Its paddle-like limbs and streamlined body allow it to move at great speed through water, catching its prey in its long, thin snout. Ichthyosaurus is a piscivore, with a diet consisting mostly of fish and squid.",
+    "discovery": "Celebrated English palaeontologist and fossil collector Mary Anning discovered Ichthyosaurus in 1811 along with her brother Joseph, when they uncovered a skeleton while digging for fossils in Lyme Regis, on the south coast of England. The remains were initially thought to be those of a crocodile – almost 200 years later, at the beginning of the 21st Century, advances in knowledge allowed Anning’s find to be classified as a new genus.",
+    "paleology": "Ichthyosaurus lived during the Late Triassic and Early Jurassic periods, around 120-220 million years ago. This genus lived in the ocean and did not venture onto land, swimming the seas of Europe and Asia – it even gave birth in water.",
+    "era": "Late Triassic",
+    "family": "Ichthyosauridae",
+    "genus": "Ichthyosaurus",
+    "height": 1,
+    "length": 2,
+    "weight": 163,
+    "diet": [
+      "Piscivore"
+    ],
+    "feeder": [
+      "Fish"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 2,
+        "max": 5
+      }
+    ],
+    "dig_sites": [
+      "Jurassic Coast B"
+    ],
+    "security_rating": 1,
+    "minimum_population": 6,
+    "environment": [
+      {
+        "open_space": 100,
+        "fish": 0.2
+      }
+    ],
+    "territory": "water",
+    "game": "Base game"
   }
 ]
