@@ -6,7 +6,7 @@
     "image": "/images/acrocanthosaurus.webp",
     "description": "At around 12m in length and more than six tonnes in weight, Acrocanthosaurus is one of the largest theropods and dates back to the Early Cretaceous period. This carnivorous dinosaur gets its name – which translates to ‘high-spined lizard’ – from the elongated spines running the length of its neck and back, while its sharp teeth and powerful jaw make it a fearsome predator comparable to the much more well-known Tyrannosaurus rex.",
     "discovery": "Acrocanthosaurus was officially discovered in 1950 by J. Willis Stovall and Wann Langston Junior in Atoka County, Oklahoma, when the two palaeontologists dug up skeleton fragments including part of a skull. In the following decades there was little consensus on how to classify Acrocanthosaurus, and at various times it was believed to be a species of Allosaurus, Spinosaurus and Megalosaurus - but it is now considered part of the Carcharodontosaurus family.",
-    "paleology": "Fossil findings have confirmed that Acrocanthosaurus lived approximately 110-125 million years ago in the Southern states of the USA, most notably Texas, Oklahoma and Wyoming. Acrocanthosaurus was the apex predator of its time, with a diet consisting of other dinosaurs including Hadrosaurus, Tenontosaurus and Sauropods.",
+    "palaeoecology": "Fossil findings have confirmed that Acrocanthosaurus lived approximately 110-125 million years ago in the Southern states of the USA, most notably Texas, Oklahoma and Wyoming. Acrocanthosaurus was the apex predator of its time, with a diet consisting of other dinosaurs including Hadrosaurus, Tenontosaurus and Sauropods.",
     "era": "Early Cretaceous",
     "family": "Carcharodontosauridae",
     "genus": "Acrocanthosaurus",
@@ -61,7 +61,7 @@
     "image": "/images/albertosaurus.webp",
     "description": "A relative of the infamous Tyrannosaurus rex, Albertosaurus is a carnivorous theropod from the Late Cretaceous period. Believed to have been the apex predator of its time, Albertosaurus’ rows of razor-sharp teeth make light work of the smaller, herbivorous dinosaurs it preys on, while its sheer size – approximately 9.5m long and weighing around 4 tonnes – ensure other predators steer clear.",
     "discovery": "Albertosaurus’ name is derived from the location of its earliest discoveries – Alberta’s Horseshoe Canyon Formation. In 1884 a partial skull was excavated by geologist Joseph B. Tyrrell, and five years later his colleague Thomas Chesmer Weston found another, although the fossils were originally classified as being part of the existing Laelaps incrassatus species. It was finally established as a new species and named in 1905, by American palaeontologist Henry Fairfield Osborn.",
-    "paleology": "Further discoveries along the floodplains of Horseshoe Canyon have led researchers to believe that Albertosaurus lived approximately 70 million years ago, living alongside a wide array of other dinosaurs including Saurolophus, Edmontosaurus and Troodon.",
+    "palaeoecology": "Further discoveries along the floodplains of Horseshoe Canyon have led researchers to believe that Albertosaurus lived approximately 70 million years ago, living alongside a wide array of other dinosaurs including Saurolophus, Edmontosaurus and Troodon.",
     "era": "Late Cretaceous",
     "family": "Tyrannosauridae",
     "genus": "Albertosaurus",
@@ -117,7 +117,7 @@
     "image": "/images/allosaurus.webp",
     "description": "Allosaurus is one of the most fearsome dinosaurs ever to have roamed the earth, weighing up to two and a half tonnes and measuring around 12m in length. The apex predator of the Late Jurassic period, Allosaurus’ enormous skull contains rows of large, serrated teeth for tearing flesh, while its long, powerful tail helps it to balance.",
     "discovery": "The first official discovery of Allosaurus fossils came in 1877, when Othniel Charles Marsh found fragments of an unknown dinosaur in Colorado. At the time, the fossils were so unlike any previously found dinosaur bones that Marsh named it Allosaurus, meaning ‘different lizard’. Two years later, more fossils were unearthed by H. F. Hubbell, although the quality of the near-complete skeleton was not realised until 1908, after Cope had died. With thousands of fossils emerging in the intervening years, Allosaurus fossils are now among the most commonly discovered dinosaur bones.",
-    "paleology": "Allosaurus lived around 150 million years ago in the forests and floodplains of the western United States, most notably Utah and Colorado. It co-existed with many other species of dinosaur, feeding mostly on large herbivores such as Stegosaurus and Apatosaurus.",
+    "palaeoecology": "Allosaurus lived around 150 million years ago in the forests and floodplains of the western United States, most notably Utah and Colorado. It co-existed with many other species of dinosaur, feeding mostly on large herbivores such as Stegosaurus and Apatosaurus.",
     "era": "Late Jurassic",
     "family": "Allosauridae",
     "genus": "Allosaurus",
@@ -175,7 +175,7 @@
     "image": "/images/ankylodocus.webp",
     "description": "The giant herbivorous sauropod Ankylodocus is a genetically engineered hybrid dinosaur that combines the base genomes of Ankylosaur and Diplodocus. Its appearance borrows notable characteristics from each of its parent genera – its long neck strongly resembles Diplodocus, while it takes the protective spikes on its body from Ankylosaurus.",
     "discovery": "At around 6 metres tall and over 28 metres in length, this genus is the largest dinosaur ever engineered by Dr. Henry Wu, the chief geneticist at the bioengineering company InGen. The impressive size of Ankylodocus is its main selling point – Dr. Wu believing that new visitors will be drawn in by such an enormous animal.",
-    "paleology": "Research into Ankylodocus’ palaeoecology is at an early stage, but the genus is known to prefer an environment featuring grasslands and forests, sharing this habitat with a range of other dinosaurs. Ankylodocus exists mainly on a diet of tree ferns and conifers, and its vast size means it has very few predators. The genus tends to live alone or in small social groups.",
+    "palaeoecology": "Research into Ankylodocus’ palaeoecology is at an early stage, but the genus is known to prefer an environment featuring grasslands and forests, sharing this habitat with a range of other dinosaurs. Ankylodocus exists mainly on a diet of tree ferns and conifers, and its vast size means it has very few predators. The genus tends to live alone or in small social groups.",
     "era": "Holocene",
     "family": "Hybrid",
     "genus": "Hybrid",
@@ -222,7 +222,7 @@
     "image": "/images/ankylosaurus.png",
     "description": "Famed for its clubbed tail and the armour plates that cover its back, Ankylosaurus is a genus of Ankylosaurus that lived around 70m years ago during the Late Cretaceous period. Ankylosaurus’ protective osteoderms and robust build – the average specimen weighs 8 tonnes and is 9.6m in length - defend it from predators such as Tyrannosaurus rex, while its large stomach digested up to 60kg of ferns and shrubs every day.",
     "discovery": "Ankylosaurus was discovered in the Hell Creek Formation, Montana by Barnum Brown, four years after the famous palaeontologist, known as ‘Mr. Bones’, had discovered Tyrannosaur rex. The first fossils found were a collection of bones including two teeth and a skull fragment, although Brown actually unearthed numerous osteoderms in 1900, but incorrectly attributed them to Tyrannosaurus. Further Ankylosaurus fossils were found in Canada in 1910, including a complete skull.",
-    "paleology": "Ankylosaurus lived in Canada and the western United States, which had a warm, humid climate at that time, and preferred to stay close to rivers, forests and wetlands, allowing them to cool off during hotter periods.",
+    "palaeoecology": "Ankylosaurus lived in Canada and the western United States, which had a warm, humid climate at that time, and preferred to stay close to rivers, forests and wetlands, allowing them to cool off during hotter periods.",
     "era": "Late Cretaceous",
     "family": "Ankylosauridae",
     "genus": "Ankylosaurus",
@@ -283,7 +283,7 @@
     "image": "/images/apatosaurus.webp",
     "description": "At over 20m in length and around 20 tonnes, Apatosaurus is one of the largest dinosaurs ever to have existed. This herbivorous Sauropod has a long neck that allows it to feed on the leaves of tall trees as well as lower-hanging plants, while the tip of its tail can be whipped to produce a loud bang that scares off predators.",
     "discovery": "Apatosaurus was discovered in 1877, when Othniel Charles Marsh unearthed a near-complete skeleton in the Rocky Mountains, Colorado. Its name, which translates to ‘deceptive lizard’, stems from Marsh’s initial misconception that its bone structure was that of an aquatic reptile.",
-    "paleology": "Fossils dating back to the Late Jurassic period (approximately 150 million years ago) have been found across the western United States and parts of Europe. The location of these findings have led researchers to believe that Apatosaurus lived near rivers, and co-existed with Camarasaurus, Ceratosaurus and the feared Allosaurus.",
+    "palaeoecology": "Fossils dating back to the Late Jurassic period (approximately 150 million years ago) have been found across the western United States and parts of Europe. The location of these findings have led researchers to believe that Apatosaurus lived near rivers, and co-existed with Camarasaurus, Ceratosaurus and the feared Allosaurus.",
     "era": "Late Jurassic",
     "family": "Diplodocidae",
     "genus": "Apatosaurus",
@@ -345,7 +345,7 @@
     "image": "/images/archaeornithomimus.webp",
     "description": "Archaeornithomimus is a genus of bird-like theropod, with a sharp beak and long hind legs. Its size – this dinosaur weighs between 100 and 200lbs and reaches around 3.3m in length – and physical features led to its name, which translates to ‘ancient bird mimic’. Archaeornithomimus had an omnivorous diet consisting of everything from plants to eggs and even other juvenile dinosaurs.",
     "discovery": "Remains of Archaeornithomimus have been found across Asia, with fossils found in China, Kyrgyzstan and Uzbekistan. The first discovery came in 1923, when Roy Chapman Andrews unearthed the bones of a new species, originally named Ornithomimus asiaticus. The prefix ‘archae’ (‘ancient’) was added in 1972, underlining Archaeornithomimus’ status as one of the oldest known species of Ornithomimid.",
-    "paleology": "This dinosaur lived in Asia between 70 and 95 million years ago during the Late Cretaceous period and preferred to live along the floodplains of rivers, where vegetation would be easy to come by. Archaeornithomimus co-existed in this period with many other dinosaurs including Gigantoraptor, Bactrosaurus and Sonidosaurus.",
+    "palaeoecology": "This dinosaur lived in Asia between 70 and 95 million years ago during the Late Cretaceous period and preferred to live along the floodplains of rivers, where vegetation would be easy to come by. Archaeornithomimus co-existed in this period with many other dinosaurs including Gigantoraptor, Bactrosaurus and Sonidosaurus.",
     "era": "Late Cretaceous",
     "family": "Ornithomimidae",
     "genus": "Archaeornithomimus",
@@ -402,7 +402,7 @@
     "image": "/images/atrociraptor.webp",
     "description": "Atrociraptor is a carnivorous dinosaur from the dromaeosaurid family, and dates back to the Late Cretaceous period. The name Atrociraptor translates from Latin as ‘savage seizer’, in reference to the rows of serrated teeth it uses to catch and kill prey such as lizards and small mammals. This genus is one of InGen’s ‘designer dinosaurs’ and exists in a variety of colours. It grows to around 4m in length and has been bred to display great dexterity, high intelligence and large, powerful claws, making it an extremely efficient hunter.",
     "discovery": "The first Atrociraptor remains were discovered in 1995 when a local man named Wayne Marshall unearthed a series of teeth and jaw parts from the Horseshoe Canyon Formation in Alberta, Canada. It wasn’t formally described until 2004, when palaeontologists Phillip J. Currie and David Varricchio gave it the name Atrociraptor. To this day, the 1995 finding is the only known Atrociraptor specimen.",
-    "paleology": "Atrociraptor lived along the floodplains and swamps of Alberta around 68.5 million years ago and shared its habitat with a range of other dinosaurs including Albertosaurus, Ornithomimus and Deinonychus.",
+    "palaeoecology": "Atrociraptor lived along the floodplains and swamps of Alberta around 68.5 million years ago and shared its habitat with a range of other dinosaurs including Albertosaurus, Ornithomimus and Deinonychus.",
     "era": "Late Cretaceous",
     "family": "Dromaeosauridae",
     "genus": "Atrociraptor",
@@ -454,7 +454,7 @@
     "image": "/images/attenborosaurus.webp",
     "description": "Named after the esteemed British natural historian David Attenborough, Attenborosaurus is a genus of pliosaurid that grows up to 6.4m in length. Notable for its long neck and paddle-like limbs, this piscivorous marine reptile can move through the water at high speeds, catching prey with its long, sharp teeth.",
     "discovery": "Attenborosaurus’ discovery is an interesting story; the first fossils were found in the United Kingdom in 1880 but were destroyed during the Second World War. Luckily, detailed plaster casts were made, allowing researchers to examine everything but the skin. Although the discovery was initially classified as another species of Plesiosaurus, analysis of the plaster casts confirmed that this was an entirely new genus. In 1993, American palaeontologist Bob Bakker gave the genus its name, in honour of Attenborough’s life’s work.",
-    "paleology": "Attenborosaurus lived approximately 190-200 million years ago during the Early Jurassic period, and roamed the warm waters just off the south coast of the United Kingdom, existing on a diet of fish and other marine life.",
+    "palaeoecology": "Attenborosaurus lived approximately 190-200 million years ago during the Early Jurassic period, and roamed the warm waters just off the south coast of the United Kingdom, existing on a diet of fish and other marine life.",
     "era": "Early Jurassic",
     "family": "Pliosauridae",
     "genus": "Attenborosaurus",
@@ -502,7 +502,7 @@
     "image": "/images/baryonyx.webp",
     "description": "The large theropod Baryonyx can grow up to 10m in length and is notable for its crocodile-like jaws. Baryonyx is primarily a piscivore – although it lives on land, it can grab fish out of rivers with its long claws, and swim in shallow waters to catch prey with its long, serrated teeth. It is believed that Baryonyx is also a scavenger, feeding on the carcasses of smaller dinosaurs on land.",
     "discovery": "Baryonyx – translated to ‘heavy claw’ - was discovered in 1983 by an amateur fossil collector from the United Kingdom named William J. Walker, while surveying the clay pits of modern-day Surrey. His initial discovery consisted of a giant claw as well as some other bones, and further investigation unearthed a near-complete Baryonyx skeleton (now housed in the Natural History Museum in London).",
-    "paleology": "Baryonyx lived in the Early Cretaceous period, around 125m years ago, co-existed with other dinosaurs including Polocanthus, Iguanodon and Valdosaurus in parts of northern Europe and Africa. Baryonyx’s mainly fish-based diet suggests it preferred to live close to shallow water, roaming near rivers and marshes.",
+    "palaeoecology": "Baryonyx lived in the Early Cretaceous period, around 125m years ago, co-existed with other dinosaurs including Polocanthus, Iguanodon and Valdosaurus in parts of northern Europe and Africa. Baryonyx’s mainly fish-based diet suggests it preferred to live close to shallow water, roaming near rivers and marshes.",
     "era": "Early Cretaceous",
     "family": "Spinosauridae",
     "genus": "Baryonyx",
@@ -559,7 +559,7 @@
     "image": "/images/brachiosaurus.webp",
     "description": "Brachiosaurus is a genus of herbivorous sauropod and one of the largest dinosaurs to have lived, weighing in at over 50 tonnes. Thanks to its long neck, Brachiosaurus can feed on leaves from trees up to 12 metres high, eating up to 400kg of vegetation every day, while its vast size means any potential predators tend to steer clear.",
     "discovery": "The first Brachiosaurus fossils were uncovered in 1900 in the Morrison Formation, Colorado, and credited to Elmer S. Riggs, a celebrated American palaeontologist. At the time, Brachiosaurus was considered to be the biggest dinosaur ever to have existed, although larger specimens have been discovered since.",
-    "paleology": "The location of fossils found dates Brachiosaurus to the Late Jurassic period, around 140-150m years ago, and co-existed with many other dinosaurs including the notorious Allosaurus and Ceratosaurus. While Brachiosaurus mainly lived in the western United States, remains have been found as far away as Portugal and Tanzania.",
+    "palaeoecology": "The location of fossils found dates Brachiosaurus to the Late Jurassic period, around 140-150m years ago, and co-existed with many other dinosaurs including the notorious Allosaurus and Ceratosaurus. While Brachiosaurus mainly lived in the western United States, remains have been found as far away as Portugal and Tanzania.",
     "era": "Late Jurassic",
     "family": "Brachiosauridae",
     "genus": "Brachiosaurus",
@@ -623,7 +623,7 @@
     "image": "/images/caiuajara.webp",
     "description": "A flying reptile with a large bony fin on its snout, the Caiuajara had a tough beak and no teeth. It could boast a wingspan of over 2 metres, and these sociable flying reptiles lived in colonies of mature adults. They likely matured in nurseries of young and sub-mature animals living together.",
     "discovery": "The Caiuajara was discovered in a rare pterosaur bone bed known as the Pterosaur Graveyard. Dating from the Upper Cretaceous, this site included at least 47 different individuals. Found in southern Brazil, where once had been a Cretaceous desert, the new pterosaur was named after the formation it was found within.",
-    "paleology": "The Caiuajara lived during the Cretaceous period in the desert dunes of what is now southern Brazil. They congregated near inland sand lakes and faced the risk of death from desert storms.",
+    "palaeoecology": "The Caiuajara lived during the Cretaceous period in the desert dunes of what is now southern Brazil. They congregated near inland sand lakes and faced the risk of death from desert storms.",
     "era": "Late Cretaceous",
     "family": "Tapejaridae",
     "genus": "Caiuajara",
@@ -655,7 +655,7 @@
     "image": "/images/carnotaurus.webp",
     "description": "Notable for the thick horns above its eyes, Carnotaurus is a theropod from the Late Cretaceous period. Weighing around 2 tonnes and spanning 10m in length with two rows of long, sharp teeth, this carnivorous dinosaur was the apex predator of its era – and the combination of its unique horns and flesh-ripping teeth gave Carnotaurus its name, meaning ‘meat-eating bull’.",
     "discovery": "Everything that is known about Carnotaurus comes from a single near-complete skeleton, discovered by Argentine palaeontologist José Bonaparte. The fossils were unearthed in Chubut Province, Argentina in 1984, with further exploration of the area uncovering numerous skin patches from the same dinosaur.",
-    "paleology": "Carnotaurus lived among the lakes and lagoons of South America around 70m years ago, preferring the warmth and humidity of this environment. It lived alongside various species of dinosaur as well as crocodiles and turtles, using its powerful hind legs to catch smaller prey such as Niebla antiqua.",
+    "palaeoecology": "Carnotaurus lived among the lakes and lagoons of South America around 70m years ago, preferring the warmth and humidity of this environment. It lived alongside various species of dinosaur as well as crocodiles and turtles, using its powerful hind legs to catch smaller prey such as Niebla antiqua.",
     "era": "Late Cretaceous",
     "family": "Abelisauridae",
     "genus": "Carnotaurus",
@@ -711,7 +711,7 @@
     "image": "/images/ceratosaurus.webp",
     "description": "At around 7m in length and just under one tonne in weight, Ceratosaurus is an average-sized theropod from the Late Jurassic period. This carnivore is best known for the large horn on its snout and two further horns above its eyes, which gave rise to its name – Ceratosaurus translates to ‘horned lizard’.",
     "discovery": "The first discovery of Ceratosaurus came in 1883, when Marshall Parker Felch dug up a near-complete skeleton in Cañon City, Colorado – one of many dinosaurs found in the area around this time. Further Ceratosaurus remains have been found across North America, with some fossils unearthed as far away as Portugal and Tanzania.",
-    "paleology": "Ceratosaurus lived in North America around 150m years ago and co-existed with larger dinosaurs including Apatosaurus and the fearsome apex predator Allosaurus. As a carnivore further down the food chain, Ceratosaurus kept clear of larger dinosaurs, prowling the forests for smaller herbivores to prey upon.",
+    "palaeoecology": "Ceratosaurus lived in North America around 150m years ago and co-existed with larger dinosaurs including Apatosaurus and the fearsome apex predator Allosaurus. As a carnivore further down the food chain, Ceratosaurus kept clear of larger dinosaurs, prowling the forests for smaller herbivores to prey upon.",
     "era": "Late Jurassic",
     "family": "Ceratosauridae",
     "genus": "Ceratosaurus",
@@ -769,7 +769,7 @@
     "image": "/images/chasmosaurus.webp",
     "description": "The herbivore Chasmosaurus is a genus of ceratopsid dinosaur with a similar appearance to Triceratops, although it is significantly smaller than its more well-known relative. Chasmosaurus weighs around one and a half tonnes and spans approximately 7.5m in length and is notable for the three horns on its face and large frill on its neck.",
     "discovery": "Chasmosaurus was discovered in 1898 by Canadian palaeontologist Lawrence Morris Lambe, who excavated part of the dinosaur’s neck frill from Berry Creek, California. It was initially classified as a genus of Monoclonius, but later findings confirmed it was a new discovery. Further remains have been found in the intervening years, allowing experts to define new species within the Chasmosaurus genus.",
-    "paleology": "Chasmosaurus lived in Canada during the Late Cretaceous period, around 75m years ago, and existed alongside numerous other dinosaurs including Centrosaurus and the infamous Tyrannosaur rex. It used its powerful, durable beak to tear plants out of the ground, while its tough skin protected it from predators.",
+    "palaeoecology": "Chasmosaurus lived in Canada during the Late Cretaceous period, around 75m years ago, and existed alongside numerous other dinosaurs including Centrosaurus and the infamous Tyrannosaur rex. It used its powerful, durable beak to tear plants out of the ground, while its tough skin protected it from predators.",
     "era": "Late Cretaceous",
     "family": "Ceratopsidae",
     "genus": "Chasmosaurus",
@@ -828,7 +828,7 @@
     "image": "/images/chungkingosaurus.webp",
     "description": "Chungkingosaurus is an herbivorous dinosaur from the stegosauria suborder and gets its name from the location of its discovery, Chongqing in Sichuan, China. At around 3m in length, Chungkingosaurus is one of the smaller Stegosauria, with distinctive spikes adorning its neck, back and tail that help it to protect itself from predators.",
     "discovery": "The first Chungkingosaurus was discovered in 1977, when a group of Chinese palaeontologists excavated numerous bones including part of a skeleton, back plates and tail vertebrae. In 1983, Dong Zhiming – one of the group that unearthed the first Chungkingosaurus artefact – officially classified it as a member of the Stegosaurinae family.",
-    "paleology": "Chungkingosaurus lived during the Late Jurassic period, approximately 150m years ago, across much of Asia – in particular the Chongqing and Guizhou region of China. It roamed forest areas with many larger Sauropods including Mamenchisaurus, while steering clear of predators such as Szechuanosaurus.",
+    "palaeoecology": "Chungkingosaurus lived during the Late Jurassic period, approximately 150m years ago, across much of Asia – in particular the Chongqing and Guizhou region of China. It roamed forest areas with many larger Sauropods including Mamenchisaurus, while steering clear of predators such as Szechuanosaurus.",
     "era": "Late Jurassic",
     "family": "Huayangosauridae",
     "genus": "Chungkingosaurus",
@@ -887,7 +887,7 @@
     "image": "/images/coelophysis.webp",
     "description": "The small theropod Coelophysis is one of the earliest dinosaurs to have walked the earth, dating back 190-225m years to the Triassic period. Its name translates to ‘hollow form’ in reference to its hollow leg bones, which allow it to reach speeds of up to 25mph thanks to its light frame. Coelophysis is a carnivore and uses its sharp teeth and talons to catch its prey.",
     "discovery": "Coelophysis was discovered in 1881 by amateur dinosaur enthusiast David Baldwin in New Mexico, although it wasn’t officially named until it was studied by expert Edward Drinker Cope in 1889. The first fossils found were of very poor quality, and it wasn’t until 1947 that Coelophysis was fully understood, when a large number of bones were found near to the original discovery site.",
-    "paleology": "Coelophysis fossils have been found across the world, from North America to the South of Africa and China. It co-existed with many other dinosaurs and reptiles in dry environments, feeding on small crocodiles and insects as well as scavenging on the carcasses of other dinosaurs.",
+    "palaeoecology": "Coelophysis fossils have been found across the world, from North America to the South of Africa and China. It co-existed with many other dinosaurs and reptiles in dry environments, feeding on small crocodiles and insects as well as scavenging on the carcasses of other dinosaurs.",
     "era": "Late Triassic",
     "family": "Coelophysidae",
     "genus": "Coelophysis",
@@ -942,7 +942,7 @@
     "image": "/images/compsognathus.webp",
     "description": "Compsognathus is one of the smallest theropods ever to have existed, at under 1m in length and weighing little over 2kg – roughly the size of a chicken. Despite its small stature Compsognathus is a carnivore, using its speed and agility to hunt down lizards, insects and even other small dinosaurs. Compsognathus’ name translates to ‘pretty jaw’, a reference to its long, narrow snout.",
     "discovery": "This dinosaur was discovered by fossil collector Joseph Oberndorfer in around 1859 and formed part of a collection of bones he excavated in Bavaria, Germany. The discovery consisted of a near-complete skeleton and was the only known Compsognathus specimen until over a century later in 1971, when another partial skeleton was found in Nice, France.",
-    "paleology": "Compsognathus existed during the Late Jurassic period around 150 million years ago and roamed the lagoons and beaches of Central Europe, which was comprised of many smaller islands at the time. It lived alongside numerous other dinosaurs and lizards – in fact, examination of the Bavarian skeleton’s stomach found the remains of a Bavarisaurus, a small lizard.",
+    "palaeoecology": "Compsognathus existed during the Late Jurassic period around 150 million years ago and roamed the lagoons and beaches of Central Europe, which was comprised of many smaller islands at the time. It lived alongside numerous other dinosaurs and lizards – in fact, examination of the Bavarian skeleton’s stomach found the remains of a Bavarisaurus, a small lizard.",
     "era": "Late Jurassic",
     "family": "Compsognathidae",
     "genus": "Compsognathus",
@@ -998,7 +998,7 @@
     "image": "/images/concavenator.webp",
     "description": "Notable for the large crest on its back, Concavenator is a carnivorous theropod that dates back around 130 million years to the Early Cretaceous period. This genus can grow up to 6m in length and over 800lbs in weight, with a long tail for maintaining balance and a pronounced triangular crest above its hips. Experts believe the crest may be used to regulate temperature or act as a display for attracting a mate.",
     "discovery": "This genus was first discovered in La Huérguina Formation, Spain by palaeontologists José Luis Sanz, Francisco Ortega and Fernando Escaso, and was formally named Concavenator in 2010 – the name translates to ‘Cuenca hunter with a hump’ referring to the location of its discovery and its most striking feature.",
-    "paleology": "Concavenator lived in the wet, woodland areas of Spain and western Europe, and fed on smaller therapods and mammals, using its serrated teeth to tear through the flesh of its prey. It shared its habitat with a wide range of dinosaurs including Euronychodon, Richardoestesia and Pelecanimimus.",
+    "palaeoecology": "Concavenator lived in the wet, woodland areas of Spain and western Europe, and fed on smaller therapods and mammals, using its serrated teeth to tear through the flesh of its prey. It shared its habitat with a wide range of dinosaurs including Euronychodon, Richardoestesia and Pelecanimimus.",
     "era": "Early Cretaceous",
     "family": "Carcharodontosauridae",
     "genus": "Concavenator",
@@ -1052,7 +1052,7 @@
     "image": "/images/corythosaurus.webp",
     "description": "Named after the distinctive crest on the top of its head – Corythosaurus translates to ‘helmet lizard’ – this herbivorous Hadrosaurid lived around 75m years ago during the Late Cretaceous period. Corythosaurus weighed around four tonnes and grew up to 9m in length, making it one of the largest Hadrosaurids, with a bill-shaped snout and thousands of small teeth for chewing through tough vegetation.",
     "discovery": "Corythosaurus was discovered in 1911 by renowned American palaeontologist Barnum Brown, who unearthed a near-complete skeleton in Red Deer River, a city in Alberta, Canada. Brown – known as ‘Mr. Bones’ thanks to his stellar reputation in his field – also excavated a significant amount of skin, allowing him to understand more about the genus.",
-    "paleology": "Corythosaurus lived in the forests of North America, co-existing with other large herbivores including Parasaurolophus and Centrosaurus. Studies have shown that these dinosaurs all had different jaw structures, suggesting that they had separate diets that allowed them to live alongside one another without competing for food.",
+    "palaeoecology": "Corythosaurus lived in the forests of North America, co-existing with other large herbivores including Parasaurolophus and Centrosaurus. Studies have shown that these dinosaurs all had different jaw structures, suggesting that they had separate diets that allowed them to live alongside one another without competing for food.",
     "era": "Late Cretaceous",
     "family": "Hadrosauridae",
     "genus": "Corythosaurus",
@@ -1110,7 +1110,7 @@
     "image": "/images/deinonychus.webp",
     "description": "Deinonychus is a genus of theropod that existed around 110m years ago during the Early Cretaceous period. Its name translates to ‘terrible claw’, a reference to the long, scything talon on the second toe of its hind feet, which Deinonychus uses to defend itself from predators and attack its prey. Deinonychus is a close relative of Velociraptor and can grow up to 3m in length.",
     "discovery": "Barnum Brown, known colloquially as ‘Mr. Bones’, discovered the first Deinonychus fossils in 1931 while exploring the Cloverly Formation in Montana in search of Tenontosaurus remains. During the mid-1960s over a thousand more Deinonychus bones were discovered near the location of the original find, allowing researchers to gain a much better understanding of Deinonychus’ appearance and behaviour.",
-    "paleology": "Deinonychus lived on the floodplains of the western states of the United States and Canada, roaming nearby forests and lagoons. It co-existed with – and preyed upon - many dinosaurs including Acrocanthosaurus and Sauropelta, and preferred to hunt alone rather than in packs.",
+    "palaeoecology": "Deinonychus lived on the floodplains of the western states of the United States and Canada, roaming nearby forests and lagoons. It co-existed with – and preyed upon - many dinosaurs including Acrocanthosaurus and Sauropelta, and preferred to hunt alone rather than in packs.",
     "era": "Early Cretaceous",
     "family": "Dromaeosauridae",
     "genus": "Deinonychus",
@@ -1165,7 +1165,7 @@
     "image": "/images/dilophosaurus.webp",
     "description": "Dilophosaurus is a genus of large carnivorous theropod, averaging around 3m in length and 300kg in weight. It gets its name – which translates to ‘two-crested lizard’ - from the distinctive crests that sit atop its head, which are used to attract mates for reproduction. Dilophosaurus’ slender build means it can move at high speeds, while its powerful jaw allows it to keep hold of prey as it struggles to escape.",
     "discovery": "The first Dilophosaurus fossils were discovered by American palaeontologist Charles L. Camp in Arizona in 1940. For many years the genus was misclassified as a Megalosaurus - it wasn’t until 1970 that fellow dinosaur expert Samuel P. Welles declared it a new genus after realising remains that had been wrongly described as cheek bones were in fact crests – a feature that had not previously been found in a theropod.",
-    "paleology": "Dilophosaurus inhabited the western states of North America during the Early Jurassic period, around 190m years ago. As one of the biggest carnivores of its environment, Dilophosaurus is likely to have preyed on large herbivores – although it may also have eaten fish and small reptiles.",
+    "palaeoecology": "Dilophosaurus inhabited the western states of North America during the Early Jurassic period, around 190m years ago. As one of the biggest carnivores of its environment, Dilophosaurus is likely to have preyed on large herbivores – although it may also have eaten fish and small reptiles.",
     "era": "Early Jurassic",
     "family": "Dilophosauridae",
     "genus": "Dilophosaurus",
@@ -1219,7 +1219,7 @@
     "image": "/images/dimetrodon.webp",
     "description": "Although it has a sailed back similar to many dinosaurs, Dimetrodon is actually a primitive synapsid dating back to the Early Permian period, around 290 million years ago – before the existence of even the earliest dinosaurs! The name Dimetrodon means ‘two measures of teeth’, in reference to this apex predator’s razor-sharp teeth that it used to grab and tear flesh from its prey.",
     "discovery": "The first Dimetrodon fossils were described in 1877 by legendary American palaeontologist Edward Drinker Cope, after he procured them from a group who had excavated the Red Beds rock formation in Texas. Cope officially named the genus Dimetrodon a year later, although he initially believed that the sail was a fin belonging to a lizard.",
-    "paleology": "Dimetrodon remains have been found across the southern United States and even as far away as Germany, dating back to a period when Europe and America formed a supercontinent known as Euramerica. The genus lived alongside a rich variety of primitive animals such as Diplocaulus, Edaphosaurus and Captorhinus, and is believed to have been the apex predator of its environment.",
+    "palaeoecology": "Dimetrodon remains have been found across the southern United States and even as far away as Germany, dating back to a period when Europe and America formed a supercontinent known as Euramerica. The genus lived alongside a rich variety of primitive animals such as Diplocaulus, Edaphosaurus and Captorhinus, and is believed to have been the apex predator of its environment.",
     "era": "Early Permian",
     "family": "Sphenacodontidae",
     "genus": "Dimetrodon",
@@ -1273,7 +1273,7 @@
     "image": "/images/dimorphodon.webp",
     "description": "The pterosaur Dimorphodon is notable for the size of its head, which is much bigger than found in similar pterosaurs such as Pterodactylus. Its name translates to ‘two-form tooth’, in reference to the two sets of teeth it has, while Dimorphodon is one of the smaller species of pterosaur, weighing just a few kilograms and with a wingspan of around 1.5m.",
     "discovery": "This genus was discovered by palaeontologist and fossil collector Mary Anning in Dorset, on the south coast of the United Kingdom, in 1828. It was initially classified as a new species of Pterodactylus, but in 1858 Anning’s discovery, then known as Pterodactylus macronyx, was officially classified as a new genus, Dimorphodon.",
-    "paleology": "Dimorphodon lived during the Early Jurassic period, around 190-200m years ago. It lived along the coasts of Europe and was a piscivore, roaming nearby forests to hunt for insects and small animals – although it may also have fed on carrion when it couldn’t find any prey.",
+    "palaeoecology": "Dimorphodon lived during the Early Jurassic period, around 190-200m years ago. It lived along the coasts of Europe and was a piscivore, roaming nearby forests to hunt for insects and small animals – although it may also have fed on carrion when it couldn’t find any prey.",
     "era": "Early Jurassic",
     "family": "Dimorphodontidae",
     "genus": "Dimorphodon",
@@ -1329,7 +1329,7 @@
     "image": "/images/diplodocus.webp",
     "description": "Diplodocus is one of the biggest sauropods that has ever existed, at around 12 tonnes in weight and 24m in length. This gentle giant is a herbivore and uses its long neck to feed from tall trees (in fact, Diplodocus’ teeth are strong enough to strip bark) as well as plants and shrubs at ground level, while its vast size discourages predators from attacking.",
     "discovery": "The first Diplodocus remains were discovered in 1877 by geologist Benjamin Franklin Mudge and palaeontologist Samuel Wendell Williston in Cañon City, Colorado. Many more Diplodocus fossils have since been found nearby, with artefacts unearthed across the west of the United States.",
-    "paleology": "Diplodocus lived in the Morrison Formation around 150m years ago during the Late Jurassic period and tended to live near swamps, where water was easy to come by and there was plenty of vegetation. Once fully grown it would not have had any natural predators, although juveniles may have been targeted by Allosaurus and Ceratosaurus.",
+    "palaeoecology": "Diplodocus lived in the Morrison Formation around 150m years ago during the Late Jurassic period and tended to live near swamps, where water was easy to come by and there was plenty of vegetation. Once fully grown it would not have had any natural predators, although juveniles may have been targeted by Allosaurus and Ceratosaurus.",
     "era": "Late Jurassic",
     "family": "Diplodocidae",
     "genus": "Diplodocus",
@@ -1390,7 +1390,7 @@
     "image": "/images/dreadnoughtus.webp",
     "description": "At around 65 tonnes in weight and 19m in length, the titanosaurian sauropod Dreadnoughtus – which translates to ‘fears nothing’ - is one of the largest dinosaurs that has ever lived. Despite its vast size and intimidating name Dreadnoughtus is a herbivore, using its 11m long neck to reach leaves that other dinosaurs can’t get to, while also feeding on ground-level vegetation.",
     "discovery": "Dreadnoughtus was first discovered in the Cerro Fortaleza Formation, Argentina by American palaeontologist Kenneth Lacovara in 2005. The fossils found form one of the most complete dinosaur skeletons ever found, and the number and weight of the bones meant that they weren’t fully unearthed until 2009.",
-    "paleology": "Dreadnoughtus existed during the Cretaceous period around 75-100m years ago, living alongside other large sauropods in the forests and floodplains of Argentina. Although there were many predators in the environment during this period, Dreadnoughtus’ size means it is unlikely to have been hunted – but if it was attacked, it could use its powerful tail to defend itself.",
+    "palaeoecology": "Dreadnoughtus existed during the Cretaceous period around 75-100m years ago, living alongside other large sauropods in the forests and floodplains of Argentina. Although there were many predators in the environment during this period, Dreadnoughtus’ size means it is unlikely to have been hunted – but if it was attacked, it could use its powerful tail to defend itself.",
     "era": "Late Cretaceous",
     "family": "Titanosauria",
     "genus": "Dreadnoughtus",
@@ -1449,7 +1449,7 @@
     "image": "/images/dryosaurus.webp",
     "description": "Dryosaurus is a genus of ornithopod dinosaur that lived during the Late Jurassic period, around 140-155m years ago. It weighs around 80-90kg and can reach up to 5m in length, with strong legs for running at speed and a stiff tail for retaining balance – both key attributes for escaping predators. Its name translates to ‘tree lizard’, in reference to its preference for forest areas.",
     "discovery": "This genus was discovered in 1876 by American palaeontologist Samuel Wendell Williston in Wyoming, USA, although it wasn’t until 1894 that is was classified as a new genus of dinosaur. Many more Dryosaurus fossils were unearthed during the 20th Century, providing examples of the genus at various ages.",
-    "paleology": "Dryosaurus lived in the Morrison Formation in the western United States, co-existing with various dinosaurs including Stegosaurus and the predators Ceratosaurus and Allosaurus along the vast floodplains of the region. It had an herbivorous diet, feeding on ground-level plants and shrubs.",
+    "palaeoecology": "Dryosaurus lived in the Morrison Formation in the western United States, co-existing with various dinosaurs including Stegosaurus and the predators Ceratosaurus and Allosaurus along the vast floodplains of the region. It had an herbivorous diet, feeding on ground-level plants and shrubs.",
     "era": "Late Jurassic",
     "family": "Dryosauridae",
     "genus": "Dryosaurus",
@@ -1506,7 +1506,7 @@
     "image": "/images/dunkleosteus.webp",
     "description": "Dunkleosteus dates back to the late Devonian period and is the apex predator of its environment, with a set of powerful jaws that allow it to rip through even the best armoured prey. This genus gets part of its name from its blunt, bony head (‘osteus’ is the Greek word for bone), and can grow up to 10m in length and weigh in excess of four tonnes.",
     "discovery": "The genus was discovered by amateur palaeontologist Jay Terrell in 1867 when he was searching for fossils along the banks of Lake Erie in Ohio, USA. Terrell’s find was initially believed to be a Dinichthys specimen, but further research confirmed that it was a new genus. Named after the esteemed American palaeontologist David Hosbrook Dunkle in 1956, Dunkleosteus fossils have since been found across North America, Europe and North Africa.",
-    "paleology": "Dunkleosteus lived in a marine environment around 360-380 million years ago, preferring the bottom of the ocean where it could feed on cephalopods, ammonites, fish and even sharks. It shared its habitat with other prehistoric carnivorous fish including Titanichthys, although it had no natural predators.",
+    "palaeoecology": "Dunkleosteus lived in a marine environment around 360-380 million years ago, preferring the bottom of the ocean where it could feed on cephalopods, ammonites, fish and even sharks. It shared its habitat with other prehistoric carnivorous fish including Titanichthys, although it had no natural predators.",
     "era": "Late Devonian",
     "family": "Dunkleosteidae",
     "genus": "Dunkleosteus",
@@ -1555,7 +1555,7 @@
     "image": "/images/edmontosaurus.webp",
     "description": "Edmontosaurus is a genus of herbivorous hadrosaurid dinosaur notable for its distinctive bill-shaped mouth. At 9m in length and over 3 tonnes in weight, Edmontosaurus is one of the largest hadrosaurids – but despite its bulky frame it can run at speeds of up to 30mph, allowing it to escape from predators.",
     "discovery": "The first Edmontosaurus bones were discovered in 1891, when the ‘king of collectors’ John Bell Hatcher unearthed them in the Lance Formation, Wyoming. However, the fossils were initially considered a new species of Claosaurus – it wasn’t until 1917, and the discovery of two further skeletons in Edmonton, Canada, that it was classified as a new genus.",
-    "paleology": "Edmontosaurus lived during the Late Cretaceous period around 65-75m years ago, and co-existed with dinosaurs like Triceratops, Albertosaurus and Pachycephalosaurus in the subtropical climate of Canada. It shared its environment with the apex predator Tyrannosaurus, relying on its speed and intelligence to stay safe.",
+    "palaeoecology": "Edmontosaurus lived during the Late Cretaceous period around 65-75m years ago, and co-existed with dinosaurs like Triceratops, Albertosaurus and Pachycephalosaurus in the subtropical climate of Canada. It shared its environment with the apex predator Tyrannosaurus, relying on its speed and intelligence to stay safe.",
     "era": "Late Cretaceous",
     "family": "Hadrosauridae",
     "genus": "Edmontosaurus",
@@ -1613,7 +1613,7 @@
     "image": "/images/gallimimus.webp",
     "description": "Gallimimus is a genus of theropod from the ornithomimidae family. Although its name translates to ‘chicken mimic’, Gallimimus is the biggest of the ornithomimid dinosaurs, at around 450kg and 4m in length – the name refers to its neck vertebrae, which are similar to those of chickens. Fast, agile, intelligent and with excellent vision. Gallimimus is well adapted to evading predators and catching its own prey.",
     "discovery": "This genus was discovered in the Gobi Desert in 1964 by Polish palaeobiologist Zofia Kielan-Jaworowska when she excavated a partial skeleton in the sands of the Nemegt Basin. Further exploration of the area in the next few years unearthed more Gallimimus bones, giving researchers a more rounded understanding of the genus.",
-    "paleology": "The remains of Gallimimus have been found across Mongolia, with fossils dating the genus to the Late Cretaceous period, approximately 70m years ago. It lived alongside a wide variety of dinosaurs near rivers, lakes and streams, feeding on ground-level plants and shrubs.",
+    "palaeoecology": "The remains of Gallimimus have been found across Mongolia, with fossils dating the genus to the Late Cretaceous period, approximately 70m years ago. It lived alongside a wide variety of dinosaurs near rivers, lakes and streams, feeding on ground-level plants and shrubs.",
     "era": "Late Cretaceous",
     "family": "Ornithomimidae",
     "genus": "Gallimimus",
@@ -1669,7 +1669,7 @@
     "image": "/images/geosternbergia.webp",
     "description": "Geosternbergia is named after American palaeontologist George F. Sternberg, who was the first to discover then genus. It is one of the largest pterosaurs, with a wingspan of over 7m and a long, tapered beak that can grab fish out of the water or be used as a spear for catching them. Geosternbergia is notable for the distinctive crest on its head, which it used to attract mates for reproduction.",
     "discovery": "Sternberg extracted the first Geosternbergia fossils from the Niobrara Formation, Kansas in 1952. It was originally classified as a new species of Pteranodon, but further study let to its reclassification as a subgenus in 1971 and eventually a new genus in 2010.",
-    "paleology": "Geosternbergia dates back to the Late Cretaceous period, around 85m years ago, and lived in North America. It mainly lived near coastal regions and had a piscivorous diet, darting into the ocean to feed and steering clear of the apex predator, Tyrannosaurus rex.",
+    "palaeoecology": "Geosternbergia dates back to the Late Cretaceous period, around 85m years ago, and lived in North America. It mainly lived near coastal regions and had a piscivorous diet, darting into the ocean to feed and steering clear of the apex predator, Tyrannosaurus rex.",
     "era": "Late Cretaceous",
     "family": "Pteranodontidae",
     "genus": "Geosternbergia",
@@ -1724,7 +1724,7 @@
     "image": "/images/giganotosaurus.webp",
     "description": "At around 14 tonnes in weight and 15m in length, Giganotosaurus is one of the largest theropods ever to have lived – its name translates to ‘giant southern lizard’, in reference to its large frame and its South American habitat. It has a similar appearance to the infamous Tyrannosaurus rex, with rows of long, serrated teeth and a powerful jaw for tearing into its prey.",
     "discovery": "Giganotosaurus was discovered by amateur fossil collector Rubén D. Carolini in 1993 when he was searching for bones in Neuquén, Argentina. Carolini’s first find was a leg bone belonging to an unknown large theropod, which led to further exploration of the area – the following year, numerous related artefacts were excavated that confirmed that this was a new genus.",
-    "paleology": "Giganotosaurus was the apex predator of the Late Cretaceous period approximately 90-110m years ago and lived in southern Argentina alongside many other genera of dinosaurs. It fed on large herbivores of the period including Argentinosaurus, mainly attacking juveniles due to their smaller size.",
+    "palaeoecology": "Giganotosaurus was the apex predator of the Late Cretaceous period approximately 90-110m years ago and lived in southern Argentina alongside many other genera of dinosaurs. It fed on large herbivores of the period including Argentinosaurus, mainly attacking juveniles due to their smaller size.",
     "era": "Late Cretaceous",
     "family": "Carcharodontosauridae",
     "genus": "Giganotosaurus",
@@ -1778,7 +1778,7 @@
     "image": "/images/gigantspinosaurus.webp",
     "description": "Gigantspinosaurus is a genus of herbivorous dinosaur notable for the large spines on its shoulders, which help to protect it from predators – in fact, its name translates to ‘giant-spined lizard’. It is part of the stegosaur family, weighing around 700kg and growing up to 7.7m in length with a strong jaw that helps it to chew the plants and shrubs it feeds on.",
     "discovery": "The first Gigantspinosaurus discovery took place in Pengtang, China in 1985, when palaeontologist Ouyang Hui unearthed a partial skeleton featuring a lower jaw, tail and feet, as well as some skin impressions. The bones were initially thought to be that of a Tuojiangosaurus but following the excavation of a second Gigantspinosaurus specimen from Fuquan the previous year, it was finally classified as a new genus in 2006.",
-    "paleology": "Gigantspinosaurus existed during the Late Jurassic period around 160m years ago, with the fossil discovery locations suggesting that it preferred a wet environment with plenty of vegetation. It lived alongside many other dinosaurs, including its relative the stegosaur family, Chungkingosaurus.",
+    "palaeoecology": "Gigantspinosaurus existed during the Late Jurassic period around 160m years ago, with the fossil discovery locations suggesting that it preferred a wet environment with plenty of vegetation. It lived alongside many other dinosaurs, including its relative the stegosaur family, Chungkingosaurus.",
     "era": "Late Jurassic",
     "family": "Stegosauria",
     "genus": "Gigantspinosaurus",
@@ -1838,7 +1838,7 @@
     "image": "/images/guanlong.webp",
     "description": "The name for this small tyrannosaurid dinosaur means ‘crown dragon’, named for the large, air-filled cranial crest it possessed. This predator measured about 3 metres in length, and reached maturity at around 7 years old.",
     "discovery": "Preserved remains of a pair of Guanlong skeletons, one adult and one juvenile, were first discovered in the Wucaiwan area of Junggar Basin in China, buried in mudstone. A joint Chinese-American team discovered the dinosaur in 2002, and the Guanlong was first described to the scientific community in 2006.",
-    "paleology": "The Guanlong is the oldest-known of the tyrannosaurids, making it a distant ancestor of the famous Tyrannosaurus rex. The Guanlong had a decorative crest that may have been used to attract mates. They lived in what is now northwestern China about 160 million years ago, and were likely a secondary predator within its ecosystem, with a primitive carnosaur being the primary.",
+    "palaeoecology": "The Guanlong is the oldest-known of the tyrannosaurids, making it a distant ancestor of the famous Tyrannosaurus rex. The Guanlong had a decorative crest that may have been used to attract mates. They lived in what is now northwestern China about 160 million years ago, and were likely a secondary predator within its ecosystem, with a primitive carnosaur being the primary.",
     "era": "Late Jurassic",
     "family": "Proceratosauridae",
     "genus": "Guanlong",
@@ -1868,7 +1868,7 @@
     "image": "/images/herrerasaurus.webp",
     "description": "Herrerasaurus is a small theropod, measuring around 4.5m in length and 200kg in weight. It is one of the earliest known dinosaurs, dating back to the Late Triassic period. With a light frame that allow it to run very quickly and large, jagged teeth that help it to latch onto prey, Herrerasaurus feeds on smaller herbivores.",
     "discovery": "This genus gets its name from the man who discovered it, an Argentine goatherd named Victorino Herrera. He found the first Herrerasaurus bones in San Juan in 1959, although it was not officially classified as a new genus until 1988, when a complete skull was unearthed.",
-    "paleology": "Herrerasaurus lived in Argentina around 228m years ago. As one of the earliest dinosaurs it shared its environment mostly with reptiles like Saurosuchus and Venaticosuchus, although another early dinosaur, Eoraptor, existed during the same period. Research suggests that Herrerasaurus preferred a warm, wet climate, and mainly lived in forests and on floodplains.",
+    "palaeoecology": "Herrerasaurus lived in Argentina around 228m years ago. As one of the earliest dinosaurs it shared its environment mostly with reptiles like Saurosuchus and Venaticosuchus, although another early dinosaur, Eoraptor, existed during the same period. Research suggests that Herrerasaurus preferred a warm, wet climate, and mainly lived in forests and on floodplains.",
     "era": "Late Triassic",
     "family": "Herrerasauridae",
     "genus": "Herrerasaurus",
@@ -1922,7 +1922,7 @@
     "image": "/images/homalocephale.webp",
     "description": "Notable for its distinctive flat skull (its name translates to ‘even head’), Homalocephale is a small, herbivorous dinosaur that grows to around 2.3m in length and around 45kg in weight. This genus has excellent eyesight and long legs that help it to locate and escape predators, while its thick, flat skull and wide pelvis protect it from attack.",
     "discovery": "Homalocephale was first classified as a new genus in 1974 by Polish palaeontologists Halszka Osmólska and Teresa Maryańska, based on a small number of fossils, including a partial skull, found in Mongolia. Many palaeontologists believed the bones were actually from a juvenile Prenocephale, rather than a genus in its own right.",
-    "paleology": "Homalocephale lived during the Late Cretaceous period around 68-72m years ago, roaming the forested areas of Mongolia in search of vegetation at ground level. These densely wooded areas may also have helped Homalocephale to hide from larger carnivores that shared this environment.",
+    "palaeoecology": "Homalocephale lived during the Late Cretaceous period around 68-72m years ago, roaming the forested areas of Mongolia in search of vegetation at ground level. These densely wooded areas may also have helped Homalocephale to hide from larger carnivores that shared this environment.",
     "era": "Late Cretaceous",
     "family": "Pachycephalosauridae",
     "genus": "Homalocephale",
@@ -1977,7 +1977,7 @@
     "image": "/images/ichthyosaurus.webp",
     "description": "Ichthyosaurus is a small marine reptile, measuring around 2m in length – far smaller than other genera of ichthyosaurs, which can grow up to 25m. Its paddle-like limbs and streamlined body allow it to move at great speed through water, catching its prey in its long, thin snout. Ichthyosaurus is a piscivore, with a diet consisting mostly of fish and squid.",
     "discovery": "Celebrated English palaeontologist and fossil collector Mary Anning discovered Ichthyosaurus in 1811 along with her brother Joseph, when they uncovered a skeleton while digging for fossils in Lyme Regis, on the south coast of England. The remains were initially thought to be those of a crocodile – almost 200 years later, at the beginning of the 21st Century, advances in knowledge allowed Anning’s find to be classified as a new genus.",
-    "paleology": "Ichthyosaurus lived during the Late Triassic and Early Jurassic periods, around 120-220 million years ago. This genus lived in the ocean and did not venture onto land, swimming the seas of Europe and Asia – it even gave birth in water.",
+    "palaeoecology": "Ichthyosaurus lived during the Late Triassic and Early Jurassic periods, around 120-220 million years ago. This genus lived in the ocean and did not venture onto land, swimming the seas of Europe and Asia – it even gave birth in water.",
     "era": "Late Triassic",
     "family": "Ichthyosauridae",
     "genus": "Ichthyosaurus",
@@ -2008,6 +2008,179 @@
       }
     ],
     "territory": "water",
+    "game": "Base game"
+  },
+{
+    "id": 38,
+    "name": "Iguanodon",
+    "slug": "iguanodon",
+    "image": "/images/iguanodon.webp",
+    "description": "Iguanodon is a genus of large, herbivorous ornithopod, weighing around 3.2 tonnes and growing up to 8m long. This dinosaur’s name translates to ‘iguana tooth’, as its teeth bear a strong resemblance to those of an iguana – broad and flat, to help them chew tough vegetation. Iguanodon’s hands feature large spikes on the thumbs, which help it to protect itself from predators.",
+    "discovery": "The remains of the first Iguanodon were found in Sussex, England in 1822, when palaeontologist Gideon Mantell unearthed multiple teeth from Tilgate Forest. The teeth were initially thought to belong to a crocodile, however further analysis by a series of experts including William Buckland and Samuel Stutchbury confirmed that it was a new genus of dinosaur.",
+    "palaeoecology": "Fossil findings show that Iguanodon lived during the Early Cretaceous period, around 110-140m years ago, inhabiting much of western Europe. It co-existed with numerous other genera of dinosaur in forests and swamps near the coastline and had to defend itself from predators including the large theropod Baryonyx.",
+    "era": "Early Cretaceous",
+    "family": "Iguanodontidae",
+    "genus": "Iguanodon",
+    "height": 2,
+    "length": 8,
+    "weight": 3200,
+    "diet": [
+      "Herbivore"
+    ],
+    "feeder": [
+      "Ground Palaeobotany"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 1,
+        "max": 4
+      }
+    ],
+    "dig_sites": [
+      "Hythe Formation",
+      "Iguanodon Mine"
+    ],
+    "security_rating": 4,
+    "minimum_population": 1,
+    "environment": [
+      {
+        "water": 6,
+        "open_space": 63,
+        "ground_fruit": 31
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "Sauropod",
+          "Ornithomimosaurid",
+          "Ceratopsid",
+          "Ankylosaurid",
+          "Stegosaurid",
+          "Scavenger"
+        ],
+        "dislikes": [
+          "Carnivores",
+          "Therizinosaurus"
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+{
+    "id": 39,
+    "name": "Indominus rex",
+    "slug": "indominus-rex",
+    "image": "/images/indominus-rex.webp",
+    "description": "Indominus rex is the first ‘hybrid’ genus created by combining multiple existing genera, including Deinosuchus, Giganotosaurus, Carnotaurus, Velociraptor and the infamous Tyrannosaurus rex, as well as tree frogs and snakes. As such, Indominus rex is perhaps the most fearsome dinosaur of all, boasting Giganotosaurus’ size, Velociraptor’s intelligence and speed, Tyrannosaurus rex’s power and aggression, plus further traits from tree frogs and cuttlefish that allow it to hide its thermal signature.",
+    "discovery": "American geneticist Dr. Henry Wu began the development of the new genus in 2012, after Jurassic World owner Simon Masrani requested the creation of a new, exciting genus to increase ticket sales. Indominus rex’s conception has been fraught with controversy, however – the genus has proved far more intelligent than anticipated, making worldwide headlines in 2015 when it escaped its paddock and went on a rampage across the park.",
+    "palaeoecology": "Due to its synthetic origins, experts are still learning about Indominus rex’s behaviour, diet and natural habitat – it was raised in isolation so that researchers could study it. Indominus rex’s ferocity and intelligence make it the apex predator of its habitat.",
+    "era": "Holocene",
+    "family": "Hybrid",
+    "genus": "Hybrid",
+    "height": 6.7,
+    "length": 16.9,
+    "weight": 5700,
+    "diet": [
+      "Carnivore"
+    ],
+    "feeder": [
+      "Meat",
+      "Live Prey"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "security_rating": 6,
+    "minimum_population": 1,
+    "environment": [
+      {
+        "water": 5,
+        "forest": 48,
+        "open_space": 48,
+        "prey": 10
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "Velociraptor"
+        ],
+        "dislikes": [
+          "Small Herbivores",
+          "Medium Herbivores",
+          "Sauropods",
+          "Small Carnivores",
+          "Medium Carnivores",
+          "Large Carnivores",
+          "Therizinosaurus"
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+{
+    "id": 40,
+    "name": "Indoraptor",
+    "slug": "indoraptor",
+    "image": "/images/indoraptor.webp",
+    "description": "Indoraptor is a hybrid dinosaur created from the DNA of numerous other genera including Velociraptor, Deinosuchus and the ferocious Indominus rex. Famed for its high intelligence and aggressive nature, Indoraptor is known as one of the most dangerous dinosaurs in existence, with incredible speed, strength and agility, excellent eyesight and the ability to camouflage itself ahead of ambushing its prey.",
+    "discovery": "Following the scientific breakthrough of Indominus rex, Dr. Henry Wu engineered the creation of Indoraptor – which translates to ‘indomitable thief’ – in a laboratory at Lockwood Manor, California in 2015. Wu designed Indoraptor based on the Indominus rex genome and worked to enhance many of its characteristics to create an even more impressive dinosaur.",
+    "palaeoecology": "Created just a few years ago, there is much still to be learned about Indoraptor’s behaviour. Despite showing a high level of intelligence, Indoraptor’s upbringing in laboratory conditions mean it lacks socialisation - its hostile behaviour and great strength mean that other dinosaurs should steer clear.",
+    "era": "Holocene",
+    "family": "Hybrid",
+    "genus": "Hybrid",
+    "height": 3.1,
+    "length": 7.3,
+    "weight": 70011000,
+    "diet": [
+      "Carnivore"
+    ],
+    "feeder": [
+      "Meat",
+      "Live Prey"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "security_rating": 6,
+    "minimum_population": 1,
+    "environment": [
+      {
+        "water": 18,
+        "rock": 10,
+        "open_space": 72
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "dislikes": [
+          "Ornithomimosaurid",
+          "Ceratopsid",
+          "Ankylosaurid",
+          "Hadrosaurid",
+          "Pachycephalosaurid",
+          "Stegosaurid",
+          "Nodosaurids",
+          "Iguanodonts",
+          "Sauropod",
+          "Small Carnivores",
+          "Medium Carnivores",
+          "Large Carnivores",
+          "Velociraptor",
+          "Therizinosaurus"
+        ]
+      }
+    ],
     "game": "Base game"
   }
 ]
