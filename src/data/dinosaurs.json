@@ -2182,5 +2182,111 @@
       }
     ],
     "game": "Base game"
+  },
+{
+    "id": 41,
+    "name": "Kentrosaurus",
+    "slug": "kentrosaurus",
+    "image": "/images/kentrosaurus.webp",
+    "description": "The stegosaurian Kentrosaurus is an herbivorous dinosaur that can grow up to 4m in length and weigh over 700kg. Like many other stegosaurian dinosaurs, Kentrosaurus is well protected from predators, with armour plates that run the length of its back and a pair of spikes that jut out from its shoulders. It also has a long, spiked tail that helps it to fend off attackers.",
+    "discovery": "Kentrosaurus was first discovered in 1909, when a team led by German palaeontologist Werner Janensch unearthed a series of fossils in the Tendaguru Formation, Tanzania. It was officially named by Edwin Hennig in 1915, translating to ‘sharp point lizard’ in reference to the spikes on its body.",
+    "palaeoecology": "Kentrosaurus lived during the Late Jurassic period, around 150-155m years ago. It inhabited Tanzania, which had a warm climate, many small lagoons and forested areas filled with lush vegetation for the dinosaur to feed on. Apex predator Allosaurus also lived during this period, preying on stegosaurian dinosaurs like Kentrosaurus.",
+    "era": "Late Jurassic",
+    "family": "Stegosauridae",
+    "genus": "Kentrosaurus",
+    "height": 1,
+    "length": 4,
+    "weight": 700,
+    "diet": [
+      "Herbivore"
+    ],
+    "feeder": [
+      "Ground Palaeobotany"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 2,
+        "max": 4
+      }
+    ],
+    "dig_sites": [
+      "Tendaguru Formation"
+    ],
+    "security_rating": 2,
+    "minimum_population": 2,
+    "environment": [
+      {
+        "water": 7,
+        "forest": 24, 
+        "ground_fiber": 69
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "Sauropod",
+          "Ornithomimosaurid",
+          "Hadrosaurid",
+          "Pachycephalosaurid"
+        ],
+        "dislikes": [
+          "Dr. Wu Hybrids",
+          "Ceratopsid",
+          "Ankylosaurid",
+          "Stegosaurid",
+          "Therizinosaurus"
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+{
+    "id": 42,
+    "name": "Kronosaurus",
+    "slug": "kronosaurus",
+    "image": "/images/kronosaurus.webp",
+    "description": "Kronosaurus is a marine reptile from the pliosaur family dating back to the Early Cretaceous period and takes its name from the Greek god Kronos. Kronosaurus’ large, sharp teeth and enormous size – it can grow to in excess of 10m in length – made it the apex predator of its era, while this genus’ powerful flippers allow it to swim at high speeds.",
+    "discovery": "Although the genus was officially described in 1924, it was initially discovered in 1899 when a small bone fragment was unearthed in Hughenden, a small town in Queensland, Australia. Further investigation of the area led to the unearthing of a near-complete skeleton that allowed palaeontologists to gain a better understanding of the genus.",
+    "palaeoecology": "Although the majority of specimens have been found in Australia, Kronosaurus fossils have been found as far away as Colombia. Research suggests that the genus preferred to swim in shallow waters, while analysis of the stomach contents of the near-complete skeleton showed that it fed mainly on smaller plesiosaurs, fish and squid.",
+    "era": "Early Cretaceous",
+    "family": "Pliosauridae",
+    "genus": "Kronosaurus",
+    "height": 2,
+    "length": 9.5,
+    "weight": 11500,
+    "diet": [
+      "Piscivore"
+    ],
+    "feeder": [
+      "Sharks",
+      "Fish"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 1,
+        "max": 2
+      }
+    ],
+    "dig_sites": [
+      "Toolebuc Formation"
+    ],
+    "security_rating": 5,
+    "minimum_population": 1,
+    "environment": [
+      {
+        "open_space": 100,
+        "fish": 0.5
+      }
+    ],
+    "territory": "water",
+    "cohabitation": [
+      {
+        "dislikes": [
+          "Marine (Large)"
+        ]
+      }
+    ],
+    "game": "Base game"
   }
 ]
