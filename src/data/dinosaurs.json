@@ -2137,7 +2137,7 @@
     "genus": "Hybrid",
     "height": 3.1,
     "length": 7.3,
-    "weight": 70011000,
+    "weight": 1100,
     "diet": [
       "Carnivore"
     ],
@@ -2284,6 +2284,497 @@
       {
         "dislikes": [
           "Marine (Large)"
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+{
+    "id": 43,
+    "name": "Lokiceratops",
+    "slug": "lokiceratops",
+    "image": "/images/lokiceratops.webp",
+    "description": "This herbivore lived about 78 million years ago, during the Late Cretaceous period. It could grow to about 6m in length. The dinosaur is named after Loki, the trickster god from Norse mythology, due to the similarity of its ornate face horns and crest to depictions of Loki’s helm.",
+    "discovery": "A relatively new dinosaur to have been discovered, Lokiceratops fossils were first unearthed in Montana’s Badlands in 2019. The specimen was noted to be a very large and very mature individual.",
+    "palaeoecology": "The primary habitat of the Lokiceratops was riverine, rich in forested areas, where they likely co-habited with other ceratopsian dinosaurs. The impressive facial ornamentation of Lokiceratops (and other ceratopsians found in this area) could be a result of an isolated, island-like evolution, in which dinosaurs compete for mates and intimidate rivals with impressive horns, frills and colours.",
+    "era": "Late Cretaceous",
+    "family": "Ceratopsidae",
+    "genus": "Lokiceratops",
+    "height": 1.9,
+    "length": 6,
+    "weight": 5000,
+    "diet": [
+      "Herbivore"
+    ],
+    "feeder": [
+      "Ground Palaeobotany"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 2,
+        "max": 4
+      }
+    ],
+    "dig_sites": [
+      "",
+      ""
+    ],
+    "security_rating": 6,
+    "minimum_population": 1,
+    "environment": [
+      {
+        "water": 5,
+        "forest": 48,
+        "sand": 12,
+        "rock": 10,
+        "open_space": 48,
+        "prey": 1.00,
+        "fish": 0.4, 
+        "tall_leaf": 8, 
+        "ground_leaf": 8, 
+        "ground_fruit": 32
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "",
+          ""
+        ],
+        "dislikes": [
+          "",
+          ""
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+{
+    "id": 44,
+    "name": "Lystrosaurus",
+    "slug": "lystrosaurus",
+    "image": "/images/lystrosaurus.webp",
+    "description": "Notable for its short legs and the two large tusk-like teeth protruding from either side of its mouth, the dicynodont Lystrosaurus is an herbivorous therapsid that existed during the Late Permian and Early Triassic periods, approximately 250 million years ago. In fact, at one stage Lystrosaurus made up around 95% of all land vertebrates, having survived the Permian-Triassic extinction event that destroyed the majority of all life on earth.",
+    "discovery": "Lystrosaurus was first described by renowned palaeontologist Edward Drinker Cope in 1870, having been discovered by fossil collector Dr. Elias Root Beadle a few years previously. Its name translates as ‘shovel lizard’ in reference to its powerful forelimbs, which it may have used to dig burrows.",
+    "palaeoecology": "Specimens of this genus have been found in locations across the world from Antarctica to South Africa, showing that Lystrosaurus travelled long distances during the era of Pangaea. Experts believe it preferred to live near plains and swamps and existed on a diet of small plants and other low-lying vegetation.",
+    "era": "Late Permian",
+    "family": "Lystrosauridae",
+    "genus": "Lystrosaurus",
+    "height": 0.4,
+    "length": 1,
+    "weight": 9,
+    "diet": [
+      "Herbivore"
+    ],
+    "feeder": [
+      "Ground Palaeobotany"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 3,
+        "max": 4
+      }
+    ],
+    "dig_sites": [
+      "",
+      ""
+    ],
+    "security_rating": 6,
+    "minimum_population": 1,
+    "environment": [
+      {
+        "water": 5,
+        "forest": 48,
+        "sand": 12,
+        "rock": 10,
+        "open_space": 48,
+        "prey": 1.00,
+        "fish": 0.4, 
+        "tall_leaf": 8, 
+        "ground_leaf": 8, 
+        "ground_fruit": 32
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "",
+          ""
+        ],
+        "dislikes": [
+          "",
+          ""
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+{
+    "id": 45,
+    "name": "Maiasaura",
+    "slug": "maiasaura",
+    "image": "/images/maiasaura.webp",
+    "description": "Maiasaura’s name translates to ‘good mother lizard’, as it was the first dinosaur to show evidence of feeding hatchlings while they were still in the nest. Notable for having a bill rather than a snout or nose, Maiasaura was a large herbivore (growing up to 9m in length and weighing in excess of 900kg) that fed on leaves, branches, ferns and other plants.",
+    "discovery": "American palaeontologists Robert Makela and Jack Horner first described Maiasaura in 1979, after a range of fossils were excavated from the Two Medicine Formation, Montana the previous year. The finds consisted of an adult dinosaur along with numerous juveniles and broken eggshells, and further investigation of the area found over 200 specimens, leading to the colloquial name ‘Egg Mountain’.",
+    "palaeoecology": "Maiasaura lived alongside numerous other dinosaurs including Troodon and Orodromeus during the Late Cretaceous period, around 75-80m years ago. The location of so many eggshells in close proximity suggests that Maiasaura lived in groups, while research has shown that they roamed forests which provided plenty of vegetation while hiding them from predators.",
+    "era": "Late Cretaceous",
+    "family": "Hadrosauridae",
+    "genus": "Maiasaura",
+    "height": 3,
+    "length": 9,
+    "weight": 907,
+    "diet": [
+      "Herbivore"
+    ],
+    "feeder": [
+      "Ground Palaeobotany"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 2,
+        "max": 4
+      }
+    ],
+    "dig_sites": [
+      "",
+      ""
+    ],
+    "security_rating": 6,
+    "minimum_population": 1,
+    "environment": [
+      {
+        "water": 5,
+        "forest": 48,
+        "sand": 12,
+        "rock": 10,
+        "open_space": 48,
+        "prey": 1.00,
+        "fish": 0.4, 
+        "tall_leaf": 8, 
+        "ground_leaf": 8, 
+        "ground_fruit": 32
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "",
+          ""
+        ],
+        "dislikes": [
+          "",
+          ""
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+{
+    "id": 46,
+    "name": "Mamenchisaurus",
+    "slug": "mamenchisaurus",
+    "image": "/images/mamenchisaurus.webp",
+    "description": "Notable for its incredibly long neck, which can grow up to 11m – roughly half of the its overall length – Mamenchisaurus is one of the largest sauropods to have existed. This herbivorous dinosaur feeds on plants and leaves, swallowing vegetation whole without the need for chewing. Mamenchisaurus’ name derives from the place of its discovery, the Mamen Brook in Sichuan, China.",
+    "discovery": "Mamenchisaurus was discovered in 1952, although it wasn’t formally identified until 1954 when Yang Zhongian (better known as C. C. Young) began studying the fossils that had been found on a construction site – leading to the type name Mamenchisaurus constructus.",
+    "palaeoecology": "Mamenchisaurus existed during the Late Jurassic period, approximately 145-155m years ago and inhabited various parts of China, sharing its environment with other herbivores including Chungkingosaurus and Omeisaurus. It tended to feed from large trees, using its long but relatively light neck to reach vegetation that other dinosaurs could not.",
+    "era": "Late Jurassic",
+    "family": "Mamenchisauridae",
+    "genus": "Mamenchisaurus",
+    "height": 8,
+    "length": 21,
+    "weight": 14000,
+    "diet": [
+      "Herbivore"
+    ],
+    "feeder": [
+      "Tall Palaeobotany"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "dig_sites": [
+      "",
+      ""
+    ],
+    "security_rating": 6,
+    "minimum_population": 1,
+    "environment": [
+      {
+        "water": 5,
+        "forest": 48,
+        "sand": 12,
+        "rock": 10,
+        "open_space": 48,
+        "prey": 1.00,
+        "fish": 0.4, 
+        "tall_leaf": 8, 
+        "ground_leaf": 8, 
+        "ground_fruit": 32
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "",
+          ""
+        ],
+        "dislikes": [
+          "",
+          ""
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+{
+    "id": 47,
+    "name": "Megalodon",
+    "slug": "megalodon",
+    "image": "/images/megalodon.webp",
+    "description": "Megalodon dates back around 20 million years to the Miocene period, and is one of the largest sharks ever to have existed - growing up to 15 metres in length and 50 tonnes in weight. Its name, which translates as ‘big tooth’ is self-explanatory: Megalodon has six rows of teeth that could grow up to seven inches in length.",
+    "discovery": "The exact nature of Megalodon’s initial discovery is unclear, although there are descriptions of its teeth dating back almost 2,500 years. The genus was formally described for the first time in 1835 by Swiss-American biologist Louis Agassi, based on detailed analysis of a number of teeth.",
+    "palaeoecology": "Megalodon is known to have existed across the entire world, with specimens recovered from every continent bar Antarctica. The genus preferred warmer waters so tended to stick to sub-tropical areas, although it was adapted to survive colder temperatures as well. With around 276 teeth in its impressive jaws, Megalodon was the apex predator of its environment, preying on everything from turtles to sperm whales.",
+    "era": "Miocene",
+    "family": "Otodontidae",
+    "genus": "Megalodon",
+    "height": 4.3,
+    "length": 15,
+    "weight": 50000,
+    "diet": [
+      "Piscivore"
+    ],
+    "feeder": [
+      "Sharks",
+      "Fish"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "dig_sites": [
+      "",
+      ""
+    ],
+    "security_rating": 6,
+    "minimum_population": 1,
+    "environment": [
+      {
+        "water": 5,
+        "forest": 48,
+        "sand": 12,
+        "rock": 10,
+        "open_space": 48,
+        "prey": 1.00,
+        "fish": 0.4, 
+        "tall_leaf": 8, 
+        "ground_leaf": 8, 
+        "ground_fruit": 32
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "",
+          ""
+        ],
+        "dislikes": [
+          "",
+          ""
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+{
+    "id": 48,
+    "name": "Metriacanthosaurus",
+    "slug": "metriacanthosaurus",
+    "image": "/images/metriacanthosaurus.webp",
+    "description": "Metriacanthosaurus is a genus of carnivorous theropod that existed during the Late Jurassic period. Named after the spines on its vertebrae – the name translates to ‘moderately-spined lizard’ – Metriacanthosaurus can grow up to eight metres in length and over a tonne in weight, and preys on large herbivores. Despite its relatively large size, Metriacanthosaurus can reach speeds of up to 20mph.",
+    "discovery": "This genus was first described in 1923 by German palaeontologist Friedrich von Huene, although the first fossils found – parts of a backbone and leg bones. – were initially attributed to Megalosaurus. Further research throughout the 20th Century led to it being reclassified as Altispinax, and finally Metriacanthosaurus in 1964, when English palaeontologist Alick Walker declared that the bones were that of a new genus.",
+    "palaeoecology": "Metriacanthosaurus lived around 160m years ago on the south coast of England, using the thick forests and jungles that grew during this period to sneak up on its prey. Its diet consisted mainly of other dinosaurs as well as some marine reptiles that swam near the shores.",
+    "era": "Late Jurassic",
+    "family": "Metriacanthosauridae",
+    "genus": "Metriacanthosaurus",
+    "height": 2,
+    "length": 7.6,
+    "weight": 1000,
+    "diet": [
+      "Carnivore"
+    ],
+    "feeder": [
+      "Meat",
+      "Live Prey"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 1,
+        "max": 3
+      }
+    ],
+    "dig_sites": [
+      "",
+      ""
+    ],
+    "security_rating": 6,
+    "minimum_population": 1,
+    "environment": [
+      {
+        "water": 5,
+        "forest": 48,
+        "sand": 12,
+        "rock": 10,
+        "open_space": 48,
+        "prey": 1.00,
+        "fish": 0.4, 
+        "tall_leaf": 8, 
+        "ground_leaf": 8, 
+        "ground_fruit": 32
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "",
+          ""
+        ],
+        "dislikes": [
+          "",
+          ""
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+{
+    "id": 49,
+    "name": "Microceratus",
+    "slug": "microceratus",
+    "image": "/images/microceratus.webp",
+    "description": "Easily recognised thanks to its blunt beak and the small horn on its forehead (its name directly translates into English as ‘small-horned’), Microceratus is an herbivorous dinosaur that lived around 65-85 million years ago during the Cretaceous period. This genus walks on two legs and grows up to 80 centimetres in length - making it one of the smallest dinosaurs the world has seen.",
+    "discovery": "Microceratus was first discovered in 1953 by Anders Birger Bohlin during exploration of the Gobi desert in Inner Mongolia - although it was originally named Microceratops. In 2008 - a full 55 years later - it was revealed that the name Microceratops was already attributed to a genus wasp. The new name, Microceratus, was coined by Portuguese palaeontologist Octavio Mateus.",
+    "palaeoecology": "Microceratus lived in the woodlands of Asia, feeding on plants and sticking to heavily wooded areas to hide from predators such as Velociraptor. Due to its small stature - the genus weighs around just 14lbs - Microceratus was extremely prone to attack, relying on its high speed to keep itself safe.",
+    "era": "Late Cretaceous",
+    "family": "Ceratopsia",
+    "genus": "Microceratus",
+    "height": 0.35,
+    "length": 0.8,
+    "weight": 6.3,
+    "diet": [
+      "Herbivore"
+    ],
+    "feeder": [
+      "Ground Palaeobotany"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 2,
+        "max": 3
+      }
+    ],
+    "dig_sites": [
+      "",
+      ""
+    ],
+    "security_rating": 6,
+    "minimum_population": 1,
+    "environment": [
+      {
+        "water": 5,
+        "forest": 48,
+        "sand": 12,
+        "rock": 10,
+        "open_space": 48,
+        "prey": 1.00,
+        "fish": 0.4, 
+        "tall_leaf": 8, 
+        "ground_leaf": 8, 
+        "ground_fruit": 32
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "",
+          ""
+        ],
+        "dislikes": [
+          "",
+          ""
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+{
+    "id": 50,
+    "name": "Moros intrepidus",
+    "slug": "moros-intrepidus",
+    "image": "/images/moros-intrepidus.webp",
+    "description": "The tyrannosauroid Moros intrepidus is a theropod from the Late Cretaceous period. A full-size Moros intrepidus grows to a little under 1m tall, making it one of the smallest dinosaurs in the tyrannosauroid family, only a fraction of the size of its more famous – and far more fearsome – relative, Tyrannosaurus rex.",
+    "discovery": "Moros intrepidus is one of the most recent new dinosaur discoveries, with the first remains – a series of limb bones - found in Emery County, Utah in 2013. The genus was formally described in 2019 and takes its name – a combination of the words ‘doom’ and ‘intrepid’ – from its imposing appearance and propensity for travelling long distances.",
+    "palaeoecology": "This dinosaur lived in North America around 96 million years ago, roaming around the forests and swamps of Utah and the surrounding areas. It survived on a carnivorous diet of small dinosaurs, mammals and lizards, although experts believe it may also have been a scavenger.",
+    "era": "Late Cretaceous",
+    "family": "Saurischia",
+    "genus": "Moros",
+    "height": 0.37,
+    "length": 0.85,
+    "weight": 60,
+    "diet": [
+      "Carnivore"
+    ],
+    "feeder": [
+      "Meat",
+      "Live Prey"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 3,
+        "max": 4
+      }
+    ],
+    "dig_sites": [
+      "",
+      ""
+    ],
+    "security_rating": 6,
+    "minimum_population": 1,
+    "environment": [
+      {
+        "water": 5,
+        "forest": 48,
+        "sand": 12,
+        "rock": 10,
+        "open_space": 48,
+        "prey": 1.00,
+        "fish": 0.4, 
+        "tall_leaf": 8, 
+        "ground_leaf": 8, 
+        "ground_fruit": 32
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "",
+          ""
+        ],
+        "dislikes": [
+          "",
+          ""
         ]
       }
     ],
