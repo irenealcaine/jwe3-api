@@ -2316,38 +2316,9 @@
       }
     ],
     "dig_sites": [
-      "",
-      ""
-    ],
-    "security_rating": 6,
-    "minimum_population": 1,
-    "environment": [
-      {
-        "water": 5,
-        "forest": 48,
-        "sand": 12,
-        "rock": 10,
-        "open_space": 48,
-        "prey": 1.00,
-        "fish": 0.4, 
-        "tall_leaf": 8, 
-        "ground_leaf": 8, 
-        "ground_fruit": 32
-      }
+      "Judith River Formation"
     ],
     "territory": "land",
-    "cohabitation": [
-      {
-        "likes": [
-          "",
-          ""
-        ],
-        "dislikes": [
-          "",
-          ""
-        ]
-      }
-    ],
     "game": "Base game"
   },
 {
@@ -2377,35 +2348,29 @@
       }
     ],
     "dig_sites": [
-      "",
-      ""
+      "Guodikeng Formation",
+      "Abrahamskraal Formation"
     ],
-    "security_rating": 6,
-    "minimum_population": 1,
+    "security_rating": 1,
+    "minimum_population": 4,
     "environment": [
       {
-        "water": 5,
-        "forest": 48,
-        "sand": 12,
-        "rock": 10,
-        "open_space": 48,
-        "prey": 1.00,
-        "fish": 0.4, 
-        "tall_leaf": 8, 
-        "ground_leaf": 8, 
-        "ground_fruit": 32
+        "water": 11,
+        "open_space": 56,
+        "ground_fiber": 17, 
+        "ground_leaf": 17
       }
     ],
     "territory": "land",
     "cohabitation": [
       {
         "likes": [
-          "",
-          ""
+          "Microceratus"
         ],
         "dislikes": [
-          "",
-          ""
+          "Oviraptor",
+          "Carnivores",
+          "Therizinosaurus"
         ]
       }
     ],
@@ -2438,35 +2403,32 @@
       }
     ],
     "dig_sites": [
-      "",
-      ""
+      "Egg Mountain"
     ],
-    "security_rating": 6,
-    "minimum_population": 1,
+    "security_rating": 2,
+    "minimum_population": 4,
     "environment": [
       {
-        "water": 5,
-        "forest": 48,
-        "sand": 12,
-        "rock": 10,
-        "open_space": 48,
-        "prey": 1.00,
-        "fish": 0.4, 
-        "tall_leaf": 8, 
-        "ground_leaf": 8, 
-        "ground_fruit": 32
+        "water": 7,
+        "open_space": 63,
+        "ground_fiber": 15, 
+        "ground_nut": 15
       }
     ],
     "territory": "land",
     "cohabitation": [
       {
         "likes": [
-          "",
-          ""
+          "Parasaurolophus",
+          "Sauropod",
+          "Ornithomimosaurid",
+          "Ceratopsid",
+          "Ankylosaurid",
+          "Stegosaurid"
         ],
         "dislikes": [
-          "",
-          ""
+          "Dr. Wu Hybrids",
+          "Therizinosaurus"
         ]
       }
     ],
@@ -2499,35 +2461,33 @@
       }
     ],
     "dig_sites": [
-      "",
-      ""
+      "Ziliujing Formation B"
     ],
-    "security_rating": 6,
+    "security_rating": 4,
     "minimum_population": 1,
     "environment": [
       {
-        "water": 5,
-        "forest": 48,
-        "sand": 12,
-        "rock": 10,
-        "open_space": 48,
-        "prey": 1.00,
-        "fish": 0.4, 
-        "tall_leaf": 8, 
-        "ground_leaf": 8, 
-        "ground_fruit": 32
+        "water": 2,
+        "forest": 43,
+        "open_space": 33, 
+        "tall_leaf": 22
       }
     ],
     "territory": "land",
     "cohabitation": [
       {
         "likes": [
-          "",
-          ""
+          "Ornithomimosaurid",
+          "Ceratopsid",
+          "Ankylosaurid",
+          "Hadrosaurid",
+          "Pachycephalosaurid",
+          "Stegosaurid"
         ],
         "dislikes": [
-          "",
-          ""
+          "Sauropod",
+          "Indominus rex",
+          "Scorpios rex"
         ]
       }
     ],
@@ -2561,35 +2521,18 @@
       }
     ],
     "dig_sites": [
-      "",
-      ""
+      "Bone Valley Formation"
     ],
-    "security_rating": 6,
-    "minimum_population": 1,
     "environment": [
       {
-        "water": 5,
-        "forest": 48,
-        "sand": 12,
-        "rock": 10,
-        "open_space": 48,
-        "prey": 1.00,
-        "fish": 0.4, 
-        "tall_leaf": 8, 
-        "ground_leaf": 8, 
-        "ground_fruit": 32
+        "open_space": 100
       }
     ],
-    "territory": "land",
+    "territory": "water",
     "cohabitation": [
       {
-        "likes": [
-          "",
-          ""
-        ],
         "dislikes": [
-          "",
-          ""
+          "Dunkleosteus"
         ]
       }
     ],
@@ -2623,35 +2566,28 @@
       }
     ],
     "dig_sites": [
-      "",
-      ""
+      "Oxford Clay"
     ],
-    "security_rating": 6,
+    "security_rating": 4,
     "minimum_population": 1,
     "environment": [
       {
-        "water": 5,
-        "forest": 48,
-        "sand": 12,
-        "rock": 10,
-        "open_space": 48,
-        "prey": 1.00,
-        "fish": 0.4, 
-        "tall_leaf": 8, 
-        "ground_leaf": 8, 
-        "ground_fruit": 32
+        "water": 8,
+        "forest": 16,
+        "open_space": 77,
+        "prey": 0.50
       }
     ],
     "territory": "land",
     "cohabitation": [
       {
         "likes": [
-          "",
-          ""
+          "Allosaurus",
+          "Scavenger"
         ],
         "dislikes": [
-          "",
-          ""
+          "Carnivores",
+          "Therizinosaurus"
         ]
       }
     ],
@@ -2684,35 +2620,28 @@
       }
     ],
     "dig_sites": [
-      "",
-      ""
+      "Shishugou Formation"
     ],
-    "security_rating": 6,
-    "minimum_population": 1,
+    "security_rating": 1,
+    "minimum_population": 3,
     "environment": [
       {
-        "water": 5,
-        "forest": 48,
-        "sand": 12,
-        "rock": 10,
-        "open_space": 48,
-        "prey": 1.00,
-        "fish": 0.4, 
-        "tall_leaf": 8, 
-        "ground_leaf": 8, 
-        "ground_fruit": 32
+        "water": 10,
+        "open_space": 55,
+        "ground_leaf": 21, 
+        "ground_fiber": 14
       }
     ],
     "territory": "land",
     "cohabitation": [
       {
         "likes": [
-          "",
-          ""
+          "Lystrosaurus",
+          "Ceratopsids"
         ],
         "dislikes": [
-          "",
-          ""
+          "Carnivores",
+          "Therizinosaurus"
         ]
       }
     ],
@@ -2746,35 +2675,28 @@
       }
     ],
     "dig_sites": [
-      "",
-      ""
+      "Cedar Mountain Formation"
     ],
-    "security_rating": 6,
+    "security_rating": 1,
     "minimum_population": 1,
     "environment": [
       {
         "water": 5,
-        "forest": 48,
-        "sand": 12,
-        "rock": 10,
-        "open_space": 48,
-        "prey": 1.00,
-        "fish": 0.4, 
-        "tall_leaf": 8, 
-        "ground_leaf": 8, 
-        "ground_fruit": 32
+        "open_space": 16,
+        "sand": 32,
+        "prey": 0.10
       }
     ],
     "territory": "land",
     "cohabitation": [
       {
         "likes": [
-          "",
-          ""
+          "Everything"
         ],
         "dislikes": [
-          "",
-          ""
+          "Indominus rex",
+          "Indoraptor",
+          "Scorpios rex"
         ]
       }
     ],
