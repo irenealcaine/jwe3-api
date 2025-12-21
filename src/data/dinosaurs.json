@@ -645,10 +645,9 @@
       }
     ],
     "territory": "sky",
-    
     "game": "Base game"
   },
-{
+  {
     "id": 13,
     "name": "Carnotaurus",
     "slug": "carnotaurus",
@@ -704,7 +703,7 @@
     ],
     "game": "Base game"
   },
-{
+  {
     "id": 14,
     "name": "Ceratosaurus",
     "slug": "ceratosaurus",
@@ -762,7 +761,7 @@
     ],
     "game": "Base game"
   },
-{
+  {
     "id": 15,
     "name": "Chasmosaurus",
     "slug": "chasmosaurus",
@@ -821,7 +820,7 @@
     ],
     "game": "Base game"
   },
-{
+  {
     "id": 16,
     "name": "Chungkingosaurus",
     "slug": "chungkingosaurus",
@@ -880,7 +879,7 @@
     ],
     "game": "Base game"
   },
-{
+  {
     "id": 17,
     "name": "Coelophysis",
     "slug": "coelophysis",
@@ -935,7 +934,7 @@
     ],
     "game": "Base game"
   },
-{
+  {
     "id": 18,
     "name": "Compsognathus",
     "slug": "compsognathus",
@@ -991,7 +990,7 @@
     ],
     "game": "Base game"
   },
-{
+  {
     "id": 19,
     "name": "Concavenator",
     "slug": "concavenator",
@@ -1045,7 +1044,7 @@
     ],
     "game": "Deluxe pack edition"
   },
-{
+  {
     "id": 20,
     "name": "Corythosaurus",
     "slug": "corythosaurus",
@@ -1103,7 +1102,7 @@
     ],
     "game": "Base game"
   },
-{
+  {
     "id": 21,
     "name": "Deinonychus",
     "slug": "deinonychus",
@@ -1158,7 +1157,7 @@
     ],
     "game": "Base game"
   },
-{
+  {
     "id": 22,
     "name": "Dilophosaurus",
     "slug": "dilophosaurus",
@@ -1212,7 +1211,7 @@
     ],
     "game": "Base game"
   },
-{
+  {
     "id": 23,
     "name": "Dimetrodon",
     "slug": "dimetrodon",
@@ -1266,7 +1265,7 @@
     ],
     "game": "Base game"
   },
-{
+  {
     "id": 24,
     "name": "Dimorphodon",
     "slug": "dimorphodon",
@@ -1322,7 +1321,7 @@
     ],
     "game": "Base game"
   },
-{
+  {
     "id": 25,
     "name": "Diplodocus",
     "slug": "diplodocus",
@@ -1383,7 +1382,7 @@
     ],
     "game": "Base game"
   },
-{
+  {
     "id": 26,
     "name": "Dreadnoughtus",
     "slug": "dreadnoughtus",
@@ -1442,7 +1441,7 @@
     ],
     "game": "Base game"
   },
-{
+  {
     "id": 27,
     "name": "Dryosaurus",
     "slug": "dryosaurus",
@@ -1477,7 +1476,7 @@
       {
         "water": 4,
         "open_space": 48,
-        "ground_leaf": 24, 
+        "ground_leaf": 24,
         "ground_fiber": 24
       }
     ],
@@ -1499,7 +1498,7 @@
     ],
     "game": "Base game"
   },
-{
+  {
     "id": 28,
     "name": "Dunkleosteus",
     "slug": "dunkleosteus",
@@ -1540,7 +1539,6 @@
     "territory": "water",
     "cohabitation": [
       {
-       
         "dislikes": [
           "Megalodon"
         ]
@@ -1548,7 +1546,7 @@
     ],
     "game": "Base game"
   },
-{
+  {
     "id": 29,
     "name": "Edmontosaurus",
     "slug": "edmontosaurus",
@@ -1606,7 +1604,7 @@
     ],
     "game": "Base game"
   },
-{
+  {
     "id": 30,
     "name": "Gallimimus",
     "slug": "gallimimus",
@@ -1662,7 +1660,7 @@
     ],
     "game": "Base game"
   },
-{
+  {
     "id": 31,
     "name": "Geosternbergia",
     "slug": "geosternbergia",
@@ -1717,7 +1715,7 @@
     ],
     "game": "Base game"
   },
-{
+  {
     "id": 32,
     "name": "Giganotosaurus",
     "slug": "giganotosaurus",
@@ -1771,7 +1769,7 @@
     ],
     "game": "Base game"
   },
-{
+  {
     "id": 33,
     "name": "Gigantspinosaurus",
     "slug": "gigantspinosaurus",
@@ -1831,7 +1829,7 @@
     ],
     "game": "Base game"
   },
-{
+  {
     "id": 34,
     "name": "Guanlong",
     "slug": "guanlong",
@@ -1861,7 +1859,7 @@
     "territory": "land",
     "game": "Deluxe pack edition"
   },
-{
+  {
     "id": 35,
     "name": "Herrerasaurus",
     "slug": "herrerasaurus",
@@ -1915,7 +1913,7 @@
     ],
     "game": "Base game"
   },
-{
+  {
     "id": 36,
     "name": "Homalocephale",
     "slug": "homalocephale",
@@ -1950,7 +1948,7 @@
       {
         "water": 34,
         "open_space": 34,
-        "ground_leaf": 16, 
+        "ground_leaf": 16,
         "ground_fiber": 16
       }
     ],
@@ -1970,7 +1968,7 @@
     ],
     "game": "Base game"
   },
-{
+  {
     "id": 37,
     "name": "Ichthyosaurus",
     "slug": "ichthyosaurus",
@@ -2010,7 +2008,7 @@
     "territory": "water",
     "game": "Base game"
   },
-{
+  {
     "id": 38,
     "name": "Iguanodon",
     "slug": "iguanodon",
@@ -2068,7 +2066,7 @@
     ],
     "game": "Base game"
   },
-{
+  {
     "id": 39,
     "name": "Indominus rex",
     "slug": "indominus-rex",
@@ -2124,7 +2122,7 @@
     ],
     "game": "Base game"
   },
-{
+  {
     "id": 40,
     "name": "Indoraptor",
     "slug": "indoraptor",
@@ -2183,7 +2181,7 @@
     ],
     "game": "Base game"
   },
-{
+  {
     "id": 41,
     "name": "Kentrosaurus",
     "slug": "kentrosaurus",
@@ -2217,7 +2215,7 @@
     "environment": [
       {
         "water": 7,
-        "forest": 24, 
+        "forest": 24,
         "ground_fiber": 69
       }
     ],
@@ -2241,7 +2239,7 @@
     ],
     "game": "Base game"
   },
-{
+  {
     "id": 42,
     "name": "Kronosaurus",
     "slug": "kronosaurus",
@@ -2289,7 +2287,7 @@
     ],
     "game": "Base game"
   },
-{
+  {
     "id": 43,
     "name": "Lokiceratops",
     "slug": "lokiceratops",
@@ -2321,7 +2319,7 @@
     "territory": "land",
     "game": "Base game"
   },
-{
+  {
     "id": 44,
     "name": "Lystrosaurus",
     "slug": "lystrosaurus",
@@ -2357,7 +2355,7 @@
       {
         "water": 11,
         "open_space": 56,
-        "ground_fiber": 17, 
+        "ground_fiber": 17,
         "ground_leaf": 17
       }
     ],
@@ -2376,7 +2374,7 @@
     ],
     "game": "Base game"
   },
-{
+  {
     "id": 45,
     "name": "Maiasaura",
     "slug": "maiasaura",
@@ -2411,7 +2409,7 @@
       {
         "water": 7,
         "open_space": 63,
-        "ground_fiber": 15, 
+        "ground_fiber": 15,
         "ground_nut": 15
       }
     ],
@@ -2434,7 +2432,7 @@
     ],
     "game": "Base game"
   },
-{
+  {
     "id": 46,
     "name": "Mamenchisaurus",
     "slug": "mamenchisaurus",
@@ -2469,7 +2467,7 @@
       {
         "water": 2,
         "forest": 43,
-        "open_space": 33, 
+        "open_space": 33,
         "tall_leaf": 22
       }
     ],
@@ -2493,7 +2491,7 @@
     ],
     "game": "Base game"
   },
-{
+  {
     "id": 47,
     "name": "Megalodon",
     "slug": "megalodon",
@@ -2538,7 +2536,7 @@
     ],
     "game": "Base game"
   },
-{
+  {
     "id": 48,
     "name": "Metriacanthosaurus",
     "slug": "metriacanthosaurus",
@@ -2593,7 +2591,7 @@
     ],
     "game": "Base game"
   },
-{
+  {
     "id": 49,
     "name": "Microceratus",
     "slug": "microceratus",
@@ -2628,7 +2626,7 @@
       {
         "water": 10,
         "open_space": 55,
-        "ground_leaf": 21, 
+        "ground_leaf": 21,
         "ground_fiber": 14
       }
     ],
@@ -2647,7 +2645,7 @@
     ],
     "game": "Base game"
   },
-{
+  {
     "id": 50,
     "name": "Moros intrepidus",
     "slug": "moros-intrepidus",

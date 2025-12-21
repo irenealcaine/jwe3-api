@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 
 <head>
   <meta charset="UTF-8" />
@@ -74,12 +74,12 @@
 
 <body>
   <h1>🦖 Jurassic World Evolution 3 API</h1>
-  <p>Explora los dinosaurios disponibles en nuestra API.</p>
-  <a href="/api/dinosaurs">Ver dinosaurios</a>
+  <p>Explore the dinosaurs available in our API.</p>
+  <a href="/api/dinosaurs">View dinosaurs</a>
 
-  <main class="docs" aria-label="Documentación de la API">
-    <h2 style="color:#00ffa3;">Documentación de la API</h2>
-    <h3>GET <code class="route">/api/dinosaurs</code> — Listar todos los dinosaurios</h3>
+  <main class="docs" aria-label="API Documentation">
+    <h2 style="color:#00ffa3;">API Documentation</h2>
+    <h3>GET <code class="route">/api/dinosaurs</code> — List all dinosaurs</h3>
     <section class="endpoint">
       <table style="width:100%; border-collapse:collapse; margin-bottom:1rem;">
         <thead>
@@ -93,37 +93,37 @@
           <tr>
             <td style="padding:8px">id</td>
             <td style="padding:8px">integer</td>
-            <td style="padding:8px">Identificador único</td>
+            <td style="padding:8px">Unique identifier</td>
           </tr>
           <tr>
             <td style="padding:8px">name</td>
             <td style="padding:8px">string</td>
-            <td style="padding:8px">Nombre común</td>
+            <td style="padding:8px">Common name</td>
           </tr>
           <tr>
             <td style="padding:8px">slug</td>
             <td style="padding:8px">string</td>
-            <td style="padding:8px">Identificador URL-friendly</td>
+            <td style="padding:8px">URL-friendly identifier</td>
           </tr>
           <tr>
             <td style="padding:8px">image</td>
             <td style="padding:8px">string</td>
-            <td style="padding:8px">Ruta relativa a la imagen (ej. /images/..)</td>
+            <td style="padding:8px">Relative path to image (e.g. /images/..)</td>
           </tr>
           <tr>
             <td style="padding:8px">description</td>
             <td style="padding:8px">string</td>
-            <td style="padding:8px">Descripción larga</td>
+            <td style="padding:8px">Long description</td>
           </tr>
           <tr>
             <td style="padding:8px">era</td>
             <td style="padding:8px">string</td>
-            <td style="padding:8px">Período geológico</td>
+            <td style="padding:8px">Geological period</td>
           </tr>
           <tr>
             <td style="padding:8px">diet</td>
             <td style="padding:8px">array[string]</td>
-            <td style="padding:8px">Tipo(s) de dieta</td>
+            <td style="padding:8px">Diet type(s)</td>
           </tr>
         </tbody>
       </table>
@@ -136,12 +136,12 @@
   "image": "/images/acrocanthosaurus.webp",
   "description": "At around 12m in length and more than six tonnes in weight, Acrocanthosaurus is one of the largest theropods and dates back to the Early Cretaceous period. This carnivorous dinosaur gets its name – which translates to ‘high-spined lizard’ – from the elongated spines running the length of its neck and back, while its sharp teeth and powerful jaw make it a fearsome predator comparable to the much more well-known Tyrannosaurus rex.",
   "era": "Early Cretaceous",
-  "diet": ["Carnivore", "Live Prey"],
+  "diet": ["Carnivore"]
 }</pre>
     </section>
 
     <section class="endpoint">
-      <h3>GET <code class="route">/api/dinosaurs/:id</code> — Obtener un dinosaurio por ID</h3>
+      <h3>GET <code class="route">/api/dinosaurs/:id</code> — Get a dinosaur by ID</h3>
       <table style="width:100%; border-collapse:collapse; margin-bottom:1rem;">
         <thead>
           <tr>
@@ -154,87 +154,122 @@
           <tr>
             <td style="padding:8px">id</td>
             <td style="padding:8px">integer</td>
-            <td style="padding:8px">Identificador único</td>
+            <td style="padding:8px">Unique identifier</td>
           </tr>
           <tr>
             <td style="padding:8px">name</td>
             <td style="padding:8px">string</td>
-            <td style="padding:8px">Nombre común</td>
+            <td style="padding:8px">Common name</td>
           </tr>
           <tr>
             <td style="padding:8px">slug</td>
             <td style="padding:8px">string</td>
-            <td style="padding:8px">Identificador URL-friendly</td>
+            <td style="padding:8px">URL-friendly identifier</td>
           </tr>
           <tr>
             <td style="padding:8px">image</td>
             <td style="padding:8px">string</td>
-            <td style="padding:8px">Ruta relativa a la imagen (ej. /images/..)</td>
+            <td style="padding:8px">Relative path to image (e.g. /images/..)</td>
           </tr>
           <tr>
             <td style="padding:8px">description</td>
             <td style="padding:8px">string</td>
-            <td style="padding:8px">Descripción larga</td>
+            <td style="padding:8px">Long description</td>
           </tr>
           <tr>
             <td style="padding:8px">discovery</td>
             <td style="padding:8px">string</td>
-            <td style="padding:8px">Información sobre el descubrimiento</td>
+            <td style="padding:8px">Discovery information</td>
           </tr>
           <tr>
-            <td style="padding:8px">paleology</td>
+            <td style="padding:8px">palaeoecology</td>
             <td style="padding:8px">string</td>
-            <td style="padding:8px">Notas paleontológicas</td>
+            <td style="padding:8px">Palaeoecological notes</td>
           </tr>
           <tr>
             <td style="padding:8px">era</td>
             <td style="padding:8px">string</td>
-            <td style="padding:8px">Período geológico</td>
+            <td style="padding:8px">Geological period</td>
           </tr>
           <tr>
-            <td style="padding:8px">family, genus</td>
+            <td style="padding:8px">family</td>
             <td style="padding:8px">string</td>
-            <td style="padding:8px">Información taxonómica</td>
+            <td style="padding:8px">Taxonomic family</td>
           </tr>
           <tr>
-            <td style="padding:8px">height, length, weight</td>
+            <td style="padding:8px">genus</td>
+            <td style="padding:8px">string</td>
+            <td style="padding:8px">Taxonomic genus</td>
+          </tr>
+          <tr>
+            <td style="padding:8px">height</td>
             <td style="padding:8px">number</td>
-            <td style="padding:8px">Medidas (metros / kilogramos)</td>
+            <td style="padding:8px">Height in meters</td>
+          </tr>
+          <tr>
+            <td style="padding:8px">length</td>
+            <td style="padding:8px">number</td>
+            <td style="padding:8px">Length in meters</td>
+          </tr>
+          <tr>
+            <td style="padding:8px">weight</td>
+            <td style="padding:8px">number</td>
+            <td style="padding:8px">Weight in kilograms</td>
           </tr>
           <tr>
             <td style="padding:8px">diet</td>
             <td style="padding:8px">array[string]</td>
-            <td style="padding:8px">Tipo(s) de dieta</td>
+            <td style="padding:8px">Diet type(s)</td>
+          </tr>
+          <tr>
+            <td style="padding:8px">feeder</td>
+            <td style="padding:8px">array[string]</td>
+            <td style="padding:8px">Feeder types</td>
           </tr>
           <tr>
             <td style="padding:8px">egg_batch_size</td>
             <td style="padding:8px">array[object]</td>
-            <td style="padding:8px">Objetos con min/max (enteros)</td>
+            <td style="padding:8px">Objects with min/max (integers)</td>
           </tr>
           <tr>
             <td style="padding:8px">dig_sites</td>
             <td style="padding:8px">array[string]</td>
-            <td style="padding:8px">Lugares de excavación</td>
+            <td style="padding:8px">Dig sites</td>
           </tr>
           <tr>
-            <td style="padding:8px">security_rating, minimum_population</td>
+            <td style="padding:8px">security_rating</td>
             <td style="padding:8px">integer</td>
-            <td style="padding:8px">Valores de gestión de parque</td>
+            <td style="padding:8px">Security rating</td>
+          </tr>
+          <tr>
+            <td style="padding:8px">minimum_population</td>
+            <td style="padding:8px">integer</td>
+            <td style="padding:8px">Minimum required population</td>
           </tr>
           <tr>
             <td style="padding:8px">environment</td>
             <td style="padding:8px">array[object]</td>
-            <td style="padding:8px">Configuraciones ambientales (valores numéricos)</td>
+            <td style="padding:8px">Environmental configurations (numeric values)</td>
+          </tr>
+          <tr>
+            <td style="padding:8px">territory</td>
+            <td style="padding:8px">string</td>
+            <td style="padding:8px">Territory type (land/water/flying)</td>
           </tr>
           <tr>
             <td style="padding:8px">cohabitation</td>
             <td style="padding:8px">array[object]</td>
-            <td style="padding:8px">Preferencias de convivencia (likes/dislikes)</td>
+            <td style="padding:8px">Cohabitation preferences (likes/dislikes)</td>
+          </tr>
+          <tr>
+            <td style="padding:8px">game</td>
+            <td style="padding:8px">string</td>
+            <td style="padding:8px">Source game</td>
           </tr>
         </tbody>
       </table>
 
-      <h3>Ejemplo</h3>
+      <h3>Example</h3>
       <pre>{
   "id": 1,
   "name": "Acrocanthosaurus",
@@ -242,14 +277,15 @@
   "image": "/images/acrocanthosaurus.webp",
   "description": "At around 12m in length and more than six tonnes in weight, Acrocanthosaurus is one of the largest theropods and dates back to the Early Cretaceous period. This carnivorous dinosaur gets its name – which translates to ‘high-spined lizard’ – from the elongated spines running the length of its neck and back, while its sharp teeth and powerful jaw make it a fearsome predator comparable to the much more well-known Tyrannosaurus rex.",
   "discovery": "Acrocanthosaurus was officially discovered in 1950 by J. Willis Stovall and Wann Langston Junior in Atoka County, Oklahoma, when the two palaeontologists dug up skeleton fragments including part of a skull. In the following decades there was little consensus on how to classify Acrocanthosaurus, and at various times it was believed to be a species of Allosaurus, Spinosaurus and Megalosaurus - but it is now considered part of the Carcharodontosaurus family.",
-  "paleology": "Fossil findings have confirmed that Acrocanthosaurus lived approximately 110-125 million years ago in the Southern states of the USA, most notably Texas, Oklahoma and Wyoming. Acrocanthosaurus was the apex predator of its time, with a diet consisting of other dinosaurs including Hadrosaurus, Tenontosaurus and Sauropods.",
+  "palaeoecology": "Fossil findings have confirmed that Acrocanthosaurus lived approximately 110-125 million years ago in the Southern states of the USA, most notably Texas, Oklahoma and Wyoming. Acrocanthosaurus was the apex predator of its time, with a diet consisting of other dinosaurs including Hadrosaurus, Tenontosaurus and Sauropods.",
   "era": "Early Cretaceous",
   "family": "Carcharodontosauridae",
   "genus": "Acrocanthosaurus",
   "height": 4.8,
   "length": 12,
   "weight": 7000,
-  "diet": ["Carnivore", "Live Prey"],
+  "diet": ["Carnivore"],
+  "feeder": ["Meat", "Live Prey"],
   "egg_batch_size": [
     { "min": 1, "max": 1 }
   ],
@@ -259,9 +295,11 @@
   "environment": [
     { "water": 5, "forest": 48, "open_space": 48, "prey": 1.00 }
   ],
+  "territory": "land",
   "cohabitation": [
     { "likes": ["Scavenger"], "dislikes": ["Carnivores", "Therizinosaurus"] }
-  ]
+  ],
+  "game": "Base game"
 }</pre>
     </section>
 
