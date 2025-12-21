@@ -2699,5 +2699,316 @@
       }
     ],
     "game": "Base game"
+  },
+  {
+    "id": 51,
+    "name": "Mosasaurus",
+    "slug": "mosasaurus",
+    "image": "/images/mosasaurus.webp",
+    "description": "The carnivorous Mosasaurus is one of the largest marine reptiles in history, growing up to nearly 18m in length. Mosasaurus’ rows of sharp teeth, powerful paddle-like limbs and excellent vision make it an efficient predator, feeding on fish, cephalopods and other marine reptiles. Its name translates to ‘lizard of the Meuse River’, in reference to the location of its discovery.",
+    "discovery": "Mosasaurus was first discovered as far back as 1764, when skull fragments were excavated from Mount Saint Peter, near the Meuse River in the Netherlands. The findings were initially classified as a type of fish, while a second, similar skull unearthed in 1780 led experts to believe it was a crocodile. It wasn’t until 1822 that it was officially classified as a new genus named Mosasaur by English palaeontologist William Daniel Conybeare.",
+    "palaeoecology": "Although the first Mosasaurus remains were found in Europe, further fossils have been found across the world, from North America to parts of Africa and even Antarctica. As the apex predator of its habitat in the Late Cretaceous period (around 65-80m years ago), it would not have been attacked by other reptiles – however researchers believe that that it may have fought within its own genus.",
+    "era": "Late Cretaceous",
+    "family": "Mosasauridae",
+    "genus": "Mosasaurus",
+    "height": 2,
+    "length": 17,
+    "weight": 30000,
+    "diet": [
+      "Piscivore"
+    ],
+    "feeder": [
+      "Sharks",
+      "Fish"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "dig_sites": [
+      "Fox Hills Formation",
+      "Maastricht Formation"
+    ],
+    "security_rating": 6,
+    "minimum_population": 1,
+    "environment": [
+      {
+        "open_space": 100
+      }
+    ],
+    "territory": "water",
+    "cohabitation": [
+      {
+        "dislikes": [
+          "Marine (Large)"
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+  {
+    "id": 52,
+    "name": "Muttaburrasaurus",
+    "slug": "muttaburrasaurus",
+    "image": "/images/muttaburrasaurus.webp",
+    "description": "Named after the location of its discovery, Muttaburra in Queensland, Australia, Muttaburrasaurus is a genus of herbivorous ornithopod notable for its flat skull and blunt snout. It can grow up to 9m in length and weighs over three tonnes, while its strong jaws and serrated teeth allow it to tear leaves, branches and shrubs with ease.",
+    "discovery": "Muttaburrasaurus was discovered by cattle farmer Doug Landon in 1963, when he unearthed parts of a skeleton next to the Thomson River in Muttaburra. His find was officially classified as a new genus in 1981 by Australian palaeontologists Alan Bartholomai and Ralph Molnar, and further significant fossil finds have increased knowledge of the genus.",
+    "palaeoecology": "Muttaburrasaurus lived during the Early Cretaceous period, around 100-110m years ago, travelling long distances across Australia in search of forest areas that could provide the vegetation they needed. It lived alongside many herbivores as well as the predator Australovenator, which may have preyed on Muttaburrasaurus.",
+    "era": "Early Cretaceous",
+    "family": "Rhabdodontomorpha",
+    "genus": "Muttaburrasaurus",
+    "height": 3,
+    "length": 8.7,
+    "weight": 3100,
+    "diet": [
+      "Herbivore"
+    ],
+    "feeder": [
+      "Ground Palaeobotany"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 2,
+        "max": 4
+      }
+    ],
+    "dig_sites": [
+      "Mackunda Formation"
+    ],
+    "security_rating": 2,
+    "minimum_population": 4,
+    "environment": [
+      {
+        "water": 11,
+        "open_space": 33,
+        "forest": 22,
+        "ground_fiber": 34
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "Sauropod",
+          "Ornithomimosaurid",
+          "Ceratopsid",
+          "Ankylosaurid",
+          "Stegosaurid"
+        ],
+        "dislikes": [
+          "Dr. Wu Hybrids",
+          "Therizinosaurus"
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+  {
+    "id": 53,
+    "name": "Nasutoceratops",
+    "slug": "nasutoceratops",
+    "image": "/images/nasutoceratops.webp",
+    "description": "Nasutoceratops is a genus of herbivorous dinosaur that existed in the southern United States during the Late Cretaceous period. It could grow up to 7.6m in length and over one and a half tonnes in weight, and the name Nasutoceratops translates to ‘large-nosed, horned-face’, a reference to the two large horns protruding from its skull similar to those of Triceratops, and its distinctive blunt snout.",
+    "discovery": "Nasutoceratops is one of the most recent dinosaur discoveries, with the first fossils discovered in 2006 in the Kaiparowits Formation, Utah, when geologist Eric Karl Lund unearthed a number of bones including a partial skull and several vertebrae. The new genus was officially classified in 2013 given the generic name Nasutoceratops.",
+    "palaeoecology": "Fossil findings have shown that Nasutoceratops lived in North America around 75m years ago and lived near the shores of the Western Interior Seaway. It co-existed with many other dinosaurs including ankylosaurids, hadrosaurs and tyrannosaurids, as well as marine reptiles such as crocodilians and turtles, and the warm, wet climate of this period provided plenty of vegetation for Nasutoceratops to feed on.",
+    "era": "Late Cretaceous",
+    "family": "Ceratopsidae",
+    "genus": "Nasutoceratops",
+    "height": 3.4,
+    "length": 7.6,
+    "weight": 1700,
+    "diet": [
+      "Herbivore"
+    ],
+    "feeder": [
+      "Ground Palaeobotany"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 2,
+        "max": 4
+      }
+    ],
+    "dig_sites": [
+      "Kaiparowits Formation"
+    ],
+    "security_rating": 5,
+    "minimum_population": 2,
+    "environment": [
+      {
+        "water": 4,
+        "open_space": 64,
+        "ground_leaf": 32
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "Ornithomimosaurid",
+          "Ceratopsid",
+          "Ankylosaurid",
+          "Hadrosaurid",
+          "Scavenger"
+        ],
+        "dislikes": [
+          "Chasmosaurus",
+          "Pentaceratops",
+          "Carnivores",
+          "Stegosaurid",
+          "Therizinosaurus"
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+  {
+    "id": 54,
+    "name": "Nodosaurus",
+    "slug": "nodosaurus",
+    "image": "/images/nodosaurus.webp",
+    "description": "Nodosaurus is a genus of herbivorous ankylosaurid notable for the raised armour plates that cover its back – its name translates to ‘knobbed lizard’. Adults can grow to be over 6m in length and weigh nearly four tonnes, consuming vast quantities of plants and shrubs every day. Its armour plates are essential for protecting Nodosaurus from predators, as its short legs and heavy frame mean that it is unable to reach high speeds to escape.",
+    "discovery": "For over a century, everything we knew about Nodosaurus came from a single specimen that was unearthed from the Frontier Formation in Wyoming and first named by celebrated palaeontologist Othniel Charles Marsh in 1889, However, in 2011 a team of miners made an incredible discovery in Alberta, Canada – a near-complete Nodosaurus skeleton, including armoured plates and even skin, that took almost six years to fully excavate.",
+    "palaeoecology": "Nodosaurus lived in North America during the Late Cretaceous period, around 100-110m years ago, co-existing with other Nodosauridae such as Edmontonia. Nodosaurus’ teeth were not designed for chewing tough plants, so it is likely that it fed on small, soft plants.",
+    "era": "Late Cretaceous",
+    "family": "Nodosauridae",
+    "genus": "Nodosaurus",
+    "height": 1.9,
+    "length": 6.1,
+    "weight": 3900,
+    "diet": [
+      "Herbivore"
+    ],
+    "feeder": [
+      "Ground Palaeobotany"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 1,
+        "max": 2
+      }
+    ],
+    "dig_sites": [
+      "Peay Sandstone Member"
+    ],
+    "security_rating": 1,
+    "minimum_population": 1,
+    "environment": [
+      {
+        "water": 5,
+        "open_space": 48,
+        "ground_leaf": 48
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "Sauropod",
+          "Ornithomimosaurid",
+          "Ceratopsid",
+          "Hadrosaurid",
+          "Pachycephalosaurid"
+        ],
+        "dislikes": [
+          "Dr. Wu Hybrids",
+          "Ankylosaurid",
+          "Stegosaurid",
+          "Therizinosaurus"
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+  {
+    "id": 55,
+    "name": "Olorotitan",
+    "slug": "olorotitan",
+    "image": "/images/olorotitan.webp",
+    "description": "The herbivorous Olorotitan is a genus of hadrosaurid with a distinctive duck-billed snout and a striking crest on top of its head, and its name – which translates to ‘titanic swan’ – is a reference to its long neck. It was one of the last dinosaurs to exist in the wild, dying out in the extinction event at the end of the Cretaceous period, and could grow up to 10m in length.",
+    "discovery": "The first Olorotitan remains were found in Amur, Russia around the turn of the millennium, when researchers uncovered a near-complete skeleton from the Udurchukan Formation – in fact, it was the most complete dinosaur specimen ever found in Russia. In 2003, it was classified as a new genus by celebrated Belgian palaeontologist Pascal Godefroit.",
+    "palaeoecology": "Olorotitan existed during the Late Cretaceous period, around 66m years ago, and co-existed with many species of marine reptile as well as other dinosaurs including the apex predator Tarbosaurus, a cousin of the infamous Tyrannosaurus.",
+    "era": "Late Cretaceous",
+    "family": "Hadrosauridae",
+    "genus": "Olorotitan",
+    "height": 4.3,
+    "length": 10,
+    "weight": 3500,
+    "diet": [
+      "Herbivore"
+    ],
+    "feeder": [
+      "Ground Palaeobotany"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 2,
+        "max": 4
+      }
+    ],
+    "dig_sites": [
+      "Udurchukan Formation"
+    ],
+    "security_rating": 3,
+    "minimum_population": 4,
+    "environment": [
+      {
+        "water": 5,
+        "forest": 12,
+        "open_space": 19,
+        "ground_fiber": 63
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "Sauropod",
+          "Ornithomimosaurid",
+          "Ceratopsid",
+          "Ankylosaurid",
+          "Stegosaurid"
+        ],
+        "dislikes": [
+          "Dr. Wu Hybrids",
+          "Therizinosaurus"
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+  {
+    "id": 56,
+    "name": "Ornithomimus",
+    "slug": "ornithomimus",
+    "image": "/images/ornithomimus.webp",
+    "description": "A bipedal therapod with long hind limbs and a large body, as well as a toothless beak. These bird-like, swift-footed dinosaurs measured around 3 meters in length.",
+    "discovery": "This species was first described in 1890 based on a partial hind limb dating to the Cretaceous period, found in the Denver Formation. In 2015, palaeontologists redescribed the species using the same bone fragments. The name Ornithomimus means ‘bird mimic’.",
+    "palaeoecology": "Paleontologically, not much is known about the Ornithomimus and how it lived. The fossil record suggests it was a cursorial species, meaning it has limbs specially adapted for running, as well as being an herbivore.",
+    "era": "Late Cretaceous",
+    "family": "Ornithomimidae",
+    "genus": "Ornithomimus",
+    "height": 3,
+    "length": 3.8,
+    "weight": 350,
+    "diet": [
+      "Herbivore"
+    ],
+    "feeder": [
+      "Ground Palaeobotany"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 4,
+        "max": 6
+      }
+    ],
+    "dig_sites": [
+      "Dinosaur Park Formation A"
+    ],
+    "territory": "land",
+    "game": "Base game"
   }
 ]
