@@ -3010,5 +3010,332 @@
     ],
     "territory": "land",
     "game": "Base game"
+  },
+  {
+    "id": 57,
+    "name": "Oviraptor",
+    "slug": "oviraptor",
+    "image": "/images/oviraptor.webp",
+    "description": "Oviraptor is an omnivorous dinosaur that lived during the Late Cretaceous period. Although its name translates to ‘egg seizer’, this is based on a misapprehension that has long since been rectified. Early specimens were often found near nests, suggesting that Oviraptor was inclined to eat the eggs of other dinosaurs - but experts now believe they were brooding the eggs until they hatched.",
+    "discovery": "The first Oviraptor specimen was excavated from the Flaming Cliffs of the Djadokhta Formation, Mongolia in 1923 by the American explorer Roy Chapman Andrews. His find consisted of a partial skull, vertebrae, ribs and part of its left arm, and was unearthed alongside two other previously undiscovered specimens, Velociraptor and Saurornthoides.",
+    "palaeoecology": "This genus lived approximately 70-75 million years ago in Asia, which had a very hot, dry climate during this period, and co-existed with many other genera of dinosaur including Velociraptor, Protoceratops and Byronosaurus. Oviraptor used its powerful jaw to crush its food - research suggests Oviraptor was happy eating everything from meat and fish to eggs and even fruit.",
+    "era": "Late Cretaceous",
+    "family": "Oviraptoridae",
+    "genus": "Oviraptor",
+    "height": 0.8,
+    "length": 1.3,
+    "weight": 30,
+    "diet": [
+      "Omnivore"
+    ],
+    "feeder": [
+      "Ground Palaeobotany",
+      "Meat"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 3,
+        "max": 6
+      }
+    ],
+    "dig_sites": [
+      "Djadochta Formation",
+      "Nemegt Formation A"
+    ],
+    "security_rating": 1,
+    "minimum_population": 6,
+    "environment": [
+      {
+        "water": 6,
+        "forest": 31,
+        "prey": 0.10,
+        "ground_leaf": 63
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "Everything"
+        ],
+        "dislikes": [
+          "Lystrosaurus",
+          "Indominus rex",
+          "Indoraptor",
+          "Scorpios rex"
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+  {
+    "id": 58,
+    "name": "Pachycephalosaurus",
+    "slug": "pachycephalosaurus",
+    "image": "/images/pachycephalosaurus.webp",
+    "description": "Pachycephalosaurus is an herbivorous dinosaur that lived in North America during the Late Cretaceous period. The name Pachycephalosaurus translates to ‘thick-headed lizard’, in reference to the genus’ large, thick skull that experts believe was used in intra-species combat, with rival dinosaurs attacking each other when competing for territory. Growing up to 4.5m in length and weighing almost half a tonne, Pachycephalosaurus is one of the largest pachycephalosaurid dinosaurs.",
+    "discovery": "American geologist and fossil collector Ferdinand Vandeveer Hayden discovered the first Pachycephalosaurus specimen in 1859 when he found a fragment of bone in the Lance Formation, Montana. The fossil was not originally thought to be that of a dinosaur but a reptile or armadillo, and it wasn’t until 1985 that it was formally classified as a new genus, named Pachycephalosaurus.",
+    "palaeoecology": "This genus lived around 65-75m years ago in the western United States, co-existing with many other dinosaurs including Edmontosaurus, Triceratops and the fearsome apex predator Tyrannosaurus. It is believed that Pachycephalosaurus lived in wooded areas, feeding on soft plants, fruit and seeds.",
+    "era": "Late Cretaceous",
+    "family": "Pachycephalosauridae",
+    "genus": "Pachycephalosaurus",
+    "height": 1.5,
+    "length": 4.5,
+    "weight": 450,
+    "diet": [
+      "Herbivore"
+    ],
+    "feeder": [
+      "Ground Palaeobotany"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 2,
+        "max": 6
+      }
+    ],
+    "dig_sites": [
+      "Hell Creek Formation A",
+      "Lance Formation Site B",
+      "Scollard Formation A"
+    ],
+    "security_rating": 3,
+    "minimum_population": 3,
+    "environment": [
+      {
+        "water": 6,
+        "open_space": 63,
+        "ground_leaf": 31
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "Sauropod",
+          "Ankylosaurid",
+          "Stegosaurid"
+        ],
+        "dislikes": [
+          "Dr. Wu Hybrids",
+          "Therizinosaurus"
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+  {
+    "id": 59,
+    "name": "Parasaurolophus",
+    "slug": "parasaurolophus",
+    "image": "/images/parasaurolophus.webp",
+    "description": "Parasaurolophus is an herbivorous hadrosaurid native to North America, and is famed for its unique head crest, which extends out from the back of its head. This distinctive crest gave the dinosaur its name, which translates to ‘near crested lizard’. Parasaurolophus grows up to around 7.5m in length, and while it usually walks on four legs, it can rear up onto two legs if it needs to run or reach food in high places.",
+    "discovery": "The first Parasaurolophus discovery came in 1920, when a team of palaeontologists led by William Parks discovered a skull and an incomplete skeleton in Alberta, Canada. Another partial skull was unearthed in New Mexico the following year, and over the next 100 years many more specimens have been unearthed and attributed to Parasaurolophus.",
+    "palaeoecology": "The remains of Parasaurolophus have been found across the western United States, Canada and even as far away as Asia. The genus dates back around 75m years to the Late Cretaceous period, when the climate was seasonal but warm, and lived along rivers and near floodplains and swamps, alongside other dinosaurs including Centrosaurus, Styracosaurus and Euoplocephalus.",
+    "era": "Late Cretaceous",
+    "family": "Hadrosauridae",
+    "genus": "Parasaurolophus",
+    "height": 3,
+    "length": 7.5,
+    "weight": 2600,
+    "diet": [
+      "Herbivore"
+    ],
+    "feeder": [
+      "Ground Palaeobotany"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 2,
+        "max": 5
+      }
+    ],
+    "dig_sites": [
+      "Dinosaur Park Formation B",
+      "Kirtland Formation",
+      "Nemegt Formation A"
+    ],
+    "security_rating": 3,
+    "minimum_population": 4,
+    "environment": [
+      {
+        "water": 7,
+        "open_space": 71,
+        "ground_nut": 21
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "Maiasaura",
+          "Sauropod",
+          "Ceratopsid",
+          "Ornithomimosaurid"
+        ],
+        "dislikes": [
+          "Dr. Wu Hybrids",
+          "Therizinosaurus"
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+  {
+    "id": 60,
+    "name": "Patagotitan",
+    "slug": "patagotitan",
+    "image": "/images/patagotitan.webp",
+    "description": "The Patagotitan is a titanosaurian sauropod, coming in at around 50 tonnes in weight and around 30m in length. Roaming the earth in the Cretaceous period they had a long lifespan. They were named after the South American region in which they were found.",
+    "discovery": "When the holotype was first discovered, Patagotitan became the largest sauropod ever found at the time. The first evidence of Patagotitan was a femur fragment found by Aurelio Hernandez. This led to in-depth expeditions in the Cerro Barcino Formation in Argentina, where fossils were collected between 2012-2015.",
+    "palaeoecology": "The Patagotitan co-habited with different sauropod and herbivore groups, where they browsed tall trees and low-growing plants in search of food. They also nested in groups, with 15-40 eggs per clutch. They lived in a warm period with semi-arid periods, traversing flood plains and meandering rivers, all against a backdrop of active volcanoes.",
+    "era": "Early Cretaceous",
+    "family": "Titanosauria",
+    "genus": "Patagotitan",
+    "height": 13.4,
+    "length": 30,
+    "weight": 50000,
+    "diet": [
+      "Herbivore"
+    ],
+    "feeder": [
+      "Tall Palaeobotany"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "dig_sites": [
+      "Cerro Barcino Formation"
+    ],
+    "territory": "land",
+    "game": "Base game"
+  },
+  {
+    "id": 61,
+    "name": "Plesiosaurus",
+    "slug": "plesiosaurus",
+    "image": "/images/plesiosaurus.webp",
+    "description": "Known for its powerful paddle-like limbs that allow it to swim through water at speed and a flexible, elongated neck that can move quickly to catch fish and other prey, Plesiosaurus is a piscivorous marine reptile that can grow up to 3.5m in length. The name Plesiosaurus means ‘near lizard’, and the genus dates back to the Early Jurassic period, around 200m years ago.",
+    "discovery": "Plesiosaurus was discovered by William Conybeare and Henry De la Beche in 1821, although the first complete skeleton was unearthed by renowned British palaeontologist Mary Anning in 1823, while she was searching for fossils in the Lias Group, Dorset. Anning’s find was so unusual that it was initially dismissed as a fake – it was only when similar remains were found in the same location that she was believed.",
+    "palaeoecology": "This genus lived entirely in water (although it would surface for air) and swam vast stretches of ocean, with fossils found in Europe, Asia, North America and even Australia. Plesiosaurus’ diet consisted of fish, molluscs and other marine reptiles, which it grabbed with its strong, sharp teeth.",
+    "era": "Early Jurassic",
+    "family": "Plesiosauridae",
+    "genus": "Plesiosaurus",
+    "height": 1,
+    "length": 3.5,
+    "weight": 454,
+    "diet": [
+      "Piscivore"
+    ],
+    "feeder": [
+      "Fish"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 2,
+        "max": 4
+      }
+    ],
+    "dig_sites": [
+      "Oxford Clay"
+    ],
+    "security_rating": 3,
+    "minimum_population": 2,
+    "environment": [
+      {
+        "open_space": 100,
+        "fish": 0.40
+      }
+    ],
+    "territory": "water",
+    "game": "Base game"
+  },
+  {
+    "id": 62,
+    "name": "Proceratosaurus",
+    "slug": "proceratosaurus",
+    "image": "/images/proceratosaurus.webp",
+    "description": "The small theropod Proceratosaurus is a carnivorous dinosaur, and is notable for the bold crest on its snout. Its name comes from the belief, upon its discovery, that the genus was related to Ceratosaurus. However further research has found that it is in fact a cousin of Tyrannosaurus, albeit much smaller at around 4m in length.",
+    "discovery": "The sole known Proceratosaurus fossil was discovered by F. Lewis Bradley in 1910 at the White Limestone Formation on the south coast of England, and examination of the specimen (a partial skull) led palaeontologists like Arthur Smith Woodward and Friedrich von Huene to believe it was an ancestor of Ceratosaurus. It wasn’t until almost a century later that studies confirmed Proceratosaurus was a relative of the tyrannosaurs of the Late Cretaceous period.",
+    "palaeoecology": "Information about Proceratosaurus is limited, as only one partial specimen has ever been found. However, research has shown that it lived along the south coast of England around 165m years ago during the Middle Jurassic period. Other dinosaurs shared Proceratosaurus’ habitat, including Metriacanthosaurus",
+    "era": "Middle Jurassic",
+    "family": "Proceratosauridae",
+    "genus": "Proceratosaurus",
+    "height": 1.4,
+    "length": 4,
+    "weight": 40,
+    "diet": [
+      "Carnivore"
+    ],
+    "feeder": [
+      "Meat",
+      "Live Prey"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 2,
+        "max": 6
+      }
+    ],
+    "dig_sites": [
+      "Minchinhampton"
+    ],
+    "security_rating": 5,
+    "minimum_population": 3,
+    "environment": [
+      {
+        "water": 15,
+        "open_space": 85,
+        "prey": 0.40
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "Scavenger"
+        ],
+        "dislikes": [
+          "Carnivores",
+          "Therizinosaurus"
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+  {
+    "id": 63,
+    "name": "Protoceratops",
+    "slug": "protoceratops",
+    "image": "/images/protoceratops.webp",
+    "description": "The Protoceratops was an herbivore reaching about 2.5m in length and weighing up to 100kg. They had large eyes capable of binocular vision, and powerful bite capabilities thought to act as a defensive weapon. Protoceratops lived in large herds to survive, and they also had large nests, with up to 12-15 tiny hatchlings in each. Protoceratops laid soft-shell eggs, and buried them to stop them from drying out in the arid desert conditions.",
+    "discovery": "The first example of Protoceratops was discovered in 1922, and found in the Djadokhta Formation at the Flaming Cliffs. Further well-preserved specimens were found in 1923 and 1925, and since then many more fossils have been found both in Mongolia and also in Uzbekistan. One of these fossils, found in 1971, is the remains of a Protoceratops and a Velociraptor locked in combat, known as the Fighting Dinosaurs.",
+    "palaeoecology": "Protoceratops thrived in harsh climates that ranged from deserts to riverine to conifer-dominated forest patches. With splayed digits and cushiony footpads to maximise foot surface area and thus minimise sinking in sand, they were well-suited to a desert biome. Protoceratops also had rows of serrated, tightly-packed teeth that were perfect for shearing foliage as part of its herbivore diet.",
+    "era": "Late Cretaceous",
+    "family": "Protoceratopsidae",
+    "genus": "Protoceratops",
+    "height": 0.9,
+    "length": 2.5,
+    "weight": 100,
+    "diet": [
+      "Herbivore"
+    ],
+    "feeder": [
+      "Ground Palaeobotany"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 1,
+        "max": 4
+      }
+    ],
+    "dig_sites": [
+      "Bayan Mandahu Formation"
+    ],
+    "territory": "land",
+    "game": "Deluxe pack edition"
   }
 ]
