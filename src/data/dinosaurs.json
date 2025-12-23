@@ -3337,5 +3337,147 @@
     ],
     "territory": "land",
     "game": "Deluxe pack edition"
+  },
+  {
+    "id": 64,
+    "name": "Psittacosaurus",
+    "slug": "psittacosaurus",
+    "image": "/images/psittacosaurus.webp",
+    "description": "The Psittacosaurus was a small, bipedal horned dinosaur. They were herbivores, eating plants to survive. Their name means ‘parrot-lizard’, and they are the ancestors of later horned dinosaurs like the Triceratops. They displayed gregarious behaviour, flocking together for survival, and further research has even suggested juvenile Psittacosaurus would babysit for recently-hatched young.",
+    "discovery": "Psittacosaurus fossils are abundant throughout Asia, including Russia, Mongolia and China, and date from the Cretaceous period. Juvenile specimens in particular are very common. As recently as 2006, palaeontologists spent one week of digging in the Gobi Desert and uncovered 67 Psittacosaurus skeletons.",
+    "palaeoecology": "Psittacosaurus hatchlings had long, fast-growing limbs and a robust beak. They had teeth designed for shearing through plant material, but no grinding teeth. Instead, they swallowed stones to wear down food while it passed through the digestive system, much like some modern birds do. These sociable dinosaurs were herbivores and lived between 100 million and 122 million years ago.",
+    "era": "Early Cretaceous",
+    "family": "Psittacosauridae",
+    "genus": "Psittacosaurus",
+    "height": 0.7,
+    "length": 2,
+    "weight": 45,
+    "diet": [
+      "Herbivore"
+    ],
+    "feeder": [
+      "Ground Palaeobotany"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 3,
+        "max": 6
+      }
+    ],
+    "dig_sites": [
+      "Oshih Formation"
+    ],
+    "territory": "land",
+    "game": "Base game"
+  },
+  {
+    "id": 65,
+    "name": "Pteranodon",
+    "slug": "pteranodon",
+    "image": "/images/pteranodon.webp",
+    "description": "Pteranodon is one of the largest pterosaurs ever to have existed with a wingspan stretching up to 7m, and is easily recognisable thanks to the crest on the top of its skull, which it uses for display purposes. Although its diet consists largely of fish, Pteranodon does not have teeth, chewing its prey with its beak – in fact, its name translates to ‘wing toothless’.",
+    "discovery": "With over 1,200 known specimens, Pteranodon is one of the most well-known genera of flying reptiles. The first remains were found in 1870 by American palaeontologist Othniel Charles Marsh in Kansas, when he unearthed numerous wing bones from the Smoky Hill Chalk Member. Initially the find was classified as Pterodactylus, but the 1876 excavation of a skull with no teeth confirmed that it was a new genus.",
+    "palaeoecology": "Pteranodon lived around 80-85m years ago during the Late Cretaceous period, and is native to North America – particularly around the Western Interior Seaway. It lived alongside its relative Nyctosaurus and the toothed bird Ichthyornis, and built their nests high up to avoid predators.",
+    "era": "Late Cretaceous",
+    "family": "Pteranodontidae",
+    "genus": "Pteranodon",
+    "height": 2,
+    "length": 7,
+    "weight": 25,
+    "diet": [
+      "Piscivore",
+      "Carnivore"
+    ],
+    "feeder": [
+      "Fish",
+      "Live Prey"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 1,
+        "max": 3
+      }
+    ],
+    "dig_sites": [
+      "Niobrara Formation",
+      "Pierre Shale",
+      "Smoky Hill Chalk"
+    ],
+    "security_rating": 5,
+    "environment": [
+      {
+        "water": 28,
+        "open_space": 28,
+        "fish": 0.50,
+        "rock": 12
+      }
+    ],
+    "territory": "sky",
+    "cohabitation": [
+      {
+        "likes": [
+          "Geosternbergia",
+          "Thanatosdrakon"
+        ],
+        "dislikes": [
+          "Dr Wu Hybrids"
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+  {
+    "id": 66,
+    "name": "Pyroraptor",
+    "slug": "pyroraptor",
+    "image": "/images/pyroraptor.webp",
+    "description": "The predatory theropod Pyroraptor is a member of the Dromaeosauridae family that lived in Europe during the Late Cretaceous period. Measuring around 2.4m in length, Pyroraptor relies on its impressive speed rather than power when stalking its prey and prefers to hunt in packs like its more famous cousin, Velociraptor. Its sharp claws help Pyroraptor to catch its prey but are also used for climbing.",
+    "discovery": "Pyroraptor’s name translates to ‘fire thief’ and is derived from its discovery site – the first known Pyroraptor remains were unearthed following a forest fire in Provence, southern France in 1992. This specimen consisted of a series of toe claws, a forearm bone and two teeth, while subsequent remains found in Spain were also attributed to Pyroraptor.",
+    "palaeoecology": "This genus has been found across western and central Europe and dates back around 70 million years, when the area had a tropical climate and plenty of water sources. Pyroraptor shared its habitat with many other genera of dinosaur, including Ampelosaurus and Struthiosaurus.",
+    "era": "Late Cretaceous",
+    "family": "Dromaeosauridae",
+    "genus": "Pyroraptor",
+    "height": 1.7,
+    "length": 2.4,
+    "weight": 180,
+    "diet": [
+      "Carnivore"
+    ],
+    "feeder": [
+      "Meat",
+      "Live Prey"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 2,
+        "max": 4
+      }
+    ],
+    "dig_sites": [
+      "La Bouchard"
+    ],
+    "security_rating": 5,
+    "minimum_population": 3,
+    "environment": [
+      {
+        "water": 5,
+        "forest": 22,
+        "open_space": 73,
+        "prey": 0.30
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "Scavenger"
+        ],
+        "dislikes": [
+          "Carnivores",
+          "Therizinosaurus"
+        ]
+      }
+    ],
+    "game": "Base game"
   }
 ]
