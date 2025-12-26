@@ -3701,5 +3701,168 @@
       }
     ],
     "game": "Base game"
+  },
+  {
+    "id": 71,
+    "name": "Sinoceratops",
+    "slug": "sinoceratops",
+    "image": "/images/sinoceratops.webp",
+    "description": "The ceratopsian dinosaur Sinoceratops existed in China around 73m years ago, and is easily identifiable thanks to the large horn on its snout. This genus can grow up to 8.1m in length and weigh as much as two tonnes, while the eye-catching frill above its neck helps it to attract mates. The name Sinoceratops is derived from its appearance and its environment, translating to ‘Chinese horned face’.",
+    "discovery": "Sinoceratops was the first ceratopsid to be discovered in China, when a partial skull was excavated from the Xingezhuang Formation, Shandong in 2008 – a significant find, showing that ceratopsian dinosaurs may have migrated from North America to Asia. Further specimens have been found in the same location, allowing researcher Xu Xing to name the genus Sinoceratops formally.",
+    "palaeoecology": "Sinoceratops roamed China during the Late Cretaceous period, gravitating towards wetlands, marshes and rivers where low-lying vegetation such as ferns and plants was more plentiful. It shared its environment with numerous dinosaurs including the predator Zhuchengtyrannus, although once fully grown it was able to defend itself from attack.",
+    "era": "Late Cretaceous",
+    "family": "Ceratopsidae",
+    "genus": "Sinoceratops",
+    "height": 4.2,
+    "length": 8.1,
+    "weight": 2000,
+    "diet": [
+      "Herbivore"
+    ],
+    "feeder": [
+      "Ground Palaeobotany"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 1,
+        "max": 3
+      }
+    ],
+    "dig_sites": [
+      "Xingezhuang Formation"
+    ],
+    "security_rating": 4,
+    "minimum_population": 2,
+    "environment": [
+      {
+        "water": 3,
+        "ground_fiber": 65,
+        "open_space": 32
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "Ornithomimosaurid",
+          "Ceratopsid",
+          "Ankylosaurid",
+          "Hadrosaurid",
+          "Scavenger"
+        ],
+        "dislikes": [
+          "Triceratops",
+          "Styracosaurus",
+          "Torosaurus",
+          "Pachyrhinosaurus",
+          "Carnivores",
+          "Stegosaurid",
+          "Therizinosaurus"
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+  {
+    "id": 72,
+    "name": "Spinoceratops",
+    "slug": "spinoceratops",
+    "image": "/images/spinoceratops.webp",
+    "description": "Spinoceratops – also commonly known as ‘Sino-spino’ – is an omnivorous hybrid that was created from the DNA of Sinoceratops and Spinosaurus. The genus’ appearance takes characteristics from both of its ancestors, featuring the pronounced horns of Sinoceratops and the sail of a Spinosaurus – resulting in its name, which translates to ‘spined, horned face’. This genus can grow to in excess of six tonnes, and more than 10 metres long.",
+    "discovery": "This genus is a creation of Mantah Corp, a bioengineering company that rivals InGen. The corporation has genetically engineered Spinoceratops to survive in arctic conditions by regulating its body temperature. Unlike most other genera of dinosaur, behaviour varies significantly between individual specimens.",
+    "palaeoecology": "As it is a relatively new genus, research into Spinoceratops is ongoing. Experts believe that it takes its palaeoecology primarily from its Sinoceratops DNA, living a tranquil existence off a primarily plant-based diet. However it does feed on fish when necessary – a trait it borrows from its Spinosaurus genes. Designed to live in cold environments, Spinoceratops is not suited to desert conditions.",
+    "era": "Holocene",
+    "family": "Hybrid",
+    "genus": "Hybrid",
+    "height": 2,
+    "length": 3,
+    "weight": 6000,
+    "diet": [
+      "Omnivore"
+    ],
+    "feeder": [
+      "Fish",
+      "Ground Palaeobotany"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 2,
+        "max": 3
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "Ornithomimosaurid",
+          "Ceratopsid",
+          "Ankylosaurid",
+          "Hadrosaurid",
+          "Scavenger"
+        ],
+        "dislikes": [
+          "Chasmosaurus",
+          "Pentaceratops",
+          "Carnivores",
+          "Stegosaurid",
+          "Therizinosaurus"
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+  {
+    "id": 73,
+    "name": "Spinoraptor",
+    "slug": "spinoraptor",
+    "image": "/images/spinoraptor.webp",
+    "description": "Engineered at the Hammond Creation Lab by the world-famous geneticist Dr. Henry Wu, Spinoraptor is a large, aggressive carnivore. This genus combines the DNA of Spinosaurus and Velociraptor to create a ferocious predator, boasting the size and power of Spinosaurus with the speed and intelligence of Velociraptor. Spinoraptor takes its name – which translates to ‘spined thief’ – from the large spiny sail on its back.",
+    "discovery": "Although much smaller than its ancestor Spinosaurus, at more than 6 metres long and weighing around 800 kilograms Spinoraptor is still an imposing animal. Dr. Wu bred the genus with the specific intention of creating a fearsome predator that would attract large crowds. Notable for its aggressive temperament and 20cm claws, Spinoraptor is one of the most dangerous dinosaurs in existence.",
+    "palaeoecology": "Spinoraptor is ecologically suited to the same environment as its source genera – roaming grassland and forest areas in search of prey. Its incredible ferocity and lightning speed (capable of running at up to 95 kilometres per hour) allows it to compete with much larger dinosaurs, including giant predators such as the infamous Tyrannosaurus Rex.",
+    "era": "Holocene",
+    "family": "Hybrid",
+    "genus": "Hybrid",
+    "height": 2.8,
+    "length": 6.5,
+    "weight": 800,
+    "diet": [
+      "Piscivore",
+      "Carnivore"
+    ],
+    "feeder": [
+      "Fish",
+      "Live Prey"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 1,
+        "max": 3
+      }
+    ],
+    "security_rating": 5,
+    "minimum_population": 2,
+    "environment": [
+      {
+        "water": 3,
+        "forest": 33,
+        "open_space": 55,
+        "prey": 3,
+        "fish": 4
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "Velociraptor",
+          "Scavenger"
+        ],
+        "dislikes": [
+          "Carnivores",
+          "Therizinosaurus"
+        ]
+      }
+    ],
+    "game": "Base game"
   }
 ]
