@@ -3479,5 +3479,227 @@
       }
     ],
     "game": "Base game"
+  },
+  {
+    "id": 67,
+    "name": "Qianzhousaurus",
+    "slug": "qianzhousaurus",
+    "image": "/images/qianzhousaurus.webp",
+    "description": "A relative of the fearsome apex predator Tyrannosaurus rex, Qianzhousaurus bears a resemblance to its more famous cousin, although it is significantly smaller (growing up to around eight tonnes and over 10m from head to tail) and has a distinctive elongated snout. Although its jaw is less powerful than larger Tyrannosaurids, its ability to run at speed makes Qianzhousaurus an efficient predator.",
+    "discovery": "Qianzhousaurus is one of the most recent dinosaur discoveries, with the first specimen unearthed in 2010 by builders at the Nanxiong Formation in Ganzhou, China. The remains consisted of a number of vertebrae as well as multiple leg bones and a partial skull, which were sent for study by Chinese palaeontologists including Junchang Lu and Laiping Yi, who named the new genus Qianzhousaurus in reference to the location of its discovery.",
+    "palaeoecology": "Qianzhousaurus lived in China and other parts of Asia during the Late Cretaceous period, around 66m years ago. Research has shown that its jaws were best suited to preying on small dinosaurs and lizards, with experts suggesting that it was one of the most effective predators of its period.",
+    "era": "Late Cretaceous",
+    "family": "Tyrannosauridae",
+    "genus": "Qianzhousaurus",
+    "height": 3.5,
+    "length": 10,
+    "weight": 7900,
+    "diet": [
+      "Carnivore"
+    ],
+    "feeder": [
+      "Meat",
+      "Live Prey"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 2,
+        "max": 4
+      }
+    ],
+    "dig_sites": [
+      "Nanxiong Formation"
+    ],
+    "security_rating": 5,
+    "minimum_population": 3,
+    "environment": [
+      {
+        "water": 17,
+        "forest": 6,
+        "open_space": 72,
+        "prey": 0.50,
+        "rock": 6
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "Scavenger",
+          "Majungasaurus"
+        ],
+        "dislikes": [
+          "Carnivores",
+          "Therizinosaurus"
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+  {
+    "id": 68,
+    "name": "Quetzalcoatlus",
+    "slug": "quetzalcoatlus",
+    "image": "/images/quetzalcoatlus.webp",
+    "description": "The piscivorous pterosaur Quetzalcoatlus dates back to the Late Cretaceous period and is considered to be one of the largest flying animals the world has ever seen, with a wingspan in excess of 10m – roughly the size of a small aeroplane. The name Quetzalcoatlus stems from the Aztec god Quetzalcoatl, meaning ‘feathered serpent’.",
+    "discovery": "Quetzalcoatlus was discovered through chance by Douglas A. Lawson in 1971 - while digging for sauropods at Big Bend National Park in Texas, Lawson’s team unearthed a giant wing bone fossil. The bone was so large that there was much controversy over what animal the specimen belonged to, but Lawson was able to show comparisons to Pterodactyl that confirmed it was, in fact, a new genus.",
+    "palaeoecology": "This genus lived in the southern states of the USA around 66-72 million years ago and shared its environment with a range of other pterosaurs, as well as many dinosaurs including Triceratops and the fearsome Tyrannosaurus rex. Quetzalcoatlus remains have mainly been found inland, although this may be because remains were unable to be preserved closer to the coast.",
+    "era": "Late Cretaceous",
+    "family": "Azhdarchidae",
+    "genus": "Quetzalcoatlus",
+    "height": 5.5,
+    "length": 15,
+    "weight": 250,
+    "diet": [
+      "Piscivore",
+      "Carnivore"
+    ],
+    "feeder": [
+      "Fish",
+      "Live Prey"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "dig_sites": [
+      "Antlers Formation",
+      "Javelina Formation",
+      "Twin Mountains Formation"
+    ],
+    "security_rating": 1,
+    "minimum_population": 1,
+    "environment": [
+      {
+        "water": 35,
+        "sand": 26,
+        "rock": 39,
+        "fish": 0.50
+      }
+    ],
+    "territory": "sky",
+    "cohabitation": [
+      {
+        "likes": [
+          "Dimorphodon",
+          "Cearadactylus",
+          "Tapejara",
+          "Barbaridactylus"
+        ],
+        "dislikes": [
+          "Dr Wu Hybrids"
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+  {
+    "id": 69,
+    "name": "Sauropelta",
+    "slug": "sauropelta",
+    "image": "/images/sauropelta.webp",
+    "description": "Sauropelta is a genus of herbivorous dinosaur native to North America, and is easily recognised thanks to the large spikes that extend from its neck. Due to its large size – weighing around 1.5 tonnes – Sauropelta cannot run at high speeds, so it relies on being able to defend itself from predators; as well as defensive spikes that can be used to repel attackers, it has thick armour covering most of its body – lending the genus its name, which translates to ‘lizard shield’.",
+    "discovery": "The first Sauropelta fossils were found by Barnum Brown, an American palaeontologist known as ‘Mr. Bones’, in 1930. Brown excavated a partial skeleton from the Cloverly Formation in Montana. However, it wasn’t until 1970 that the remains were officially classified as a new genus by fellow palaeontologist John Ostrom, after he excavated related fossils from the same location.",
+    "palaeoecology": "Sauropelta existed during the Early Cretaceous period around 95-120m years ago, roaming the wide floodplains of the western United States in search of ground-level vegetation. It lived alongside a wide variety of dinosaurs, including the predator Deinonychus.",
+    "era": "Early Cretaceous",
+    "family": "Nodosauridae",
+    "genus": "Sauropelta",
+    "height": 2.1,
+    "length": 8,
+    "weight": 1500,
+    "diet": [
+      "Herbivore"
+    ],
+    "feeder": [
+      "Ground Palaeobotany"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 1,
+        "max": 3
+      }
+    ],
+    "dig_sites": [
+      "Cedar Mountain Formation",
+      "Cloverly Formation",
+      "Morrison Formation C"
+    ],
+    "security_rating": 2,
+    "minimum_population": 1,
+    "environment": [
+      {
+        "water": 3,
+        "open_space": 32,
+        "ground_leaf": 32,
+        "ground_fruit": 32
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "Sauropod",
+          "Ornithomimosaurid",
+          "Ceratopsid",
+          "Hadrosaurid",
+          "Pachycephalosaurid"
+        ],
+        "dislikes": [
+          "Carnivores",
+          "Therizinosaurus",
+          "Ankylosaurid",
+          "Stegosaurid"
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+  {
+    "id": 70,
+    "name": "Scorpios rex",
+    "slug": "scorpios-rex",
+    "image": "/images/scorpios-rex.webp",
+    "description": "Scorpios rex is a ‘hybrid’ dinosaur created by splicing the DNA of the scorpionfish, a deadly fish that secretes venom from its fins, with a variety of carnivorous dinosaurs. The combination of power, intelligence, dexterity and speed with such a powerful venom makes Scorpios rex one of the most fearsome dinosaurs ever to have existed. It can grown up to eight metres in length and has rows of serrated teeth designed to tear through the flesh of its prey.",
+    "discovery": "The genus was created by Dr. Henry Wu on the instruction of billionaire impresario Simon Masrani, although the dinosaur’s extremely unstable temperament led to it being placed into cryogenic storage. However, disaster struck soon after when the storage container cracked through overheating, leading to the dinosaur escaping its unit and wreaking havoc across Camp Cretaceous.",
+    "palaeoecology": "Scorpios rex has only ever lived in captivity, so little is known about its natural habitat. Researchers believe that the hybrid’s aggressive behaviour make it unsuitable for release into the wild – in fact, many experts believe that its creation was a mistake, and it should be destroyed as a matter of urgency.",
+    "era": "Holocene",
+    "family": "Hybrid",
+    "genus": "Hybrid",
+    "height": 2,
+    "length": 8,
+    "diet": [
+      "Carnivore"
+    ],
+    "feeder": [
+      "Meat",
+      "Live Prey"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "security_rating": 5,
+    "minimum_population": 1,
+    "environment": [
+      {
+        "water": 10,
+        "forest": 40,
+        "open_space": 50,
+        "prey": 0.30
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "dislikes": [
+          "Everything"
+        ]
+      }
+    ],
+    "game": "Base game"
   }
 ]
