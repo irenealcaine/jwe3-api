@@ -3420,7 +3420,7 @@
           "Thanatosdrakon"
         ],
         "dislikes": [
-          "Dr Wu Hybrids"
+          "Dr. Wu Hybrids"
         ]
       }
     ],
@@ -3589,7 +3589,7 @@
           "Barbaridactylus"
         ],
         "dislikes": [
-          "Dr Wu Hybrids"
+          "Dr. Wu Hybrids"
         ]
       }
     ],
@@ -3856,6 +3856,399 @@
         "likes": [
           "Velociraptor",
           "Scavenger"
+        ],
+        "dislikes": [
+          "Carnivores",
+          "Therizinosaurus"
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+  {
+    "id": 74,
+    "name": "Spinosaurus",
+    "slug": "spinosaurus",
+    "image": "/images/spinosaurus.webp",
+    "description": "Spinosaurus is a genus of carnivorous dinosaur native to North Africa, and lived around 95m years ago during the Late Cretaceous period. Its name translates to ‘spine lizard’, in reference to the long spines on its back vertebrae that form a sail, which researchers believe helps Spinosaurus to regulate its temperature. At around 15m in length and up to four tonnes in weight, Spinosaurus is one of the largest meat-eating dinosaurs to have existed.",
+    "discovery": "The first Spinosaurus remains were discovered in 1912 by Austrian fossil collector Richard Markgraf, when he uncovered a partial skeleton in the Bahariya Formation, Egypt consisting of ribs, vertebrae and multiple spines that grew up to 1.65m long. Three years later, German palaeontologist Ernst Stromer confirmed Markgraf’s find as a new genus",
+    "palaeoecology": "Spinosaurus remains have mainly been found across northern Africa, although fossils have been unearthed as far south as Kenya. It is believed that Spinosaurus preferred a warm, humid climate, and tended to live near swamps and marshes, preying on crocodiles, fish and even pterosaurs.",
+    "era": "Late Cretaceous",
+    "family": "Spinosauridae",
+    "genus": "Spinosaurus",
+    "height": 6.4,
+    "length": 15,
+    "weight": 4000,
+    "diet": [
+      "Piscivore",
+      "Carnivore"
+    ],
+    "feeder": [
+      "Fish",
+      "Live Prey"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "dig_sites": [
+      "Bahariya Formation",
+      "Chenini Formation"
+    ],
+    "security_rating": 6,
+    "minimum_population": 1,
+    "environment": [
+      {
+        "water": 40,
+        "forest": 20,
+        "open_space": 40,
+        "fish": 0.70
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "Scavenger"
+        ],
+        "dislikes": [
+          "Carnivores",
+          "Therizinosaurus"
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+  {
+    "id": 75,
+    "name": "Stegoceratops",
+    "slug": "stegoceratops",
+    "image": "/images/stegoceratops.webp",
+    "description": "Stegoceratops is a hybrid dinosaur designed by world-renowned geneticist Dr. Henry Wu, and can grow up to 12 metres in length and four tonnes in weight. This genus is comprised primarily of the DNA of Stegosaurus and Triceratops, with three large horns on its head and solid plates that run the length of its spine. It also contains the DNA of a beetle, providing the genus with a thick, tough armour that protects it from predators.",
+    "discovery": "Dr. Wu designed Stegoceratops at the Hammond Creation Laboratory alongside a number of other hybrid dinosaurs, including the highly intelligent apex predator Indominus rex. Wu’s plan was to create a series of new and exciting dinosaurs to increase the number of visitors to Jurassic Park, engineering new genera that presented a combination of the most impressive or notable features of existing dinosaurs.",
+    "palaeoecology": "Although Stegoceratops is a young genus with a limited history, studies of its behaviour have shown that it prefers a similar habitat to its ancestors Stegosaurus and Triceratops – forests and grasslands with plenty of vegetation.",
+    "era": "Holocene",
+    "family": "Hybrid",
+    "genus": "Hybrid",
+    "height": 5.2,
+    "length": 11.6,
+    "weight": 4000,
+    "diet": [
+      "Herbivore"
+    ],
+    "feeder": [
+      "Ground Palaeobotany"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 2,
+        "max": 4
+      }
+    ],
+    "security_rating": 4,
+    "minimum_population": 1,
+    "environment": [
+      {
+        "water": 5,
+        "forest": 33,
+        "ground_fiber": 36,
+        "ground_fruit": 27
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "Stegosaurus"
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+  {
+    "id": 76,
+    "name": "Stegosaurus",
+    "slug": "stegosaurus",
+    "image": "/images/stegosaurus.webp",
+    "description": "Stegosaurus is one of the most famous dinosaurs ever to have existed, thanks to the distinctive upright plates and spikes that adorn its back and tail. As Stegosaurus shared its habitat with many large predators including Ceratosaurus and Allosaurus, it required a method of defending itself – the long spikes on its tail allow it to lash out at attackers, although the back plates are believed to be for display when attracting a mate.",
+    "discovery": "Famous American palaeontologist Othniel Charles Marsh was the first to classify Stegosaurus as a new genus in 1877, after fossils were found near to the Morrison Formation in Colorado. Marsh named the new genus Stegosaurus, which translates to ‘roof lizard’, because the back plates were initially believed to lie horizontal like roof tiles.",
+    "palaeoecology": "Stegosaurus lived in North America during the Late Jurassic period, around 145-155m years ago, roaming the vast, dry plains in search of low-lying vegetation such as trees, ferns and plants. It co-existed with many genera, including the fearsome Allosaurus, Camarasaurus and Diplodocus.",
+    "era": "Late Jurassic",
+    "family": "Stegosauridae",
+    "genus": "Stegosaurus",
+    "height": 5,
+    "length": 10.0,
+    "weight": 3500,
+    "diet": [
+      "Herbivore"
+    ],
+    "feeder": [
+      "Ground Palaeobotany"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 2,
+        "max": 3
+      }
+    ],
+    "dig_sites": [
+      "Cleveland Lloyd Dinosaur Quarry B",
+      "Dinosaur National Monument B",
+      "Lourinhã Formation B"
+    ],
+    "security_rating": 5,
+    "minimum_population": 4,
+    "environment": [
+      {
+        "water": 5,
+        "forest": 29,
+        "ground_fiber": 36,
+        "ground_fruit": 31
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "Sauropod",
+          "Ornithomimosaurid",
+          "Hadrosaurid",
+          "Pachycephalosaurid",
+          "Scavenger"
+        ],
+        "dislikes": [
+          "Carnivores",
+          "Ceratopsid",
+          "Ankylosaurid",
+          "Stegosaurid",
+          "Therizinosaurus"
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+  {
+    "id": 77,
+    "name": "Struthiomimus",
+    "slug": "struthiomimus",
+    "image": "/images/struthiomimus.webp",
+    "description": "The name Struthiomimus means ‘ostrich mimic’, and was given to the genus thanks to its similarity to a modern-day ostrich, thanks to its extended neck and long hind legs – although it is significantly bigger than an ostrich, at around 4m in length and weighing up to 150kg. Struthiomimus is an herbivorous genus and feeds mainly on soft plants, as its jaw does not contain teeth.",
+    "discovery": "Struthiomimus was discovered in 1901, when Canadian geologist Lawrence Lamb unearthed an incomplete skeleton near to the Red Deer River valley in Alberta. The fossils were first believed to be a new species of Ornithomimus – it wasn’t until 1917 that it was classified as its own genus by American palaeontologist Henry Fairfield Osborn.",
+    "palaeoecology": "Struthiomimus dates back to the Late Cretaceous period around 75m years ago, and lived in North America alongside a range of other dinosaurs including Edmontosaurus, Pachycephalosaurus and Dracorex – not to mention the feared apex predator Tyrannosaurus.",
+    "era": "Late Cretaceous",
+    "family": "Ornithomimidae",
+    "genus": "Struthiomimus",
+    "height": 2.3,
+    "length": 4.3,
+    "weight": 150,
+    "diet": [
+      "Herbivore"
+    ],
+    "feeder": [
+      "Ground Palaeobotany"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 3,
+        "max": 5
+      }
+    ],
+    "dig_sites": [
+      "Dinosaur Park Formation A",
+      "Lance Formation Site A"
+    ],
+    "security_rating": 1,
+    "minimum_population": 3,
+    "environment": [
+      {
+        "water": 6,
+        "forest": 31,
+        "ground_leaf": 63
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "Sauropod",
+          "Ceratopsid",
+          "Ankylosaurid",
+          "Hadrosaurid",
+          "Stegosaurid"
+        ],
+        "dislikes": [
+          "Dr. Wu Hybrids",
+          "Therizinosaurus"
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+  {
+    "id": 78,
+    "name": "Stygimoloch",
+    "slug": "stygimoloch",
+    "image": "/images/stygimoloch.webp",
+    "description": "Stygimoloch is an herbivorous dinosaur from the pachycephalosaur family that lived in the western United States around 65-68m years ago. This genus can grow to over 3m in length and is easily recognisable thanks to the large bony horns on the back of its head, which it uses to defend itself from predators. Its name translates to ‘Styx devil’, a reference to the river that separates Earth and the Underworld in Greek mythology.",
+    "discovery": "The history of Stygimoloch is somewhat controversial, with many competing views about its classification. The first Stygimoloch was discovered towards the end of the 19th Century in the Hell Creek Formation, Texas, but it wasn’t officially named until 1982, when Hans-Dieter Sues and Peter Galton formally described it as a new genus. Some experts now believe that the specimens found are in fact those of juvenile Pachycephalosaurus.",
+    "palaeoecology": "Stygimoloch co-existed with many other dinosaurs during the Late Cretaceous period, roaming the forests and plains of North America alongside Edmontosaurus, Triceratops and Ankylosaurus, as well as the apex predator Tyrannosaurus.",
+    "era": "Late Cretaceous",
+    "family": "Pachycephalosauridae",
+    "genus": "Stygimoloch",
+    "height": 1.7,
+    "length": 3.5,
+    "weight": 78,
+    "diet": [
+      "Herbivore"
+    ],
+    "feeder": [
+      "Ground Palaeobotany"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 2,
+        "max": 6
+      }
+    ],
+    "dig_sites": [
+      "Frenchman Formation A",
+      "Hell Creek Formation B",
+      "Lance Formation Site A"
+    ],
+    "security_rating": 4,
+    "minimum_population": 3,
+    "environment": [
+      {
+        "water": 6,
+        "forest": 31,
+        "ground_leaf": 63
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "Sauropod",
+          "Ankylosaurid",
+          "Stegosaurid"
+        ],
+        "dislikes": [
+          "Dr. Wu Hybrids",
+          "Therizinosaurus"
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+  {
+    "id": 79,
+    "name": "Styracosaurus",
+    "slug": "styracosaurus",
+    "image": "/images/styracosaurus.webp",
+    "description": "Measuring 5.1m in length and weighing almost 2 tonnes, Styracosaurus is a large herbivorous dinosaur that lived in the Cretaceous period. Styracosaurus is from the ceratopsian family of dinosaurs, with a single horn protruding from its snout and a large neck frill featuring lengthy spines that give it its name, which translates into ‘Spiked Lizard’.",
+    "discovery": "Styracosaurus fossils were first discovered in 1913 by C.M. Sternberg in Alberta, Canada, on a site that is now known as the Dinosaur Park formation. Further remains, including a nearly complete skeleton, were found close to the location of the original discovery by Barnum Brown two years later.",
+    "palaeoecology": "Experts believe that Styracosaurus lived in groups on the coastal rivers and floodplains of what is now Canada, around 70-75 million years ago. This dinosaur was one of many genera to roam the area, along with Centrosaurus, Parasaurolophus and Gorgosaurus.",
+    "era": "Late Cretaceous",
+    "family": "Ceratopsidae",
+    "genus": "Styracosaurus",
+    "height": 1.5,
+    "length": 5.1,
+    "weight": 1800,
+    "diet": [
+      "Herbivore"
+    ],
+    "feeder": [
+      "Ground Palaeobotany"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 2,
+        "max": 4
+      }
+    ],
+    "dig_sites": [
+      "Dinosaur Park Formation B",
+      "Laramie Formation"
+    ],
+    "security_rating": 3,
+    "minimum_population": 2,
+    "environment": [
+      {
+        "water": 5,
+        "ground_fiber": 48,
+        "open_space": 48
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "Ornithomimosaurid",
+          "Ceratopsid",
+          "Ankylosaurid",
+          "Hadrosaurid"
+        ],
+        "dislikes": [
+          "Triceratops",
+          "Torosaurus",
+          "Sinoceratops",
+          "Dr. Wu Hybrids",
+          "Stegosaurid",
+          "Therizinosaurus"
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+  {
+    "id": 80,
+    "name": "Suchomimus",
+    "slug": "suchomimus",
+    "image": "/images/suchomimus.webp",
+    "description": "The large carnivorous spinosaurid Suchomimus is known for its unusual appearance – although its body is similar to that of Baryonyx or Spinosaurus, its long snout bears a closer resemblance to a modern-day crocodile; in fact, the name Suchomimus translates to ‘crocodile mimic’. Suchomimus can weigh up to two and a half tonnes and grow up to 9.5m in length, with large claws on its hand for catching and killing fish and small animals.",
+    "discovery": "Suchomimus is a relatively new discovery in the world of dinosaurs, with the first fossil found in 1997. A team led by American palaeontologist Paul Sereno unearthed numerous bones while exploring a site in Gadoufaoua, Niger, including a large claw. A year later, their find was officially classified as a new genus and given the name Suchomimus.",
+    "palaeoecology": "Suchomimus dates back to the Early Cretaceous period, around 112-121m years ago, and lived in the tropical climate of Niger, staying close to floodplains and rivers where vegetation and water were most plentiful. It shared its environment with many other genera of dinosaur, including Nigersaurus and Ouranosaurus.",
+    "era": "Early Cretaceous",
+    "family": "Spinosauridae",
+    "genus": "Suchomimus",
+    "height": 3,
+    "length": 9.5,
+    "weight": 2500,
+    "diet": [
+      "Piscivore",
+      "Carnivore"
+    ],
+    "feeder": [
+      "Fish",
+      "Live Prey"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 1,
+        "max": 4
+      }
+    ],
+    "dig_sites": [
+      "Tegama Beds"
+    ],
+    "security_rating": 5,
+    "minimum_population": 3,
+    "environment": [
+      {
+        "water": 44,
+        "forest": 44,
+        "sand": 11,
+        "fish": 0.50
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "Scavenger",
+          "Baryonyx"
         ],
         "dislikes": [
           "Carnivores",
