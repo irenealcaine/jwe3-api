@@ -4257,5 +4257,715 @@
       }
     ],
     "game": "Base game"
+  },
+  {
+    "id": 81,
+    "name": "Tapejara",
+    "slug": "tapejara",
+    "image": "/images/tapejara.webp",
+    "description": "Easily recognised thanks to its unique appearance, Tapejara is a genus of Pterosaur native to Brazil with a brightly coloured crest on top of its head that could grow up to a metre in length, helping it to attract mates. Its wingspan of around 4m makes it one of the smaller Pterosaurs, while the name Tapejara translates to ‘old being’.",
+    "discovery": "Information regarding the history of Tapejara is limited, as only one confirmed specimen has been recovered thus far. The genus was first classified in 1989 by Alexander Kellner, and in the following years further fossils were unearthed that were initially classified as Tapejara – however, these bones were subsequently found to be new genera, named Tupandactylus.",
+    "palaeoecology": "Tapejara existed approximately 110m years ago during the Early Cretaceous period, flying across the skies of Brazil and diving down into the water to grab fish – although some palaeontologists believe it may also have fed on fruit, or even the carcasses of dead animals.",
+    "era": "Early Cretaceous",
+    "family": "Tapejaridae",
+    "genus": "Tapejara",
+    "height": 1.3,
+    "length": 4,
+    "weight": 7,
+    "diet": [
+      "Piscivore",
+      "Carnivore"
+    ],
+    "feeder": [
+      "Fish",
+      "Live Prey"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 2,
+        "max": 4
+      }
+    ],
+    "dig_sites": [
+      "Romualdo Formation"
+    ],
+    "security_rating": 2,
+    "minimum_population": 2,
+    "environment": [
+      {
+        "water": 2,
+        "forest": 24,
+        "open_space": 74,
+        "fish": 0.50
+      }
+    ],
+    "territory": "sky",
+    "cohabitation": [
+      {
+        "likes": [
+          "Quetzalcoatlus"
+        ],
+        "dislikes": [
+          "Tropeognathus",
+          "Dr. Wu Hybrids"
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+  {
+    "id": 82,
+    "name": "Thanatosdrakon",
+    "slug": "thanatosdrakon",
+    "image": "/images/thanatosdrakon.webp",
+    "description": "Native to South America, Thanatosdrakon is a large pterosaur that dates back to the Late Cretaceous period - around 86-89 million years ago. With a wingspan of around 9m, this genus is the largest known pterosaur to have inhabited South America, Thanatosdrakon is notable for its unusual appearance, with a very large head and long neck attached to a comparatively small body.",
+    "discovery": "Thanatosdrakon is one of the most recent new palaeontological discoveries - the first specimen was unearthed from the Plottier Formation in the Mendoza region of Argentina in 2018. The remains were discovered by university researcher Leonardo Ortiz David and the new genus was soon given the name Thanatosdrakon - an imposing name that translates into English as ‘‘the Dragon of Death’.",
+    "palaeoecology": "This genus co-existed with a range of dinosaurs and other wildlife along the rivers and floodplains of the Neuquén region, preying on small dinosaurs, reptiles and fish. Due to its impressive size and ability to fly, it is believed to have been the apex predator of its habitat.",
+    "era": "Late Cretaceous",
+    "family": "Azhdarchidae",
+    "genus": "Thanatosdrakon",
+    "height": 8.9,
+    "length": 8.9,
+    "weight": 250,
+    "diet": [
+      "Piscivore",
+      "Carnivore"
+    ],
+    "feeder": [
+      "Fish",
+      "Live Prey"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 1,
+        "max": 2
+      }
+    ],
+    "dig_sites": [
+      "Plottier Formation"
+    ],
+    "security_rating": 4,
+    "minimum_population": 2,
+    "environment": [
+      {
+        "water": 23,
+        "open_space": 67,
+        "rock": 10,
+        "fish": 0.50
+      }
+    ],
+    "territory": "sky",
+    "cohabitation": [
+      {
+        "likes": [
+          "Pteranodon"
+        ],
+        "dislikes": [
+          "Dr. Wu Hybrids"
+        ]
+      }
+    ],
+    "game": "Deluxe pack edition"
+  },
+  {
+    "id": 83,
+    "name": "Therizinosaurus",
+    "slug": "therizinosaurus",
+    "image": "/images/therizinosaurus.webp",
+    "description": "Therizinosaurus is a genus of herbivorous dinosaur from the therizinosaurid family that lived in Asia during the Late Cretaceous period and can grow to a weight of more than 4,000kg. This genus' name translates to 'Scythe lizard', in reference to its large claws at over 50cm, Therizinosaurus is believed to have had the longest claws of any animal in existence.",
+    "discovery": "The first Therizinosaurus specimen was recovered in 1948 by the USSR Academy of Sciences, during an excavation of the Nemegt Formation in Mongolia. The find consisted of three claw bones larger than any that had been discovered previously, and the remains were formally described six years later by the Soviet palaeontologist Evgeny Maleev.",
+    "palaeoecology": "Analysis of Therizinosaurus fossils has led experts to believe the genus lived around 70 million years ago, roaming near rivers and forests in search of vegetation. Fossil data suggests that its diet consisted of vegetation such as tree branches and large shrubs, while it shared its environment with the apex predator Tarbosaurus.",
+    "era": "Late Cretaceous",
+    "family": "Therizinosauridae",
+    "genus": "Therizinosaurus",
+    "height": 5,
+    "length": 10,
+    "weight": 5000,
+    "diet": [
+      "Herbivore"
+    ],
+    "feeder": [
+      "Ground Palaeobotany"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "dig_sites": [
+      "Nemegt Formation B"
+    ],
+    "security_rating": 5,
+    "minimum_population": 1,
+    "environment": [
+      {
+        "water": 7,
+        "open_space": 31,
+        "ground_leaf": 62
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "Scavenger",
+          "Lystrosaurus"
+        ],
+        "dislikes": [
+          "Everything"
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+  {
+    "id": 84,
+    "name": "Triceratops",
+    "slug": "triceratops",
+    "image": "/images/triceratops.webp",
+    "description": "The herbivorous dinosaur Triceratops is one of the largest ceratopsidae, at around 9m in length and weighing 12 tonnes. Notable for its large frill and the three horns on its head – which give rise to its name, which translates to ‘three-horned face – Triceratops’ diet consists mainly of ground level vegetation, although their size may have enabled them to knock over larger plants and trees to feed on.",
+    "discovery": "Triceratops was discovered in 1887, when George Lyman Cannon found a partial skull with two horns close to Denver, Colorado and sent the specimen to famous palaeontologist Othniel Charles Marsh. The bones were initially considered to belong to a large bison but, two years later, Marsh realised that they belonged to a previously undiscovered genus of horned dinosaur, which he named Triceratops.",
+    "palaeoecology": "This genus lived in the United States approximately 66-68m years ago during the Late Cretaceous period, roaming the forests and plains where food was easy to find. Numerous dinosaurs co-existed in Triceratops’ environment, including Torosaurus, Ankylosaurus and Stygimoloch, while Triceratops needed its horns to defend itself from predators including Tyrannosaurus.",
+    "era": "Late Cretaceous",
+    "family": "Ceratopsidae",
+    "genus": "Triceratops",
+    "height": 3.6,
+    "length": 8.9,
+    "weight": 12000,
+    "diet": [
+      "Herbivore"
+    ],
+    "feeder": [
+      "Ground Palaeobotany"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 1,
+        "max": 4
+      }
+    ],
+    "dig_sites": [
+      "Hell Creek Formation B",
+      "Lance Formation Site B"
+    ],
+    "security_rating": 4,
+    "minimum_population": 2,
+    "environment": [
+      {
+        "water": 5,
+        "open_space": 48,
+        "ground_fiber": 48
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "Stegoceratops",
+          "Microceratus",
+          "Ornithomimosaurid",
+          "Ceratopsid",
+          "Ankylosaurid",
+          "Hadrosaurid",
+          "Scavenger"
+        ],
+        "dislikes": [
+          "Styracosaurus",
+          "Torosaurus",
+          "Sinoceratops",
+          "Carnivores",
+          "Stegosaurid",
+          "Therizinosaurus"
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+  {
+    "id": 85,
+    "name": "Troodon",
+    "slug": "troodon",
+    "image": "/images/troodon.webp",
+    "description": "Troodon is a small, meat-eating dinosaur of the Troodon genus with long, thin legs that enable it to reach high speeds when chasing prey. Its name is Greek for ‘wounding tooth’, in reference to its sharp incisors, while this theropod’s large eyes allow it to hunt in the dark. Troodon’s large brain for its size – it stands at just over three feet tall – makes it one of the most intelligent dinosaurs.",
+    "discovery": "Initially classed as a lizard when it was first discovered by American palaeontologist Joseph Leidy in 1855, Troodon was officially reclassified as a dinosaur in 1901 by fellow prehistorian Franz Nopcsa. Leidy unearthed the first Troodon fossil – a tooth with serrated edges – at the Judith River Formation in Montana, the location of a huge number of palaeontological discoveries.",
+    "palaeoecology": "Troodon first existed around 65-75 million years ago, during the Late Cretaceous period. Fossil discoveries in Northern Alaska suggest that this dinosaur may have preferred a cold climate, although teeth believed to have belonged to Troodon have been found as far south as Texas and New Mexico.",
+    "era": "Late Cretaceous",
+    "family": "Troodontidae",
+    "genus": "Troodon",
+    "height": 1,
+    "length": 2.5,
+    "weight": 35,
+    "diet": [
+      "Carnivore"
+    ],
+    "feeder": [
+      "Meat",
+      "Live Prey"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 2,
+        "max": 6
+      }
+    ],
+    "dig_sites": [
+      "Dinosaur Park Formation B",
+      "Judith River Formation",
+      "Prince Creek Formation"
+    ],
+    "security_rating": 1,
+    "minimum_population": 4,
+    "environment": [
+      {
+        "water": 7,
+        "forest": 31,
+        "open_space": 62,
+        "prey": 0.40
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "Scavenger"
+        ],
+        "dislikes": [
+          "Carnivores",
+          "Therizinosaurus"
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+  {
+    "id": 86,
+    "name": "Tropeognathus",
+    "slug": "tropeognathus",
+    "image": "/images/tropeognathus.webp",
+    "description": "The piscivorous pterosaur Tropeognathus lived in South America during the Early Cretaceous period around 110m years ago, and is one of the largest pterosaurs ever to have existed with a wingspan of over 8m. The name Tropeognathus means ‘keel jaw’, and refers to the enlarged crests on its jaw, which the dinosaur uses to retain balance when diving into water to catch fish.",
+    "discovery": "Tropeognathus was formally named in 1987 by German palaeontologist Peter Wellnhofer, after his workplace received a pterosaur skull that had been excavated from the Romualdo Formation in Ceara, Brazil. Additional fossils have since been found near to the site of its discovery, including a near-complete skeleton in 2013 missing only the tail and parts of the back legs.",
+    "palaeoecology": "palaeoeExperts believe that Tropeognathus lived along the coastline of South America, nesting high out of reach of predators and plunging into the sea and nearby lakes to catch its prey. It shared its habitat with numerous other dinosaurs, including fellow pterosaur Cearadactylus.cology",
+    "era": "Early Cretaceous",
+    "family": "Anhangueridae",
+    "genus": "Tropeognathus",
+    "height": 1.8,
+    "length": 8,
+    "weight": 20,
+    "diet": [
+      "Piscivore",
+      "Carnivore"
+    ],
+    "feeder": [
+      "Fish",
+      "Live Prey"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 1,
+        "max": 2
+      }
+    ],
+    "dig_sites": [
+      "Romualdo Formation"
+    ],
+    "security_rating": 4,
+    "minimum_population": 1,
+    "environment": [
+      {
+        "water": 2,
+        "forest": 24,
+        "open_space": 74,
+        "fish": 0.50
+      }
+    ],
+    "territory": "sky",
+    "cohabitation": [
+      {
+        "dislikes": [
+          "Tapejara",
+          "Dr. Wu Hybrids"
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+  {
+    "id": 87,
+    "name": "Tsintaosaurus",
+    "slug": "tsintaosaurus",
+    "image": "/images/tsintaosaurus.webp",
+    "description": "Notable for its distinctive duck-billed snout and striking head crest, Tsintaosaurus is an herbivorous hadrosaurid that can grow up to 10m in length and weigh in excess of three tonnes. Despite its relatively large size, Tsintaosaurus was capable of walking on four legs or two and could reach high speeds when fleeing from predators. Its name comes from the location of its discovery, Qingdao in China.",
+    "discovery": "Tsintaosaurus was discovered in 1950, when a range of hadrosaurid bones was uncovered in the Jingangkou Formation, Shandong. Although many of the bones were ascribed to existing genera, one partial skeleton required further analysis, so were referred to respected Chinese palaeontologist C. C. Young – it wasn’t until 1958 that Young formally declared it a new genus, named Tsintaosaurus.",
+    "palaeoecology": "Tsintaosaurus dates back to the Late Cretaceous period approximately 71-84m years ago, and co-existed with many other dinosaurs including Sinoceratops and the large predator Zhuchengtyrannus. The dry climate in China at this time meant that Tsintaosaurus stayed close to rivers and swamps, where food and water were easier to come by.",
+    "era": "Late Cretaceous",
+    "family": "Hadrosauridae",
+    "genus": "Tsintaosaurus",
+    "height": 3.9,
+    "length": 10,
+    "weight": 3000,
+    "diet": [
+      "Herbivore"
+    ],
+    "feeder": [
+      "Ground Palaeobotany"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 3,
+        "max": 6
+      }
+    ],
+    "dig_sites": [
+      "Yuliangze Formation"
+    ],
+    "security_rating": 3,
+    "minimum_population": 4,
+    "environment": [
+      {
+        "water": 6,
+        "open_space": 63,
+        "ground_fiber": 63
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "Sauropod",
+          "Ornithomimosaurid",
+          "Ceratopsid",
+          "Ankylosaurid",
+          "Stegosaurid"
+        ],
+        "dislikes": [
+          "Dr. Wu Hybrids",
+          "Therizinosaurus"
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+  {
+    "id": 88,
+    "name": "Tyrannosaurus rex",
+    "slug": "tyrannosaurus-rex",
+    "image": "/images/tyrannosaurus-rex.webp",
+    "description": "The most famous of all dinosaurs, Tyrannosaurus rex enjoys a fearsome reputation around the world thanks to its size, power and aggression – a status borne out by its name, which translates to ‘King of the tyrant lizards’. At around 13.5m in length and over eight tonnes in weight, Tyrannosaurus rex was the apex predator of its time, with the most powerful jaw known to science and rows of large, serrated teeth.",
+    "discovery": "American geologist Arthur Lakes lays claim to the discovery of Tyrannosaurus rex, when he unearthed multiple teeth in the Morrison Formation, Colorado. The teeth were initially believed to belong to Ornithomimus, but the subsequent discovery of a partial skeleton by Barnum Brown while investigating a site in Wyoming in 1900 was classified as Tyrannosaurus rex five years later, with Lakes’ find later attributed to the same genus.",
+    "palaeoecology": "Tyrannosaurus rex roamed the western side of North America during the Late Cretaceous period, approximately 66-68m years ago. As the apex predator of this period, it fed on a wide array of prey including hadrosaurs, ankylosaurs and even large sauropods, using its excellent hearing and heightened sense of smell to hunt down targets.",
+    "era": "Late Cretaceous",
+    "family": "Tyrannosauridae",
+    "genus": "Tyrannosaurus",
+    "height": 5.2,
+    "length": 13.5,
+    "weight": 8400,
+    "diet": [
+      "Carnivore"
+    ],
+    "feeder": [
+      "Meat",
+      "Live Prey"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 1,
+        "max": 2
+      }
+    ],
+    "dig_sites": [
+      "Hell Creek Formation C",
+      "Lance Formation Site C",
+      "Frenchman Formation B"
+    ],
+    "security_rating": 6,
+    "minimum_population": 1,
+    "environment": [
+      {
+        "water": 6,
+        "forest": 27,
+        "open_space": 54,
+        "sand": 14,
+        "prey": 0.70
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "Scavenger"
+        ],
+        "dislikes": [
+          "Carnivores",
+          "Therizinosaurus"
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+  {
+    "id": 89,
+    "name": "Utahraptor",
+    "slug": "utahraptor",
+    "image": "/images/utahraptor.webp",
+    "description": "As you might have guessed from the name, the therapod dinosaur Utahraptor first lived in the Utah region of the western United States during the Early Cretaceous period. 5m long and weighing around 300kg, Utahraptor is one of the biggest – and slowest - genera in the dromaeosauridae family. Unable to outrun most smaller dinosaurs, this genus relies on its sickle claws and a powerful bite to ambush its prey.",
+    "discovery": "Utahraptor was discovered in 1975 by respected American palaeontologist Jim Jensen during an excavation of the Dalton Wells Quarry in Utah – but it wasn’t until 1993 that the genus was formally named. James Kirkland, a prolific palaeontologist also responsible for naming ten other dinosaurs, named it Utahraptor – ‘Utah thief’.",
+    "palaeoecology": "Fossil findings show that Utahraptor roamed North America approximately 125-130 million years ago. Experts are divided on the genus’ historical diet – while it is believed that it preyed mainly on smaller dinosaurs, its ability to hunt in packs means it may have fed on much larger sauropods that shared its ecosystem.",
+    "era": "Early Cretaceous",
+    "family": "Dromaeosauridae",
+    "genus": "Utahraptor",
+    "height": 1.5,
+    "length": 5,
+    "weight": 300,
+    "diet": [
+      "Carnivore"
+    ],
+    "feeder": [
+      "Meat",
+      "Live Prey"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 2,
+        "max": 4
+      }
+    ],
+    "dig_sites": [
+      "Cedar Mountain Formation"
+    ],
+    "security_rating": 4,
+    "minimum_population": 2,
+    "environment": [
+      {
+        "water": 6,
+        "forest": 54,
+        "open_space": 40,
+        "prey": 0.50
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "Scavenger"
+        ],
+        "dislikes": [
+          "Carnivores",
+          "Therizinosaurus"
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+  {
+    "id": 90,
+    "name": "Velociraptor",
+    "slug": "velociraptor",
+    "image": "/images/velociraptor.webp",
+    "description": "Velociraptor’s reputation as one of the most terrifying dinosaurs comes not from its size – at just 4m in length it is dwarfed by many less intimidating genera – but its ferocity and intelligence. With its large, sharp teeth and sickle-shaped claws, Velociraptor is a highly efficient predator, preying upon plant-eating dinosaurs such as Protoceratops - although its relative lack of power means it is unlikely to attack large or armoured dinosaurs.",
+    "discovery": "The first Velociraptor fossil was found in 1923 by Peter Kaisen, when he unearthed a complete skull and a toe claw while on an expedition to the Gobi Desert in Outer Mongolia with the American Museum of Natural History. The specimen was referred back to Henry Fairfield Osborne at the museum in New York and named Velociraptor – ‘swift plunderer’ – in reference to its speed and predatory behaviour.",
+    "palaeoecology": "Velociraptor remains have only been found in the Djadochta Formation in Mongolia, suggesting that the genus lived in this area around 70-74m years ago during the Late Cretaceous period. The climate at this time was desert-like, with Velociraptor gravitating towards streams and river where prey would congregate in search of vegetation.",
+    "era": "Late Cretaceous",
+    "family": "Dromaeosauridae",
+    "genus": "Velociraptor",
+    "height": 1.7,
+    "length": 3.9,
+    "weight": 226,
+    "diet": [
+      "Carnivore"
+    ],
+    "feeder": [
+      "Meat",
+      "Live Prey"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 2,
+        "max": 5
+      }
+    ],
+    "dig_sites": [
+      "Iren Dabasu Formation",
+      "Nemegt Formation B"
+    ],
+    "security_rating": 5,
+    "minimum_population": 2,
+    "environment": [
+      {
+        "water": 5,
+        "forest": 32,
+        "open_space": 62,
+        "prey": 0.40
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "Indominus rex",
+          "Spinoraptor",
+          "Scavengers"
+        ],
+        "dislikes": [
+          "Carnivores",
+          "Therizinosaurus"
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+  {
+    "id": 91,
+    "name": "Yutyrannus",
+    "slug": "yutyrannus",
+    "image": "/images/yutyrannus.webp",
+    "description": "Yutyrannus is a carnivorous dinosaur from the tyrannosauroid family – a distant relative of the fearsome Tyrannosaurus rex - that is notable for the long feathers on its body and tail. In fact, at around 9m in length, this genus is the largest carnivorous dinosaur known to have feathers – lending it the name Yutyrannus, which translates to ‘feathered tyrant’.",
+    "discovery": "The exact location of Yutyrannus’ original discovery are uncertain – the first specimens were obtained via a fossil dealer who claimed they were unearthed from a quarry in Liaoning Province, China, but this has never been officially confirmed. The genus was formally described in 2012 by a team of experts led by esteemed Chinese palaeontologist Xu Xing and given the specific name Yutyrannus huali – the Chinese term ‘huali’ meaning ‘beautiful’, likely in reference to its feathers.",
+    "palaeoecology": "This genus lived during the Early Cretaceous period in north-eastern China and may have needed its plumage for regulating temperature due to the cold climate. The discovery of three separate specimens together has led experts to believe that Yutyrannus may have hunted in packs, existing on a diet of smaller dinosaurs, mammals and fish.",
+    "era": "Early Cretaceous",
+    "family": "Proceratosauridae",
+    "genus": "Yutyrannus",
+    "height": 2.5,
+    "length": 8.25,
+    "weight": 1300,
+    "diet": [
+      "Carnivore"
+    ],
+    "feeder": [
+      "Meat",
+      "Live Prey"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 2,
+        "max": 3
+      }
+    ],
+    "dig_sites": [
+      "Yixian Formation"
+    ],
+    "security_rating": 4,
+    "minimum_population": 3,
+    "environment": [
+      {
+        "water": 11,
+        "forest": 30,
+        "open_space": 59,
+        "prey": 0.50
+      }
+    ],
+    "territory": "land",
+    "cohabitation": [
+      {
+        "likes": [
+          "Scavenger"
+        ],
+        "dislikes": [
+          "Carnivores",
+          "Therizinosaurus"
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+  {
+    "id": 92,
+    "name": "Austroraptor",
+    "slug": "austroraptor",
+    "image": "/images/austroraptor.webp",
+    "description": "The bipedal Austroraptor was a carnivore that lived during the Late Cretaceous period. Reaching between 5 and 6m in length, the Austroraptor has an elongated skull, and relatively short forearms when compared to other dromaeosaurs.",
+    "discovery": "The Austroraptor was first found in 2002 in the Allen Formation of Argentina, and named in 2008. The name Austroraptor means 'southern thief', and it is the largest dromaeosaur ever found in the Southern Hemisphere.",
+    "palaeoecology": "Austroraptor lived in the Late Cretaceous period alongside other species of dinosaur and early mammals, in what is now Argentina. A semi-arid ecosystem rich with estuaries and tidal flats, the area boasted a large number of fish and it was likely Austroraptor consumed fish alongside terrestrial prey.",
+    "era": "Late Cretaceous",
+    "family": "Dromaeosauridae",
+    "genus": "Austroraptor",
+    "height": 1.7,
+    "length": 5.5,
+    "weight": 300,
+    "diet": [
+      "Piscivore",
+      "Carnivore"
+    ],
+    "feeder": [
+      "Fish",
+      "Live Prey"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 1,
+        "max": 3
+      }
+    ],
+    "dig_sites": [
+      "Allen Formation"
+    ],
+    "territory": "land",
+    "game": "Wetlands"
+  },
+  {
+    "id": 93,
+    "name": "Hypsilophodon",
+    "slug": "hypsilophodon",
+    "image": "/images/hypsilophodon.webp",
+    "description": "The Hypsilophodon was an omnivorous dinosaur from the Early Cretaceous period. Growing up to 2m long, the Hypsilophodon would use its sharp beak to shear off plant material for consumption. An excellent runner, the Hypsilophodon was bipedal and had an opposable fifth digit on each hand that could be used to grasp vegetation.",
+    "discovery": "Hypsilophodon was first discovered in 1849 in the Wessex Formation of the Isle of Wight. Unfortunately, the specimen was split between two different palaeontologists, and the two halves were only brought back together at a later date. For twenty years, the specimen was believed to be a type of iguanodon. It was only when anthropologist Thomas Henry Huxley later examined the skeleton in detail that he was able to announce the Hypsilophodon as a new species in 1869.",
+    "palaeoecology": "Hypsilophodon lived in what is now the Isle of Wight, England, when it was a semi-arid shrubland floodplain with a foundation of sandstone-studded mudstone. The 1km wide Hypsilophodon Bed in the Wessex Formation has produced over one hundred complete Hypsilophodon skeletons.",
+    "era": "Early Cretaceous",
+    "family": "Hypsilophodontidae",
+    "genus": "Hypsilophodon",
+    "height": 0.9,
+    "length": 1.8,
+    "weight": 20,
+    "diet": [
+      "Herbivore"
+    ],
+    "feeder": [
+      "Ground Palaeobotany"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 1,
+        "max": 4
+      }
+    ],
+    "dig_sites": [
+      "Isle of Wight"
+    ],
+    "territory": "land",
+    "game": "Wetlands"
+  },
+  {
+    "id": 94,
+    "name": "Irritator",
+    "slug": "irritator",
+    "image": "/images/irritator.webp",
+    "description": "The Irritator is a therapod spinosaurid dinosaur from South America. With long, large teeth and a weak but quick bite, along with the paleoecology of the region the Irritator lived in, this dinosaur probably had a primarily piscivore diet.",
+    "discovery": "An almost-complete skull of the Irritator was found in the Santana Formation of Brazil. Dating from the lower Cretaceous and being one of the few dinosaur fossils found in this region, the Irritator gained its name from the irritation felt by the authors who described the dinosaur when they realised the skull had been artificially reconstructed by the commercial fossil diggers who sold it to them.",
+    "palaeoecology": "The Irritator lived during the early Cretaceous, around 110 million years ago. The Brazilian Santana Formation where the fossil was found is rich in fish and crocodyliform remains, which probably served as the Irritator’s main food source. The terrestrial environment of the time was arid to semi-arid, and there were shallow marine and coastal lagoon areas.",
+    "era": "Early Cretaceous",
+    "family": "Spinosauridae",
+    "genus": "Irritator",
+    "height": 2.1,
+    "length": 8,
+    "weight": 1000,
+    "diet": [
+      "Piscivore",
+      "Carnivore"
+    ],
+    "feeder": [
+      "Fish",
+      "Live Prey"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 1,
+        "max": 2
+      }
+    ],
+    "dig_sites": [
+      "Romualdo Formation"
+    ],
+    "territory": "land",
+    "game": "Wetlands"
   }
 ]
