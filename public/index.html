@@ -21,7 +21,6 @@
 
     a {
       display: inline-block;
-      margin-top: 2rem;
       background: #00ffa3;
       color: #0b1d26;
       padding: 0.8rem 1.5rem;
@@ -45,9 +44,15 @@
     }
 
     .endpoint {
-      margin-bottom: 1.25rem;
-      padding-bottom: 0.75rem;
-      border-bottom: 1px dashed rgba(255, 255, 255, 0.03);
+      margin-bottom: 3rem;
+      padding: .5rem 1.5rem;
+      border-bottom: 2px solid rgba(0, 255, 163, 0.2);
+      background: rgba(255, 255, 255, 0.02);
+      border-radius: 8px;
+    }
+
+    .endpoint:last-child {
+      border-bottom: none;
     }
 
     pre {
@@ -75,12 +80,12 @@
 <body>
   <h1>🦖 Jurassic World Evolution 3 API</h1>
   <p>Explore the dinosaurs available in our API.</p>
-  <a href="/api/dinosaurs">View dinosaurs</a>
 
   <main class="docs" aria-label="API Documentation">
     <h2 style="color:#00ffa3;">API Documentation</h2>
-    <h3>GET <code class="route">/api/dinosaurs</code> — List all dinosaurs</h3>
     <section class="endpoint">
+      <h3>GET <code class="route">/api/dinosaurs</code> — List all dinosaurs</h3>
+      <a href="/api/dinosaurs" style="display: inline-block; margin-bottom: 1rem;">Try this endpoint</a>
       <table style="width:100%; border-collapse:collapse; margin-bottom:1rem;">
         <thead>
           <tr>
@@ -142,6 +147,7 @@
 
     <section class="endpoint">
       <h3>GET <code class="route">/api/dinosaurs/:id</code> — Get a dinosaur by ID</h3>
+      <a href="/api/dinosaurs/1" style="display: inline-block; margin-bottom: 1rem;">Try this endpoint</a>
       <table style="width:100%; border-collapse:collapse; margin-bottom:1rem;">
         <thead>
           <tr>
@@ -305,6 +311,7 @@
 
     <section class="endpoint">
       <h3>GET <code class="route">/api/diets</code> — List dinosaurs grouped by diet type</h3>
+      <a href="/api/diets" style="display: inline-block; margin-bottom: 1rem;">Try this endpoint</a>
       <table style="width:100%; border-collapse:collapse; margin-bottom:1rem;">
         <thead>
           <tr>
@@ -372,6 +379,7 @@
 
     <section class="endpoint">
       <h3>GET <code class="route">/api/families</code> — List dinosaurs grouped by taxonomic family</h3>
+      <a href="/api/families" style="display: inline-block; margin-bottom: 1rem;">Try this endpoint</a>
       <table style="width:100%; border-collapse:collapse; margin-bottom:1rem;">
         <thead>
           <tr>
@@ -439,6 +447,7 @@
 
     <section class="endpoint">
       <h3>GET <code class="route">/api/habitats</code> — List dinosaurs grouped by habitat type</h3>
+      <a href="/api/habitats" style="display: inline-block; margin-bottom: 1rem;">Try this endpoint</a>
       <table style="width:100%; border-collapse:collapse; margin-bottom:1rem;">
         <thead>
           <tr>
@@ -515,6 +524,7 @@
 
     <section class="endpoint">
       <h3>GET <code class="route">/api/dig-sites</code> — List dinosaurs grouped by dig sites</h3>
+      <a href="/api/dig-sites" style="display: inline-block; margin-bottom: 1rem;">Try this endpoint</a>
       <table style="width:100%; border-collapse:collapse; margin-bottom:1rem;">
         <thead>
           <tr>
