@@ -1,6 +1,7 @@
 import express from "express";
 import cors from "cors";
 import dinosaurRoutes from "./src/routes/dinosaurs.routes.js";
+import dietRoutes from "./src/routes/diets.routes.js";
 
 const app = express();
 app.use(cors());
@@ -12,6 +13,7 @@ app.use("/images", express.static("public/images"));
 
 // 🔹 Rutas de la API
 app.use("/api/dinosaurs", dinosaurRoutes);
+app.use("/api/diets", dietRoutes);
 
 // 🔹 Arranque del servidor
 const PORT = process.env.PORT || 3000;
