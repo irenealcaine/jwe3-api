@@ -1,0 +1,1047 @@
+{
+  "Abrahamskraal Formation": {
+    "dinosaurs": [
+      {
+        "name": "Lystrosaurus",
+        "slug": "lystrosaurus",
+        "image": "/images/lystrosaurus.webp"
+      }
+    ]
+  },
+  "Allen Formation": {
+    "dinosaurs": [
+      {
+        "name": "Austroraptor",
+        "slug": "austroraptor",
+        "image": "/images/austroraptor.webp"
+      }
+    ]
+  },
+  "Antlers Formation": {
+    "dinosaurs": [
+      {
+        "name": "Acrocanthosaurus",
+        "slug": "acrocanthosaurus",
+        "image": "/images/acrocanthosaurus.webp"
+      },
+      {
+        "name": "Quetzalcoatlus",
+        "slug": "quetzalcoatlus",
+        "image": "/images/quetzalcoatlus.webp"
+      }
+    ]
+  },
+  "Bahariya Formation": {
+    "dinosaurs": [
+      {
+        "name": "Spinosaurus",
+        "slug": "spinosaurus",
+        "image": "/images/spinosaurus.webp"
+      }
+    ]
+  },
+  "Bayan Mandahu Formation": {
+    "dinosaurs": [
+      {
+        "name": "Protoceratops",
+        "slug": "protoceratops",
+        "image": "/images/protoceratops.webp"
+      }
+    ]
+  },
+  "Bissekty Formation": {
+    "dinosaurs": [
+      {
+        "name": "Archaeornithomimus",
+        "slug": "archaeornithomimus",
+        "image": "/images/archaeornithomimus.webp"
+      }
+    ]
+  },
+  "Bone Valley Formation": {
+    "dinosaurs": [
+      {
+        "name": "Megalodon",
+        "slug": "megalodon",
+        "image": "/images/megalodon.webp"
+      }
+    ]
+  },
+  "Canjuers": {
+    "dinosaurs": [
+      {
+        "name": "Compsognathus",
+        "slug": "compsognathus",
+        "image": "/images/compsognathus.webp"
+      }
+    ]
+  },
+  "Candeleros Formation": {
+    "dinosaurs": [
+      {
+        "name": "Giganotosaurus",
+        "slug": "giganotosaurus",
+        "image": "/images/giganotosaurus.webp"
+      }
+    ]
+  },
+  "Cedar Mountain Formation": {
+    "dinosaurs": [
+      {
+        "name": "Deinonychus",
+        "slug": "deinonychus",
+        "image": "/images/deinonychus.webp"
+      },
+      {
+        "name": "Moros intrepidus",
+        "slug": "moros-intrepidus",
+        "image": "/images/moros-intrepidus.webp"
+      },
+      {
+        "name": "Sauropelta",
+        "slug": "sauropelta",
+        "image": "/images/sauropelta.webp"
+      },
+      {
+        "name": "Utahraptor",
+        "slug": "utahraptor",
+        "image": "/images/utahraptor.webp"
+      }
+    ]
+  },
+  "Cerro Barcino Formation": {
+    "dinosaurs": [
+      {
+        "name": "Patagotitan",
+        "slug": "patagotitan",
+        "image": "/images/patagotitan.webp"
+      }
+    ]
+  },
+  "Cerro Fortaleza Formation": {
+    "dinosaurs": [
+      {
+        "name": "Dreadnoughtus",
+        "slug": "dreadnoughtus",
+        "image": "/images/dreadnoughtus.webp"
+      }
+    ]
+  },
+  "Chenini Formation": {
+    "dinosaurs": [
+      {
+        "name": "Spinosaurus",
+        "slug": "spinosaurus",
+        "image": "/images/spinosaurus.webp"
+      }
+    ]
+  },
+  "Cleveland Lloyd Dinosaur": {
+    "dinosaurs": [
+      {
+        "name": "Allosaurus",
+        "slug": "allosaurus",
+        "image": "/images/allosaurus.webp"
+      }
+    ]
+  },
+  "Cleveland Lloyd Dinosaur Quarry A": {
+    "dinosaurs": [
+      {
+        "name": "Brachiosaurus ",
+        "slug": "brachiosaurus",
+        "image": "/images/brachiosaurus.webp"
+      }
+    ]
+  },
+  "Cleveland Lloyd Dinosaur Quarry B": {
+    "dinosaurs": [
+      {
+        "name": "Stegosaurus",
+        "slug": "stegosaurus",
+        "image": "/images/stegosaurus.webp"
+      }
+    ]
+  },
+  "Cloverly Formation": {
+    "dinosaurs": [
+      {
+        "name": "Deinonychus",
+        "slug": "deinonychus",
+        "image": "/images/deinonychus.webp"
+      },
+      {
+        "name": "Sauropelta",
+        "slug": "sauropelta",
+        "image": "/images/sauropelta.webp"
+      }
+    ]
+  },
+  "Dinosaur National": {
+    "dinosaurs": [
+      {
+        "name": "Apatosaurus",
+        "slug": "apatosaurus",
+        "image": "/images/apatosaurus.webp"
+      }
+    ]
+  },
+  "Dinosaur National Monument A": {
+    "dinosaurs": [
+      {
+        "name": "Diplodocus",
+        "slug": "diplodocus",
+        "image": "/images/diplodocus.webp"
+      }
+    ]
+  },
+  "Dinosaur National Monument B": {
+    "dinosaurs": [
+      {
+        "name": "Stegosaurus",
+        "slug": "stegosaurus",
+        "image": "/images/stegosaurus.webp"
+      }
+    ]
+  },
+  "Dinosaur Park Formation A": {
+    "dinosaurs": [
+      {
+        "name": "Ornithomimus",
+        "slug": "ornithomimus",
+        "image": "/images/ornithomimus.webp"
+      },
+      {
+        "name": "Struthiomimus",
+        "slug": "struthiomimus",
+        "image": "/images/struthiomimus.webp"
+      }
+    ]
+  },
+  "Dinosaur Park Formation B": {
+    "dinosaurs": [
+      {
+        "name": "Chasmosaurus",
+        "slug": "chasmosaurus",
+        "image": "/images/chasmosaurus.webp"
+      },
+      {
+        "name": "Corythosaurus",
+        "slug": "corythosaurus",
+        "image": "/images/corythosaurus.webp"
+      },
+      {
+        "name": "Parasaurolophus",
+        "slug": "parasaurolophus",
+        "image": "/images/parasaurolophus.webp"
+      },
+      {
+        "name": "Styracosaurus",
+        "slug": "styracosaurus",
+        "image": "/images/styracosaurus.webp"
+      },
+      {
+        "name": "Troodon",
+        "slug": "troodon",
+        "image": "/images/troodon.webp"
+      }
+    ]
+  },
+  "Djadochta Formation": {
+    "dinosaurs": [
+      {
+        "name": "Oviraptor",
+        "slug": "oviraptor",
+        "image": "/images/oviraptor.webp"
+      }
+    ]
+  },
+  "Egg Mountain": {
+    "dinosaurs": [
+      {
+        "name": "Maiasaura",
+        "slug": "maiasaura",
+        "image": "/images/maiasaura.webp"
+      }
+    ]
+  },
+  "Formation B": {
+    "dinosaurs": [
+      {
+        "name": "Albertosaurus",
+        "slug": "albertosaurus",
+        "image": "/images/albertosaurus.webp"
+      }
+    ]
+  },
+  "Fox Hills Formation": {
+    "dinosaurs": [
+      {
+        "name": "Mosasaurus",
+        "slug": "mosasaurus",
+        "image": "/images/mosasaurus.webp"
+      }
+    ]
+  },
+  "Frenchman Formation A": {
+    "dinosaurs": [
+      {
+        "name": "Stygimoloch",
+        "slug": "stygimoloch",
+        "image": "/images/stygimoloch.webp"
+      }
+    ]
+  },
+  "Frenchman Formation B": {
+    "dinosaurs": [
+      {
+        "name": "Tyrannosaurus rex",
+        "slug": "tyrannosaurus-rex",
+        "image": "/images/tyrannosaurus-rex.webp"
+      }
+    ]
+  },
+  "Garden Park": {
+    "dinosaurs": [
+      {
+        "name": "Brachiosaurus ",
+        "slug": "brachiosaurus",
+        "image": "/images/brachiosaurus.webp"
+      },
+      {
+        "name": "Diplodocus",
+        "slug": "diplodocus",
+        "image": "/images/diplodocus.webp"
+      }
+    ]
+  },
+  "Ghost Ranch": {
+    "dinosaurs": [
+      {
+        "name": "Coelophysis",
+        "slug": "coelophysis",
+        "image": "/images/coelophysis.webp"
+      }
+    ]
+  },
+  "Guodikeng Formation": {
+    "dinosaurs": [
+      {
+        "name": "Lystrosaurus",
+        "slug": "lystrosaurus",
+        "image": "/images/lystrosaurus.webp"
+      }
+    ]
+  },
+  "Hell Creek Formation A": {
+    "dinosaurs": [
+      {
+        "name": "Pachycephalosaurus",
+        "slug": "pachycephalosaurus",
+        "image": "/images/pachycephalosaurus.webp"
+      }
+    ]
+  },
+  "Hell Creek Formation B": {
+    "dinosaurs": [
+      {
+        "name": "Stygimoloch",
+        "slug": "stygimoloch",
+        "image": "/images/stygimoloch.webp"
+      },
+      {
+        "name": "Triceratops",
+        "slug": "triceratops",
+        "image": "/images/triceratops.webp"
+      }
+    ]
+  },
+  "Hell Creek Formation C": {
+    "dinosaurs": [
+      {
+        "name": "Tyrannosaurus rex",
+        "slug": "tyrannosaurus-rex",
+        "image": "/images/tyrannosaurus-rex.webp"
+      }
+    ]
+  },
+  "Horseshoe Canyon": {
+    "dinosaurs": [
+      {
+        "name": "Albertosaurus",
+        "slug": "albertosaurus",
+        "image": "/images/albertosaurus.webp"
+      },
+      {
+        "name": "Atrociraptor",
+        "slug": "atrociraptor",
+        "image": "/images/atrociraptor.webp"
+      }
+    ]
+  },
+  "Horseshoe Canyon Formation A": {
+    "dinosaurs": [
+      {
+        "name": "Chasmosaurus",
+        "slug": "chasmosaurus",
+        "image": "/images/chasmosaurus.webp"
+      },
+      {
+        "name": "Edmontosaurus",
+        "slug": "edmontosaurus",
+        "image": "/images/edmontosaurus.webp"
+      }
+    ]
+  },
+  "Hythe Formation": {
+    "dinosaurs": [
+      {
+        "name": "Iguanodon",
+        "slug": "iguanodon",
+        "image": "/images/iguanodon.webp"
+      }
+    ]
+  },
+  "Iguanodon Mine": {
+    "dinosaurs": [
+      {
+        "name": "Iguanodon",
+        "slug": "iguanodon",
+        "image": "/images/iguanodon.webp"
+      }
+    ]
+  },
+  "Iren Dabasu Formation": {
+    "dinosaurs": [
+      {
+        "name": "Archaeornithomimus",
+        "slug": "archaeornithomimus",
+        "image": "/images/archaeornithomimus.webp"
+      },
+      {
+        "name": "Velociraptor",
+        "slug": "velociraptor",
+        "image": "/images/velociraptor.webp"
+      }
+    ]
+  },
+  "Ischigualasto Formation": {
+    "dinosaurs": [
+      {
+        "name": "Herrerasaurus",
+        "slug": "herrerasaurus",
+        "image": "/images/herrerasaurus.webp"
+      }
+    ]
+  },
+  "Isle of Wight": {
+    "dinosaurs": [
+      {
+        "name": "Baryonyx",
+        "slug": "baryonyx",
+        "image": "/images/baryonyx.webp"
+      },
+      {
+        "name": "Hypsilophodon",
+        "slug": "hypsilophodon",
+        "image": "/images/hypsilophodon.webp"
+      }
+    ]
+  },
+  "Javelina Formation": {
+    "dinosaurs": [
+      {
+        "name": "Quetzalcoatlus",
+        "slug": "quetzalcoatlus",
+        "image": "/images/quetzalcoatlus.webp"
+      }
+    ]
+  },
+  "Judith River Formation": {
+    "dinosaurs": [
+      {
+        "name": "Lokiceratops",
+        "slug": "lokiceratops",
+        "image": "/images/lokiceratops.webp"
+      },
+      {
+        "name": "Troodon",
+        "slug": "troodon",
+        "image": "/images/troodon.webp"
+      }
+    ]
+  },
+  "Jurassic Coast A": {
+    "dinosaurs": [
+      {
+        "name": "Dimorphodon",
+        "slug": "dimorphodon",
+        "image": "/images/dimorphodon.webp"
+      }
+    ]
+  },
+  "Jurassic Coast B": {
+    "dinosaurs": [
+      {
+        "name": "Attenborosaurus",
+        "slug": "attenborosaurus",
+        "image": "/images/attenborosaurus.webp"
+      },
+      {
+        "name": "Ichthyosaurus",
+        "slug": "ichthyosaurus",
+        "image": "/images/ichthyosaurus.webp"
+      }
+    ]
+  },
+  "Kaiparowits Formation": {
+    "dinosaurs": [
+      {
+        "name": "Nasutoceratops",
+        "slug": "nasutoceratops",
+        "image": "/images/nasutoceratops.webp"
+      }
+    ]
+  },
+  "Kayenta Formation": {
+    "dinosaurs": [
+      {
+        "name": "Dilophosaurus",
+        "slug": "dilophosaurus",
+        "image": "/images/dilophosaurus.webp"
+      }
+    ]
+  },
+  "Kirtland Formation": {
+    "dinosaurs": [
+      {
+        "name": "Parasaurolophus",
+        "slug": "parasaurolophus",
+        "image": "/images/parasaurolophus.webp"
+      }
+    ]
+  },
+  "La Bouchard": {
+    "dinosaurs": [
+      {
+        "name": "Pyroraptor",
+        "slug": "pyroraptor",
+        "image": "/images/pyroraptor.webp"
+      }
+    ]
+  },
+  "La Colonia Formation": {
+    "dinosaurs": [
+      {
+        "name": "Carnotaurus",
+        "slug": "carnotaurus",
+        "image": "/images/carnotaurus.webp"
+      }
+    ]
+  },
+  "La Huérguina Formation": {
+    "dinosaurs": [
+      {
+        "name": "Concavenator",
+        "slug": "concavenator",
+        "image": "/images/concavenator.webp"
+      }
+    ]
+  },
+  "Lance Formation Site A": {
+    "dinosaurs": [
+      {
+        "name": "Edmontosaurus",
+        "slug": "edmontosaurus",
+        "image": "/images/edmontosaurus.webp"
+      },
+      {
+        "name": "Struthiomimus",
+        "slug": "struthiomimus",
+        "image": "/images/struthiomimus.webp"
+      },
+      {
+        "name": "Stygimoloch",
+        "slug": "stygimoloch",
+        "image": "/images/stygimoloch.webp"
+      }
+    ]
+  },
+  "Lance Formation Site B": {
+    "dinosaurs": [
+      {
+        "name": "Corythosaurus",
+        "slug": "corythosaurus",
+        "image": "/images/corythosaurus.webp"
+      },
+      {
+        "name": "Pachycephalosaurus",
+        "slug": "pachycephalosaurus",
+        "image": "/images/pachycephalosaurus.webp"
+      },
+      {
+        "name": "Triceratops",
+        "slug": "triceratops",
+        "image": "/images/triceratops.webp"
+      }
+    ]
+  },
+  "Lance Formation Site C": {
+    "dinosaurs": [
+      {
+        "name": "Ankylosaurus",
+        "slug": "ankylosaurus",
+        "image": "/images/ankylosaurus.png"
+      },
+      {
+        "name": "Tyrannosaurus rex",
+        "slug": "tyrannosaurus-rex",
+        "image": "/images/tyrannosaurus-rex.webp"
+      }
+    ]
+  },
+  "Laramie Formation": {
+    "dinosaurs": [
+      {
+        "name": "Styracosaurus",
+        "slug": "styracosaurus",
+        "image": "/images/styracosaurus.webp"
+      }
+    ]
+  },
+  "Lost Burro Gap": {
+    "dinosaurs": [
+      {
+        "name": "Dunkleosteus",
+        "slug": "dunkleosteus",
+        "image": "/images/dunkleosteus.webp"
+      }
+    ]
+  },
+  "Lourinhã Formation A": {
+    "dinosaurs": [
+      {
+        "name": "Ceratosaurus",
+        "slug": "ceratosaurus",
+        "image": "/images/ceratosaurus.webp"
+      }
+    ]
+  },
+  "Lourinhã Formation B": {
+    "dinosaurs": [
+      {
+        "name": "Stegosaurus",
+        "slug": "stegosaurus",
+        "image": "/images/stegosaurus.webp"
+      }
+    ]
+  },
+  "Maastricht Formation": {
+    "dinosaurs": [
+      {
+        "name": "Mosasaurus",
+        "slug": "mosasaurus",
+        "image": "/images/mosasaurus.webp"
+      }
+    ]
+  },
+  "Mackunda Formation": {
+    "dinosaurs": [
+      {
+        "name": "Muttaburrasaurus",
+        "slug": "muttaburrasaurus",
+        "image": "/images/muttaburrasaurus.webp"
+      }
+    ]
+  },
+  "Minchinhampton": {
+    "dinosaurs": [
+      {
+        "name": "Proceratosaurus",
+        "slug": "proceratosaurus",
+        "image": "/images/proceratosaurus.webp"
+      }
+    ]
+  },
+  "Monument A": {
+    "dinosaurs": [
+      {
+        "name": "Apatosaurus",
+        "slug": "apatosaurus",
+        "image": "/images/apatosaurus.webp"
+      }
+    ]
+  },
+  "Morrison Formation A": {
+    "dinosaurs": [
+      {
+        "name": "Ceratosaurus",
+        "slug": "ceratosaurus",
+        "image": "/images/ceratosaurus.webp"
+      }
+    ]
+  },
+  "Morrison Formation B": {
+    "dinosaurs": [
+      {
+        "name": "Apatosaurus",
+        "slug": "apatosaurus",
+        "image": "/images/apatosaurus.webp"
+      },
+      {
+        "name": "Dryosaurus",
+        "slug": "dryosaurus",
+        "image": "/images/dryosaurus.webp"
+      }
+    ]
+  },
+  "Morrison Formation C": {
+    "dinosaurs": [
+      {
+        "name": "Brachiosaurus ",
+        "slug": "brachiosaurus",
+        "image": "/images/brachiosaurus.webp"
+      },
+      {
+        "name": "Diplodocus",
+        "slug": "diplodocus",
+        "image": "/images/diplodocus.webp"
+      },
+      {
+        "name": "Sauropelta",
+        "slug": "sauropelta",
+        "image": "/images/sauropelta.webp"
+      }
+    ]
+  },
+  "Morrison Formation D": {
+    "dinosaurs": [
+      {
+        "name": "Allosaurus",
+        "slug": "allosaurus",
+        "image": "/images/allosaurus.webp"
+      }
+    ]
+  },
+  "Nanxiong Formation": {
+    "dinosaurs": [
+      {
+        "name": "Qianzhousaurus",
+        "slug": "qianzhousaurus",
+        "image": "/images/qianzhousaurus.webp"
+      }
+    ]
+  },
+  "Nemegt Formation A": {
+    "dinosaurs": [
+      {
+        "name": "Gallimimus",
+        "slug": "gallimimus",
+        "image": "/images/gallimimus.webp"
+      },
+      {
+        "name": "Oviraptor",
+        "slug": "oviraptor",
+        "image": "/images/oviraptor.webp"
+      },
+      {
+        "name": "Parasaurolophus",
+        "slug": "parasaurolophus",
+        "image": "/images/parasaurolophus.webp"
+      }
+    ]
+  },
+  "Nemegt Formation B": {
+    "dinosaurs": [
+      {
+        "name": "Homalocephale",
+        "slug": "homalocephale",
+        "image": "/images/homalocephale.webp"
+      },
+      {
+        "name": "Therizinosaurus",
+        "slug": "therizinosaurus",
+        "image": "/images/therizinosaurus.webp"
+      },
+      {
+        "name": "Velociraptor",
+        "slug": "velociraptor",
+        "image": "/images/velociraptor.webp"
+      }
+    ]
+  },
+  "Niobrara Formation": {
+    "dinosaurs": [
+      {
+        "name": "Geosternbergia",
+        "slug": "geosternbergia",
+        "image": "/images/geosternbergia.webp"
+      },
+      {
+        "name": "Pteranodon",
+        "slug": "pteranodon",
+        "image": "/images/pteranodon.webp"
+      }
+    ]
+  },
+  "Oshih Formation": {
+    "dinosaurs": [
+      {
+        "name": "Psittacosaurus",
+        "slug": "psittacosaurus",
+        "image": "/images/psittacosaurus.webp"
+      }
+    ]
+  },
+  "Oxford Clay": {
+    "dinosaurs": [
+      {
+        "name": "Metriacanthosaurus",
+        "slug": "metriacanthosaurus",
+        "image": "/images/metriacanthosaurus.webp"
+      },
+      {
+        "name": "Plesiosaurus",
+        "slug": "plesiosaurus",
+        "image": "/images/plesiosaurus.webp"
+      }
+    ]
+  },
+  "Peay Sandstone Member": {
+    "dinosaurs": [
+      {
+        "name": "Nodosaurus",
+        "slug": "nodosaurus",
+        "image": "/images/nodosaurus.webp"
+      }
+    ]
+  },
+  "Pierre Shale": {
+    "dinosaurs": [
+      {
+        "name": "Pteranodon",
+        "slug": "pteranodon",
+        "image": "/images/pteranodon.webp"
+      }
+    ]
+  },
+  "Plottier Formation": {
+    "dinosaurs": [
+      {
+        "name": "Thanatosdrakon",
+        "slug": "thanatosdrakon",
+        "image": "/images/thanatosdrakon.webp"
+      }
+    ]
+  },
+  "Prince Creek Formation": {
+    "dinosaurs": [
+      {
+        "name": "Troodon",
+        "slug": "troodon",
+        "image": "/images/troodon.webp"
+      }
+    ]
+  },
+  "Quarry B": {
+    "dinosaurs": [
+      {
+        "name": "Allosaurus",
+        "slug": "allosaurus",
+        "image": "/images/allosaurus.webp"
+      }
+    ]
+  },
+  "Red Beds": {
+    "dinosaurs": [
+      {
+        "name": "Dimetrodon",
+        "slug": "dimetrodon",
+        "image": "/images/dimetrodon.webp"
+      }
+    ]
+  },
+  "Romualdo Formation": {
+    "dinosaurs": [
+      {
+        "name": "Irritator",
+        "slug": "irritator",
+        "image": "/images/irritator.webp"
+      },
+      {
+        "name": "Tapejara",
+        "slug": "tapejara",
+        "image": "/images/tapejara.webp"
+      },
+      {
+        "name": "Tropeognathus",
+        "slug": "tropeognathus",
+        "image": "/images/tropeognathus.webp"
+      }
+    ]
+  },
+  "Scollard Formation A": {
+    "dinosaurs": [
+      {
+        "name": "Chasmosaurus",
+        "slug": "chasmosaurus",
+        "image": "/images/chasmosaurus.webp"
+      },
+      {
+        "name": "Corythosaurus",
+        "slug": "corythosaurus",
+        "image": "/images/corythosaurus.webp"
+      },
+      {
+        "name": "Pachycephalosaurus",
+        "slug": "pachycephalosaurus",
+        "image": "/images/pachycephalosaurus.webp"
+      }
+    ]
+  },
+  "Scollard Formation B": {
+    "dinosaurs": [
+      {
+        "name": "Ankylosaurus",
+        "slug": "ankylosaurus",
+        "image": "/images/ankylosaurus.png"
+      }
+    ]
+  },
+  "Shishugou Formation": {
+    "dinosaurs": [
+      {
+        "name": "Microceratus",
+        "slug": "microceratus",
+        "image": "/images/microceratus.webp"
+      }
+    ]
+  },
+  "Smokejack Clay Pit": {
+    "dinosaurs": [
+      {
+        "name": "Baryonyx",
+        "slug": "baryonyx",
+        "image": "/images/baryonyx.webp"
+      }
+    ]
+  },
+  "Smoky Hill Chalk": {
+    "dinosaurs": [
+      {
+        "name": "Pteranodon",
+        "slug": "pteranodon",
+        "image": "/images/pteranodon.webp"
+      }
+    ]
+  },
+  "Solnhofen Formation": {
+    "dinosaurs": [
+      {
+        "name": "Compsognathus",
+        "slug": "compsognathus",
+        "image": "/images/compsognathus.webp"
+      }
+    ]
+  },
+  "Tegama Beds": {
+    "dinosaurs": [
+      {
+        "name": "Suchomimus",
+        "slug": "suchomimus",
+        "image": "/images/suchomimus.webp"
+      }
+    ]
+  },
+  "Tendaguru Formation": {
+    "dinosaurs": [
+      {
+        "name": "Kentrosaurus",
+        "slug": "kentrosaurus",
+        "image": "/images/kentrosaurus.webp"
+      }
+    ]
+  },
+  "Toolebuc Formation": {
+    "dinosaurs": [
+      {
+        "name": "Kronosaurus",
+        "slug": "kronosaurus",
+        "image": "/images/kronosaurus.webp"
+      }
+    ]
+  },
+  "Twin Mountains Formation": {
+    "dinosaurs": [
+      {
+        "name": "Acrocanthosaurus",
+        "slug": "acrocanthosaurus",
+        "image": "/images/acrocanthosaurus.webp"
+      },
+      {
+        "name": "Quetzalcoatlus",
+        "slug": "quetzalcoatlus",
+        "image": "/images/quetzalcoatlus.webp"
+      }
+    ]
+  },
+  "Udurchukan Formation": {
+    "dinosaurs": [
+      {
+        "name": "Olorotitan",
+        "slug": "olorotitan",
+        "image": "/images/olorotitan.webp"
+      }
+    ]
+  },
+  "Xingezhuang Formation": {
+    "dinosaurs": [
+      {
+        "name": "Sinoceratops",
+        "slug": "sinoceratops",
+        "image": "/images/sinoceratops.webp"
+      }
+    ]
+  },
+  "Yixian Formation": {
+    "dinosaurs": [
+      {
+        "name": "Yutyrannus",
+        "slug": "yutyrannus",
+        "image": "/images/yutyrannus.webp"
+      }
+    ]
+  },
+  "Yuliangze Formation": {
+    "dinosaurs": [
+      {
+        "name": "Tsintaosaurus",
+        "slug": "tsintaosaurus",
+        "image": "/images/tsintaosaurus.webp"
+      }
+    ]
+  },
+  "Ziliujing Formation A": {
+    "dinosaurs": [
+      {
+        "name": "Chungkingosaurus",
+        "slug": "chungkingosaurus",
+        "image": "/images/chungkingosaurus.webp"
+      }
+    ]
+  },
+  "Ziliujing Formation B": {
+    "dinosaurs": [
+      {
+        "name": "Gigantspinosaurus",
+        "slug": "gigantspinosaurus",
+        "image": "/images/gigantspinosaurus.webp"
+      },
+      {
+        "name": "Mamenchisaurus",
+        "slug": "mamenchisaurus",
+        "image": "/images/mamenchisaurus.webp"
+      }
+    ]
+  }
+}
