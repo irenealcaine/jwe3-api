@@ -2,7 +2,7 @@ import express from "express";
 import cors from "cors";
 import dinosaurRoutes from "./src/routes/dinosaurs.routes.js";
 import dietRoutes from "./src/routes/diets.routes.js";
-import digRoutes from "./src/routes/dig.routes.js";
+import digRoutes from "./src/routes/digs.routes.js";
 import familiesRoutes from "./src/routes/families.routes.js";
 import habitatsRoutes from "./src/routes/habitats.routes.js";
 
