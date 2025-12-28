@@ -1,10 +1,10 @@
 import express from "express";
-import { getAllFamilies } from "../services/families.services.js";
+import { getAllHabitats } from "../services/habitats.services.js";
 
 const router = express.Router();
 
 router.get("/", (req, res) => {
-  const list = getAllFamilies();
+  const list = getAllHabitats();
   res.json(list);
 });
 
