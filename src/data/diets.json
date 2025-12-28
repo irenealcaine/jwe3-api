@@ -544,6 +544,11 @@
   "Omnivore": {
     "dinosaurs": [
       {
+        "name": "Deinocheirus",
+        "slug": "deinocheirus",
+        "image": "/images/deinocheirus.webp"
+      },
+      {
         "name": "Oviraptor",
         "slug": "oviraptor",
         "image": "/images/oviraptor.webp"

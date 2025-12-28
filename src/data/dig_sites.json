@@ -8,6 +8,15 @@
       }
     ]
   },
+  "Baynshire Formation": {
+    "dinosaurs": [
+      {
+        "name": "Deinocheirus",
+        "slug": "deinocheirus",
+        "image": "/images/deinocheirus.webp"
+      }
+    ]
+  },
   "Allen Formation": {
     "dinosaurs": [
       {
@@ -734,6 +743,11 @@
   },
   "Nemegt Formation A": {
     "dinosaurs": [
+      {
+        "name": "Deinocheirus",
+        "slug": "deinocheirus",
+        "image": "/images/deinocheirus.webp"
+      },
       {
         "name": "Gallimimus",
         "slug": "gallimimus",

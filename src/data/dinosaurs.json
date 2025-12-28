@@ -4967,5 +4967,63 @@
     ],
     "habitat": "Terrestrial",
     "game": "Wetlands"
+  },
+  {
+    "id": 95,
+    "name": "Deinocheirus",
+    "slug": "deinocheirus",
+    "image": "/images/deinocheirus.webp",
+    "description": "Weighing around seven tonnes and growing up to around 11m in length, Deinocheirus is the largest ornithomimosaur ever to have existed. This genus dates back approximately 70m years to the Late Cretaceous period and its name translates as ‘horrible hand’, in reference to its large, powerful claws.",
+    "discovery": "Although Deinocheirus was first discovered in 1965 by Zofia Kielan-Jaworowska in the Nemegt Basin region of the Gobi Desert, for decades details of the genus were scarce, giving it a reputation as one of the most mysterious dinosaurs in existence. It wasn’t until further remains were unearthed in the 21st Century that experts really began to understand Deinocheirus more fully.",
+    "palaeoecology": "Deinocheirus lived nearby to the Nemegt rivers in modern-day Mongolia, which had a rich array of flora and fauna that suited its omnivorous diet. This genus shared its habitat with a huge range of dinosaurs including predatory tyrannosauroids such as Tarbosaurus and Alioramus – and despite its large size, bite marks on some of the found fossils show that it was prone to predatory attacks.",
+    "era": "Late Cretaceous",
+    "family": "Deinocheiridae",
+    "genus": "Deinocheirus",
+    "height": 3.8,
+    "length": 11,
+    "weight": 6500,
+    "diet": [
+      "Omnivore"
+    ],
+    "feeder": [
+      "Fish",
+      "Ground Palaeobotany"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 2,
+        "max": 4
+      }
+    ],
+    "dig_sites": [
+      "Baynshire Formation",
+      "Nemegt Formation A"
+    ],
+    "security_rating": 3,
+    "minimum_population": 1,
+    "environment": [
+      {
+        "water": 52,
+        "ground_leaf": 38,
+        "open_space": 10,
+        "fish": 0.30
+      }
+    ],
+    "habitat": "Terrestrial",
+    "cohabitation": [
+      {
+        "likes": [
+          "Sauropod",
+          "Hadrosaurid"
+        ],
+        "dislikes": [
+          "Dr. Wu Hybrids",
+          "Large Carnivore",
+          "Medium Carnivore",
+          "Therizinosaurus"
+        ]
+      }
+    ],
+    "game": "Base game"
   }
 ]
