@@ -1,10 +1,10 @@
 import express from "express";
-import { getAllDigs } from "../services/digs.services.js";
+import { getAllDiets } from "../services/diets.services.js";
 
 const router = express.Router();
 
 router.get("/", (req, res) => {
-  const list = getAllDigs();
+  const list = getAllDiets();
   res.json(list);
 });
 
