@@ -1,0 +1,558 @@
+{
+  "Carnivore": {
+    "dinosaurs": [
+      {
+        "name": "Acrocanthosaurus",
+        "slug": "acrocanthosaurus",
+        "image": "/images/acrocanthosaurus.webp"
+      },
+      {
+        "name": "Albertosaurus",
+        "slug": "albertosaurus",
+        "image": "/images/albertosaurus.webp"
+      },
+      {
+        "name": "Allosaurus",
+        "slug": "allosaurus",
+        "image": "/images/allosaurus.webp"
+      },
+      {
+        "name": "Atrociraptor",
+        "slug": "atrociraptor",
+        "image": "/images/atrociraptor.webp"
+      },
+      {
+        "name": "Austroraptor",
+        "slug": "austroraptor",
+        "image": "/images/austroraptor.webp"
+      },
+      {
+        "name": "Baryonyx",
+        "slug": "baryonyx",
+        "image": "/images/baryonyx.webp"
+      },
+      {
+        "name": "Caiuajara",
+        "slug": "caiuajara",
+        "image": "/images/caiuajara.webp"
+      },
+      {
+        "name": "Carnotaurus",
+        "slug": "carnotaurus",
+        "image": "/images/carnotaurus.webp"
+      },
+      {
+        "name": "Ceratosaurus",
+        "slug": "ceratosaurus",
+        "image": "/images/ceratosaurus.webp"
+      },
+      {
+        "name": "Coelophysis",
+        "slug": "coelophysis",
+        "image": "/images/coelophysis.webp"
+      },
+      {
+        "name": "Compsognathus",
+        "slug": "compsognathus",
+        "image": "/images/compsognathus.webp"
+      },
+      {
+        "name": "Concavenator",
+        "slug": "concavenator",
+        "image": "/images/concavenator.webp"
+      },
+      {
+        "name": "Deinonychus",
+        "slug": "deinonychus",
+        "image": "/images/deinonychus.webp"
+      },
+      {
+        "name": "Dilophosaurus",
+        "slug": "dilophosaurus",
+        "image": "/images/dilophosaurus.webp"
+      },
+      {
+        "name": "Dimetrodon",
+        "slug": "dimetrodon",
+        "image": "/images/dimetrodon.webp"
+      },
+      {
+        "name": "Dimorphodon",
+        "slug": "dimorphodon",
+        "image": "/images/dimorphodon.webp"
+      },
+      {
+        "name": "Geosternbergia",
+        "slug": "geosternbergia",
+        "image": "/images/geosternbergia.webp"
+      },
+      {
+        "name": "Giganotosaurus",
+        "slug": "giganotosaurus",
+        "image": "/images/giganotosaurus.webp"
+      },
+      {
+        "name": "Guanlong",
+        "slug": "guanlong",
+        "image": "/images/guanlong.webp"
+      },
+      {
+        "name": "Herrerasaurus",
+        "slug": "herrerasaurus",
+        "image": "/images/herrerasaurus.webp"
+      },
+      {
+        "name": "Indominus rex",
+        "slug": "indominus-rex",
+        "image": "/images/indominus-rex.webp"
+      },
+      {
+        "name": "Indoraptor",
+        "slug": "indoraptor",
+        "image": "/images/indoraptor.webp"
+      },
+      {
+        "name": "Irritator",
+        "slug": "irritator",
+        "image": "/images/irritator.webp"
+      },
+      {
+        "name": "Metriacanthosaurus",
+        "slug": "metriacanthosaurus",
+        "image": "/images/metriacanthosaurus.webp"
+      },
+      {
+        "name": "Moros intrepidus",
+        "slug": "moros-intrepidus",
+        "image": "/images/moros-intrepidus.webp"
+      },
+      {
+        "name": "Proceratosaurus",
+        "slug": "proceratosaurus",
+        "image": "/images/proceratosaurus.webp"
+      },
+      {
+        "name": "Pteranodon",
+        "slug": "pteranodon",
+        "image": "/images/pteranodon.webp"
+      },
+      {
+        "name": "Pyroraptor",
+        "slug": "pyroraptor",
+        "image": "/images/pyroraptor.webp"
+      },
+      {
+        "name": "Qianzhousaurus",
+        "slug": "qianzhousaurus",
+        "image": "/images/qianzhousaurus.webp"
+      },
+      {
+        "name": "Quetzalcoatlus",
+        "slug": "quetzalcoatlus",
+        "image": "/images/quetzalcoatlus.webp"
+      },
+      {
+        "name": "Scorpios rex",
+        "slug": "scorpios-rex",
+        "image": "/images/scorpios-rex.webp"
+      },
+      {
+        "name": "Spinoraptor",
+        "slug": "spinoraptor",
+        "image": "/images/spinoraptor.webp"
+      },
+      {
+        "name": "Spinosaurus",
+        "slug": "spinosaurus",
+        "image": "/images/spinosaurus.webp"
+      },
+      {
+        "name": "Suchomimus",
+        "slug": "suchomimus",
+        "image": "/images/suchomimus.webp"
+      },
+      {
+        "name": "Tapejara",
+        "slug": "tapejara",
+        "image": "/images/tapejara.webp"
+      },
+      {
+        "name": "Thanatosdrakon",
+        "slug": "thanatosdrakon",
+        "image": "/images/thanatosdrakon.webp"
+      },
+      {
+        "name": "Troodon",
+        "slug": "troodon",
+        "image": "/images/troodon.webp"
+      },
+      {
+        "name": "Tropeognathus",
+        "slug": "tropeognathus",
+        "image": "/images/tropeognathus.webp"
+      },
+      {
+        "name": "Tyrannosaurus rex",
+        "slug": "tyrannosaurus-rex",
+        "image": "/images/tyrannosaurus-rex.webp"
+      },
+      {
+        "name": "Utahraptor",
+        "slug": "utahraptor",
+        "image": "/images/utahraptor.webp"
+      },
+      {
+        "name": "Velociraptor",
+        "slug": "velociraptor",
+        "image": "/images/velociraptor.webp"
+      },
+      {
+        "name": "Yutyrannus",
+        "slug": "yutyrannus",
+        "image": "/images/yutyrannus.webp"
+      }
+    ]
+  },
+  "Herbivore": {
+    "dinosaurs": [
+      {
+        "name": "Ankylodocus",
+        "slug": "ankylodocus",
+        "image": "/images/ankylodocus.webp"
+      },
+      {
+        "name": "Ankylosaurus",
+        "slug": "ankylosaurus",
+        "image": "/images/ankylosaurus.png"
+      },
+      {
+        "name": "Apatosaurus",
+        "slug": "apatosaurus",
+        "image": "/images/apatosaurus.webp"
+      },
+      {
+        "name": "Archaeornithomimus",
+        "slug": "archaeornithomimus",
+        "image": "/images/archaeornithomimus.webp"
+      },
+      {
+        "name": "Brachiosaurus ",
+        "slug": "brachiosaurus",
+        "image": "/images/brachiosaurus.webp"
+      },
+      {
+        "name": "Chasmosaurus",
+        "slug": "chasmosaurus",
+        "image": "/images/chasmosaurus.webp"
+      },
+      {
+        "name": "Chungkingosaurus",
+        "slug": "chungkingosaurus",
+        "image": "/images/chungkingosaurus.webp"
+      },
+      {
+        "name": "Corythosaurus",
+        "slug": "corythosaurus",
+        "image": "/images/corythosaurus.webp"
+      },
+      {
+        "name": "Diplodocus",
+        "slug": "diplodocus",
+        "image": "/images/diplodocus.webp"
+      },
+      {
+        "name": "Dreadnoughtus",
+        "slug": "dreadnoughtus",
+        "image": "/images/dreadnoughtus.webp"
+      },
+      {
+        "name": "Dryosaurus",
+        "slug": "dryosaurus",
+        "image": "/images/dryosaurus.webp"
+      },
+      {
+        "name": "Edmontosaurus",
+        "slug": "edmontosaurus",
+        "image": "/images/edmontosaurus.webp"
+      },
+      {
+        "name": "Gallimimus",
+        "slug": "gallimimus",
+        "image": "/images/gallimimus.webp"
+      },
+      {
+        "name": "Gigantspinosaurus",
+        "slug": "gigantspinosaurus",
+        "image": "/images/gigantspinosaurus.webp"
+      },
+      {
+        "name": "Homalocephale",
+        "slug": "homalocephale",
+        "image": "/images/homalocephale.webp"
+      },
+      {
+        "name": "Hypsilophodon",
+        "slug": "hypsilophodon",
+        "image": "/images/hypsilophodon.webp"
+      },
+      {
+        "name": "Iguanodon",
+        "slug": "iguanodon",
+        "image": "/images/iguanodon.webp"
+      },
+      {
+        "name": "Kentrosaurus",
+        "slug": "kentrosaurus",
+        "image": "/images/kentrosaurus.webp"
+      },
+      {
+        "name": "Lokiceratops",
+        "slug": "lokiceratops",
+        "image": "/images/lokiceratops.webp"
+      },
+      {
+        "name": "Lystrosaurus",
+        "slug": "lystrosaurus",
+        "image": "/images/lystrosaurus.webp"
+      },
+      {
+        "name": "Maiasaura",
+        "slug": "maiasaura",
+        "image": "/images/maiasaura.webp"
+      },
+      {
+        "name": "Mamenchisaurus",
+        "slug": "mamenchisaurus",
+        "image": "/images/mamenchisaurus.webp"
+      },
+      {
+        "name": "Microceratus",
+        "slug": "microceratus",
+        "image": "/images/microceratus.webp"
+      },
+      {
+        "name": "Muttaburrasaurus",
+        "slug": "muttaburrasaurus",
+        "image": "/images/muttaburrasaurus.webp"
+      },
+      {
+        "name": "Nasutoceratops",
+        "slug": "nasutoceratops",
+        "image": "/images/nasutoceratops.webp"
+      },
+      {
+        "name": "Nodosaurus",
+        "slug": "nodosaurus",
+        "image": "/images/nodosaurus.webp"
+      },
+      {
+        "name": "Olorotitan",
+        "slug": "olorotitan",
+        "image": "/images/olorotitan.webp"
+      },
+      {
+        "name": "Ornithomimus",
+        "slug": "ornithomimus",
+        "image": "/images/ornithomimus.webp"
+      },
+      {
+        "name": "Pachycephalosaurus",
+        "slug": "pachycephalosaurus",
+        "image": "/images/pachycephalosaurus.webp"
+      },
+      {
+        "name": "Parasaurolophus",
+        "slug": "parasaurolophus",
+        "image": "/images/parasaurolophus.webp"
+      },
+      {
+        "name": "Patagotitan",
+        "slug": "patagotitan",
+        "image": "/images/patagotitan.webp"
+      },
+      {
+        "name": "Protoceratops",
+        "slug": "protoceratops",
+        "image": "/images/protoceratops.webp"
+      },
+      {
+        "name": "Psittacosaurus",
+        "slug": "psittacosaurus",
+        "image": "/images/psittacosaurus.webp"
+      },
+      {
+        "name": "Sauropelta",
+        "slug": "sauropelta",
+        "image": "/images/sauropelta.webp"
+      },
+      {
+        "name": "Sinoceratops",
+        "slug": "sinoceratops",
+        "image": "/images/sinoceratops.webp"
+      },
+      {
+        "name": "Stegoceratops",
+        "slug": "stegoceratops",
+        "image": "/images/stegoceratops.webp"
+      },
+      {
+        "name": "Stegosaurus",
+        "slug": "stegosaurus",
+        "image": "/images/stegosaurus.webp"
+      },
+      {
+        "name": "Struthiomimus",
+        "slug": "struthiomimus",
+        "image": "/images/struthiomimus.webp"
+      },
+      {
+        "name": "Stygimoloch",
+        "slug": "stygimoloch",
+        "image": "/images/stygimoloch.webp"
+      },
+      {
+        "name": "Styracosaurus",
+        "slug": "styracosaurus",
+        "image": "/images/styracosaurus.webp"
+      },
+      {
+        "name": "Therizinosaurus",
+        "slug": "therizinosaurus",
+        "image": "/images/therizinosaurus.webp"
+      },
+      {
+        "name": "Triceratops",
+        "slug": "triceratops",
+        "image": "/images/triceratops.webp"
+      },
+      {
+        "name": "Tsintaosaurus",
+        "slug": "tsintaosaurus",
+        "image": "/images/tsintaosaurus.webp"
+      }
+    ]
+  },
+  "Piscivore": {
+    "dinosaurs": [
+      {
+        "name": "Attenborosaurus",
+        "slug": "attenborosaurus",
+        "image": "/images/attenborosaurus.webp"
+      },
+      {
+        "name": "Austroraptor",
+        "slug": "austroraptor",
+        "image": "/images/austroraptor.webp"
+      },
+      {
+        "name": "Baryonyx",
+        "slug": "baryonyx",
+        "image": "/images/baryonyx.webp"
+      },
+      {
+        "name": "Caiuajara",
+        "slug": "caiuajara",
+        "image": "/images/caiuajara.webp"
+      },
+      {
+        "name": "Dimorphodon",
+        "slug": "dimorphodon",
+        "image": "/images/dimorphodon.webp"
+      },
+      {
+        "name": "Dunkleosteus",
+        "slug": "dunkleosteus",
+        "image": "/images/dunkleosteus.webp"
+      },
+      {
+        "name": "Geosternbergia",
+        "slug": "geosternbergia",
+        "image": "/images/geosternbergia.webp"
+      },
+      {
+        "name": "Ichthyosaurus",
+        "slug": "ichthyosaurus",
+        "image": "/images/ichthyosaurus.webp"
+      },
+      {
+        "name": "Irritator",
+        "slug": "irritator",
+        "image": "/images/irritator.webp"
+      },
+      {
+        "name": "Kronosaurus",
+        "slug": "kronosaurus",
+        "image": "/images/kronosaurus.webp"
+      },
+      {
+        "name": "Megalodon",
+        "slug": "megalodon",
+        "image": "/images/megalodon.webp"
+      },
+      {
+        "name": "Mosasaurus",
+        "slug": "mosasaurus",
+        "image": "/images/mosasaurus.webp"
+      },
+      {
+        "name": "Plesiosaurus",
+        "slug": "plesiosaurus",
+        "image": "/images/plesiosaurus.webp"
+      },
+      {
+        "name": "Pteranodon",
+        "slug": "pteranodon",
+        "image": "/images/pteranodon.webp"
+      },
+      {
+        "name": "Quetzalcoatlus",
+        "slug": "quetzalcoatlus",
+        "image": "/images/quetzalcoatlus.webp"
+      },
+      {
+        "name": "Spinoraptor",
+        "slug": "spinoraptor",
+        "image": "/images/spinoraptor.webp"
+      },
+      {
+        "name": "Spinosaurus",
+        "slug": "spinosaurus",
+        "image": "/images/spinosaurus.webp"
+      },
+      {
+        "name": "Suchomimus",
+        "slug": "suchomimus",
+        "image": "/images/suchomimus.webp"
+      },
+      {
+        "name": "Tapejara",
+        "slug": "tapejara",
+        "image": "/images/tapejara.webp"
+      },
+      {
+        "name": "Thanatosdrakon",
+        "slug": "thanatosdrakon",
+        "image": "/images/thanatosdrakon.webp"
+      },
+      {
+        "name": "Tropeognathus",
+        "slug": "tropeognathus",
+        "image": "/images/tropeognathus.webp"
+      }
+    ]
+  },
+  "Omnivore": {
+    "dinosaurs": [
+      {
+        "name": "Oviraptor",
+        "slug": "oviraptor",
+        "image": "/images/oviraptor.webp"
+      },
+      {
+        "name": "Spinoceratops",
+        "slug": "spinoceratops",
+        "image": "/images/spinoceratops.webp"
+      }
+    ]
+  }
+}
