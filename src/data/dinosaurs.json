@@ -40,7 +40,7 @@
         "prey": 1.00
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -95,7 +95,7 @@
         "prey": 0.5
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -152,7 +152,7 @@
         "prey": 0.5
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -204,7 +204,7 @@
         "tall_leaf": 8
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -255,7 +255,7 @@
         "ground_fruit": 32
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -317,7 +317,7 @@
         "tall_leaf": 32
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -377,7 +377,7 @@
         "ground_fruit": 46
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -436,7 +436,7 @@
         "prey": 0.5
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "dislikes": [
@@ -484,7 +484,7 @@
         "fish": 0.4
       }
     ],
-    "territory": "water",
+    "habitat": "Aquatic",
     "cohabitation": [
       {
         "likes": [
@@ -537,7 +537,7 @@
         "rock": 19
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -594,7 +594,7 @@
         "tall_nut": 48
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -644,7 +644,7 @@
         "max": 4
       }
     ],
-    "territory": "sky",
+    "habitat": "Aerial",
     "game": "Base game"
   },
   {
@@ -687,7 +687,7 @@
         "prey": 0.50
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -744,7 +744,7 @@
         "prey": 0.5
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -802,7 +802,7 @@
         "open_space": 39
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -858,7 +858,7 @@
         "ground_fruit": 21
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -919,7 +919,7 @@
         "prey": 0.20
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -975,7 +975,7 @@
         "prey": 0.10
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -1030,7 +1030,7 @@
         "prey": 0.50
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -1084,7 +1084,7 @@
         "ground_fiber": 31
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -1143,7 +1143,7 @@
         "prey": 0.30
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -1197,7 +1197,7 @@
         "prey": 0.40
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -1251,7 +1251,7 @@
         "prey": 0.30
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -1306,7 +1306,7 @@
         "fish": 3
       }
     ],
-    "territory": "sky",
+    "habitat": "Aerial",
     "cohabitation": [
       {
         "likes": [
@@ -1362,7 +1362,7 @@
         "open_space": 19
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -1421,7 +1421,7 @@
         "tall_fiber": 20
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -1480,7 +1480,7 @@
         "ground_fiber": 24
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -1536,7 +1536,7 @@
         "fish": 0.4
       }
     ],
-    "territory": "water",
+    "habitat": "Aquatic",
     "cohabitation": [
       {
         "dislikes": [
@@ -1586,7 +1586,7 @@
         "ground_fiber": 8
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -1642,7 +1642,7 @@
         "ground_leaf": 62
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -1701,7 +1701,7 @@
         "fish": 0.5
       }
     ],
-    "territory": "sky",
+    "habitat": "Aerial",
     "cohabitation": [
       {
         "likes": [
@@ -1755,7 +1755,7 @@
         "prey": 1.00
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -1807,7 +1807,7 @@
         "ground_leaf": 62
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -1856,7 +1856,7 @@
         "max": 4
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "game": "Deluxe pack edition"
   },
   {
@@ -1899,7 +1899,7 @@
         "prey": 0.4
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -1952,7 +1952,7 @@
         "ground_fiber": 16
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -2005,7 +2005,7 @@
         "fish": 0.2
       }
     ],
-    "territory": "water",
+    "habitat": "Aquatic",
     "game": "Base game"
   },
   {
@@ -2047,7 +2047,7 @@
         "ground_fruit": 31
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -2103,7 +2103,7 @@
         "prey": 10
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -2158,7 +2158,7 @@
         "open_space": 72
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "dislikes": [
@@ -2219,7 +2219,7 @@
         "ground_fiber": 69
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -2277,7 +2277,7 @@
         "fish": 0.5
       }
     ],
-    "territory": "water",
+    "habitat": "Aquatic",
     "cohabitation": [
       {
         "dislikes": [
@@ -2316,7 +2316,7 @@
     "dig_sites": [
       "Judith River Formation"
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "game": "Base game"
   },
   {
@@ -2359,7 +2359,7 @@
         "ground_leaf": 17
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -2413,7 +2413,7 @@
         "ground_nut": 15
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -2471,7 +2471,7 @@
         "tall_leaf": 22
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -2526,7 +2526,7 @@
         "open_space": 100
       }
     ],
-    "territory": "water",
+    "habitat": "Aquatic",
     "cohabitation": [
       {
         "dislikes": [
@@ -2576,7 +2576,7 @@
         "prey": 0.50
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -2630,7 +2630,7 @@
         "ground_fiber": 14
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -2685,7 +2685,7 @@
         "prey": 0.10
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -2738,7 +2738,7 @@
         "open_space": 100
       }
     ],
-    "territory": "water",
+    "habitat": "Aquatic",
     "cohabitation": [
       {
         "dislikes": [
@@ -2787,7 +2787,7 @@
         "ground_fiber": 34
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -2843,7 +2843,7 @@
         "ground_leaf": 32
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -2902,7 +2902,7 @@
         "ground_leaf": 48
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -2961,7 +2961,7 @@
         "ground_fiber": 63
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -3008,7 +3008,7 @@
     "dig_sites": [
       "Dinosaur Park Formation A"
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "game": "Base game"
   },
   {
@@ -3052,7 +3052,7 @@
         "ground_leaf": 63
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -3108,7 +3108,7 @@
         "ground_leaf": 31
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -3164,7 +3164,7 @@
         "ground_nut": 21
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -3210,7 +3210,7 @@
     "dig_sites": [
       "Cerro Barcino Formation"
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "game": "Base game"
   },
   {
@@ -3250,7 +3250,7 @@
         "fish": 0.40
       }
     ],
-    "territory": "water",
+    "habitat": "Aquatic",
     "game": "Base game"
   },
   {
@@ -3292,7 +3292,7 @@
         "prey": 0.40
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -3335,7 +3335,7 @@
     "dig_sites": [
       "Bayan Mandahu Formation"
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "game": "Deluxe pack edition"
   },
   {
@@ -3367,7 +3367,7 @@
     "dig_sites": [
       "Oshih Formation"
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "game": "Base game"
   },
   {
@@ -3412,7 +3412,7 @@
         "rock": 12
       }
     ],
-    "territory": "sky",
+    "habitat": "Aerial",
     "cohabitation": [
       {
         "likes": [
@@ -3466,7 +3466,7 @@
         "prey": 0.30
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -3521,7 +3521,7 @@
         "rock": 6
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -3579,7 +3579,7 @@
         "fish": 0.50
       }
     ],
-    "territory": "sky",
+    "habitat": "Aerial",
     "cohabitation": [
       {
         "likes": [
@@ -3636,7 +3636,7 @@
         "ground_fruit": 32
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -3692,7 +3692,7 @@
         "prey": 0.30
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "dislikes": [
@@ -3740,7 +3740,7 @@
         "open_space": 32
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -3790,7 +3790,7 @@
         "max": 3
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -3850,7 +3850,7 @@
         "fish": 4
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -3907,7 +3907,7 @@
         "fish": 0.70
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -3957,7 +3957,7 @@
         "ground_fruit": 27
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -4008,7 +4008,7 @@
         "ground_fruit": 31
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -4068,7 +4068,7 @@
         "ground_leaf": 63
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -4126,7 +4126,7 @@
         "ground_leaf": 63
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -4181,7 +4181,7 @@
         "open_space": 48
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -4243,7 +4243,7 @@
         "fish": 0.50
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -4299,7 +4299,7 @@
         "fish": 0.50
       }
     ],
-    "territory": "sky",
+    "habitat": "Aerial",
     "cohabitation": [
       {
         "likes": [
@@ -4354,7 +4354,7 @@
         "fish": 0.50
       }
     ],
-    "territory": "sky",
+    "habitat": "Aerial",
     "cohabitation": [
       {
         "likes": [
@@ -4405,7 +4405,7 @@
         "ground_leaf": 62
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -4458,7 +4458,7 @@
         "ground_fiber": 48
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -4524,7 +4524,7 @@
         "prey": 0.40
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -4579,7 +4579,7 @@
         "fish": 0.50
       }
     ],
-    "territory": "sky",
+    "habitat": "Aerial",
     "cohabitation": [
       {
         "dislikes": [
@@ -4628,7 +4628,7 @@
         "ground_fiber": 63
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -4689,7 +4689,7 @@
         "prey": 0.70
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -4743,7 +4743,7 @@
         "prey": 0.50
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -4798,7 +4798,7 @@
         "prey": 0.40
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -4854,7 +4854,7 @@
         "prey": 0.50
       }
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "cohabitation": [
       {
         "likes": [
@@ -4899,7 +4899,7 @@
     "dig_sites": [
       "Allen Formation"
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "game": "Wetlands"
   },
   {
@@ -4931,7 +4931,7 @@
     "dig_sites": [
       "Isle of Wight"
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "game": "Wetlands"
   },
   {
@@ -4965,7 +4965,7 @@
     "dig_sites": [
       "Romualdo Formation"
     ],
-    "territory": "land",
+    "habitat": "Terrestrial",
     "game": "Wetlands"
   }
 ]
