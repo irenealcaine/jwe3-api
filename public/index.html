@@ -84,9 +84,9 @@
       <table style="width:100%; border-collapse:collapse; margin-bottom:1rem;">
         <thead>
           <tr>
-            <th style="text-align:left; padding:8px; border-bottom:1px solid rgba(255,255,255,0.06)">Campo</th>
-            <th style="text-align:left; padding:8px; border-bottom:1px solid rgba(255,255,255,0.06)">Tipo</th>
-            <th style="text-align:left; padding:8px; border-bottom:1px solid rgba(255,255,255,0.06)">Notas</th>
+            <th style="text-align:left; padding:8px; border-bottom:1px solid rgba(255,255,255,0.06)">Field</th>
+            <th style="text-align:left; padding:8px; border-bottom:1px solid rgba(255,255,255,0.06)">Type</th>
+            <th style="text-align:left; padding:8px; border-bottom:1px solid rgba(255,255,255,0.06)">Notes</th>
           </tr>
         </thead>
         <tbody>
@@ -145,9 +145,9 @@
       <table style="width:100%; border-collapse:collapse; margin-bottom:1rem;">
         <thead>
           <tr>
-            <th style="text-align:left; padding:8px; border-bottom:1px solid rgba(255,255,255,0.06)">Campo</th>
-            <th style="text-align:left; padding:8px; border-bottom:1px solid rgba(255,255,255,0.06)">Tipo</th>
-            <th style="text-align:left; padding:8px; border-bottom:1px solid rgba(255,255,255,0.06)">Notas</th>
+            <th style="text-align:left; padding:8px; border-bottom:1px solid rgba(255,255,255,0.06)">Field</th>
+            <th style="text-align:left; padding:8px; border-bottom:1px solid rgba(255,255,255,0.06)">Type</th>
+            <th style="text-align:left; padding:8px; border-bottom:1px solid rgba(255,255,255,0.06)">Notes</th>
           </tr>
         </thead>
         <tbody>
@@ -252,9 +252,9 @@
             <td style="padding:8px">Environmental configurations (numeric values)</td>
           </tr>
           <tr>
-            <td style="padding:8px">territory</td>
+            <td style="padding:8px">habitat</td>
             <td style="padding:8px">string</td>
-            <td style="padding:8px">Territory type (land/water/flying)</td>
+            <td style="padding:8px">Habitat type (Terrestrial/Aquatic/Aerial)</td>
           </tr>
           <tr>
             <td style="padding:8px">cohabitation</td>
@@ -295,11 +295,288 @@
   "environment": [
     { "water": 5, "forest": 48, "open_space": 48, "prey": 1.00 }
   ],
-  "territory": "land",
+  "habitat": "Terrestrial",
   "cohabitation": [
     { "likes": ["Scavenger"], "dislikes": ["Carnivores", "Therizinosaurus"] }
   ],
   "game": "Base game"
+}</pre>
+    </section>
+
+    <section class="endpoint">
+      <h3>GET <code class="route">/api/diets</code> — List dinosaurs grouped by diet type</h3>
+      <table style="width:100%; border-collapse:collapse; margin-bottom:1rem;">
+        <thead>
+          <tr>
+            <th style="text-align:left; padding:8px; border-bottom:1px solid rgba(255,255,255,0.06)">Field</th>
+            <th style="text-align:left; padding:8px; border-bottom:1px solid rgba(255,255,255,0.06)">Type</th>
+            <th style="text-align:left; padding:8px; border-bottom:1px solid rgba(255,255,255,0.06)">Notes</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td style="padding:8px">[diet_type]</td>
+            <td style="padding:8px">object</td>
+            <td style="padding:8px">Diet category (Carnivore, Herbivore, Piscivore, Omnivore)</td>
+          </tr>
+          <tr>
+            <td style="padding:8px">dinosaurs</td>
+            <td style="padding:8px">array[object]</td>
+            <td style="padding:8px">Array of dinosaurs in this diet category</td>
+          </tr>
+          <tr>
+            <td style="padding:8px">name</td>
+            <td style="padding:8px">string</td>
+            <td style="padding:8px">Dinosaur name</td>
+          </tr>
+          <tr>
+            <td style="padding:8px">slug</td>
+            <td style="padding:8px">string</td>
+            <td style="padding:8px">URL-friendly identifier</td>
+          </tr>
+          <tr>
+            <td style="padding:8px">image</td>
+            <td style="padding:8px">string</td>
+            <td style="padding:8px">Relative path to image</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <h3>Ejemplo</h3>
+      <pre>{
+  "Carnivore": {
+    "dinosaurs": [
+      {
+        "name": "Acrocanthosaurus",
+        "slug": "acrocanthosaurus",
+        "image": "/images/acrocanthosaurus.webp"
+      },
+      {
+        "name": "Albertosaurus",
+        "slug": "albertosaurus",
+        "image": "/images/albertosaurus.webp"
+      }
+    ]
+  },
+  "Herbivore": {
+    "dinosaurs": [
+      {
+        "name": "Ankylodocus",
+        "slug": "ankylodocus",
+        "image": "/images/ankylodocus.webp"
+      }
+    ]
+  }
+}</pre>
+    </section>
+
+    <section class="endpoint">
+      <h3>GET <code class="route">/api/families</code> — List dinosaurs grouped by taxonomic family</h3>
+      <table style="width:100%; border-collapse:collapse; margin-bottom:1rem;">
+        <thead>
+          <tr>
+            <th style="text-align:left; padding:8px; border-bottom:1px solid rgba(255,255,255,0.06)">Field</th>
+            <th style="text-align:left; padding:8px; border-bottom:1px solid rgba(255,255,255,0.06)">Type</th>
+            <th style="text-align:left; padding:8px; border-bottom:1px solid rgba(255,255,255,0.06)">Notes</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td style="padding:8px">[family_name]</td>
+            <td style="padding:8px">object</td>
+            <td style="padding:8px">Taxonomic family (e.g., Tyrannosauridae, Ceratopsidae)</td>
+          </tr>
+          <tr>
+            <td style="padding:8px">dinosaurs</td>
+            <td style="padding:8px">array[object]</td>
+            <td style="padding:8px">Array of dinosaurs in this family</td>
+          </tr>
+          <tr>
+            <td style="padding:8px">name</td>
+            <td style="padding:8px">string</td>
+            <td style="padding:8px">Dinosaur name</td>
+          </tr>
+          <tr>
+            <td style="padding:8px">slug</td>
+            <td style="padding:8px">string</td>
+            <td style="padding:8px">URL-friendly identifier</td>
+          </tr>
+          <tr>
+            <td style="padding:8px">image</td>
+            <td style="padding:8px">string</td>
+            <td style="padding:8px">Relative path to image</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <h3>Ejemplo</h3>
+      <pre>{
+  "Tyrannosauridae": {
+    "dinosaurs": [
+      {
+        "name": "Albertosaurus",
+        "slug": "albertosaurus",
+        "image": "/images/albertosaurus.webp"
+      },
+      {
+        "name": "Tyrannosaurus rex",
+        "slug": "tyrannosaurus-rex",
+        "image": "/images/tyrannosaurus-rex.webp"
+      }
+    ]
+  },
+  "Ceratopsidae": {
+    "dinosaurs": [
+      {
+        "name": "Triceratops",
+        "slug": "triceratops",
+        "image": "/images/triceratops.webp"
+      }
+    ]
+  }
+}</pre>
+    </section>
+
+    <section class="endpoint">
+      <h3>GET <code class="route">/api/habitats</code> — List dinosaurs grouped by habitat type</h3>
+      <table style="width:100%; border-collapse:collapse; margin-bottom:1rem;">
+        <thead>
+          <tr>
+            <th style="text-align:left; padding:8px; border-bottom:1px solid rgba(255,255,255,0.06)">Field</th>
+            <th style="text-align:left; padding:8px; border-bottom:1px solid rgba(255,255,255,0.06)">Type</th>
+            <th style="text-align:left; padding:8px; border-bottom:1px solid rgba(255,255,255,0.06)">Notes</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td style="padding:8px">[habitat_type]</td>
+            <td style="padding:8px">object</td>
+            <td style="padding:8px">Habitat category (Terrestrial, Aquatic, Aerial)</td>
+          </tr>
+          <tr>
+            <td style="padding:8px">dinosaurs</td>
+            <td style="padding:8px">array[object]</td>
+            <td style="padding:8px">Array of dinosaurs in this habitat</td>
+          </tr>
+          <tr>
+            <td style="padding:8px">name</td>
+            <td style="padding:8px">string</td>
+            <td style="padding:8px">Dinosaur name</td>
+          </tr>
+          <tr>
+            <td style="padding:8px">slug</td>
+            <td style="padding:8px">string</td>
+            <td style="padding:8px">URL-friendly identifier</td>
+          </tr>
+          <tr>
+            <td style="padding:8px">image</td>
+            <td style="padding:8px">string</td>
+            <td style="padding:8px">Relative path to image</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <h3>Ejemplo</h3>
+      <pre>{
+  "Terrestrial": {
+    "dinosaurs": [
+      {
+        "name": "Acrocanthosaurus",
+        "slug": "acrocanthosaurus",
+        "image": "/images/acrocanthosaurus.webp"
+      },
+      {
+        "name": "Triceratops",
+        "slug": "triceratops",
+        "image": "/images/triceratops.webp"
+      }
+    ]
+  },
+  "Aquatic": {
+    "dinosaurs": [
+      {
+        "name": "Mosasaurus",
+        "slug": "mosasaurus",
+        "image": "/images/mosasaurus.webp"
+      }
+    ]
+  },
+  "Aerial": {
+    "dinosaurs": [
+      {
+        "name": "Pteranodon",
+        "slug": "pteranodon",
+        "image": "/images/pteranodon.webp"
+      }
+    ]
+  }
+}</pre>
+    </section>
+
+    <section class="endpoint">
+      <h3>GET <code class="route">/api/dig-sites</code> — List dinosaurs grouped by dig sites</h3>
+      <table style="width:100%; border-collapse:collapse; margin-bottom:1rem;">
+        <thead>
+          <tr>
+            <th style="text-align:left; padding:8px; border-bottom:1px solid rgba(255,255,255,0.06)">Field</th>
+            <th style="text-align:left; padding:8px; border-bottom:1px solid rgba(255,255,255,0.06)">Type</th>
+            <th style="text-align:left; padding:8px; border-bottom:1px solid rgba(255,255,255,0.06)">Notes</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td style="padding:8px">[dig_site_name]</td>
+            <td style="padding:8px">object</td>
+            <td style="padding:8px">Excavation site/geological formation name</td>
+          </tr>
+          <tr>
+            <td style="padding:8px">dinosaurs</td>
+            <td style="padding:8px">array[object]</td>
+            <td style="padding:8px">Array of dinosaurs found at this dig site</td>
+          </tr>
+          <tr>
+            <td style="padding:8px">name</td>
+            <td style="padding:8px">string</td>
+            <td style="padding:8px">Dinosaur name</td>
+          </tr>
+          <tr>
+            <td style="padding:8px">slug</td>
+            <td style="padding:8px">string</td>
+            <td style="padding:8px">URL-friendly identifier</td>
+          </tr>
+          <tr>
+            <td style="padding:8px">image</td>
+            <td style="padding:8px">string</td>
+            <td style="padding:8px">Relative path to image</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <h3>Ejemplo</h3>
+      <pre>{
+  "Hell Creek Formation C": {
+    "dinosaurs": [
+      {
+        "name": "Tyrannosaurus rex",
+        "slug": "tyrannosaurus-rex",
+        "image": "/images/tyrannosaurus-rex.webp"
+      }
+    ]
+  },
+  "Morrison Formation C": {
+    "dinosaurs": [
+      {
+        "name": "Brachiosaurus",
+        "slug": "brachiosaurus",
+        "image": "/images/brachiosaurus.webp"
+      },
+      {
+        "name": "Diplodocus",
+        "slug": "diplodocus",
+        "image": "/images/diplodocus.webp"
+      }
+    ]
+  }
 }</pre>
     </section>
 
