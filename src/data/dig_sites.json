@@ -1,5 +1,6 @@
-{
-  "Abrahamskraal Formation": {
+[
+  {
+    "name": "Abrahamskraal Formation",
     "dinosaurs": [
       {
         "name": "Lystrosaurus",
@@ -8,7 +9,8 @@
       }
     ]
   },
-  "Baynshire Formation": {
+  {
+    "name": "Baynshire Formation",
     "dinosaurs": [
       {
         "name": "Deinocheirus",
@@ -17,7 +19,8 @@
       }
     ]
   },
-  "Allen Formation": {
+  {
+    "name": "Allen Formation",
     "dinosaurs": [
       {
         "name": "Austroraptor",
@@ -26,7 +29,8 @@
       }
     ]
   },
-  "Antlers Formation": {
+  {
+    "name": "Antlers Formation",
     "dinosaurs": [
       {
         "name": "Acrocanthosaurus",
@@ -40,7 +44,8 @@
       }
     ]
   },
-  "Bahariya Formation": {
+  {
+    "name": "Bahariya Formation",
     "dinosaurs": [
       {
         "name": "Spinosaurus",
@@ -49,7 +54,8 @@
       }
     ]
   },
-  "Bayan Mandahu Formation": {
+  {
+    "name": "Bayan Mandahu Formation",
     "dinosaurs": [
       {
         "name": "Protoceratops",
@@ -58,7 +64,8 @@
       }
     ]
   },
-  "Bissekty Formation": {
+  {
+    "name": "Bissekty Formation",
     "dinosaurs": [
       {
         "name": "Archaeornithomimus",
@@ -67,7 +74,8 @@
       }
     ]
   },
-  "Bone Valley Formation": {
+  {
+    "name": "Bone Valley Formation",
     "dinosaurs": [
       {
         "name": "Megalodon",
@@ -76,7 +84,8 @@
       }
     ]
   },
-  "Canjuers": {
+  {
+    "name": "Canjuers",
     "dinosaurs": [
       {
         "name": "Compsognathus",
@@ -85,7 +94,8 @@
       }
     ]
   },
-  "Candeleros Formation": {
+  {
+    "name": "Candeleros Formation",
     "dinosaurs": [
       {
         "name": "Giganotosaurus",
@@ -94,7 +104,8 @@
       }
     ]
   },
-  "Cedar Mountain Formation": {
+  {
+    "name": "Cedar Mountain Formation",
     "dinosaurs": [
       {
         "name": "Deinonychus",
@@ -118,7 +129,8 @@
       }
     ]
   },
-  "Cerro Barcino Formation": {
+  {
+    "name": "Cerro Barcino Formation",
     "dinosaurs": [
       {
         "name": "Patagotitan",
@@ -127,7 +139,8 @@
       }
     ]
   },
-  "Cerro Fortaleza Formation": {
+  {
+    "name": "Cerro Fortaleza Formation",
     "dinosaurs": [
       {
         "name": "Dreadnoughtus",
@@ -136,7 +149,8 @@
       }
     ]
   },
-  "Chenini Formation": {
+  {
+    "name": "Chenini Formation",
     "dinosaurs": [
       {
         "name": "Spinosaurus",
@@ -145,7 +159,8 @@
       }
     ]
   },
-  "Cleveland Lloyd Dinosaur": {
+  {
+    "name": "Cleveland Lloyd Dinosaur",
     "dinosaurs": [
       {
         "name": "Allosaurus",
@@ -154,7 +169,8 @@
       }
     ]
   },
-  "Cleveland Lloyd Dinosaur Quarry A": {
+  {
+    "name": "Cleveland Lloyd Dinosaur Quarry A",
     "dinosaurs": [
       {
         "name": "Brachiosaurus ",
@@ -163,7 +179,8 @@
       }
     ]
   },
-  "Cleveland Lloyd Dinosaur Quarry B": {
+  {
+    "name": "Cleveland Lloyd Dinosaur Quarry B",
     "dinosaurs": [
       {
         "name": "Stegosaurus",
@@ -172,7 +189,8 @@
       }
     ]
   },
-  "Cloverly Formation": {
+  {
+    "name": "Cloverly Formation",
     "dinosaurs": [
       {
         "name": "Deinonychus",
@@ -186,7 +204,8 @@
       }
     ]
   },
-  "Dinosaur National": {
+  {
+    "name": "Dinosaur National",
     "dinosaurs": [
       {
         "name": "Apatosaurus",
@@ -195,7 +214,8 @@
       }
     ]
   },
-  "Dinosaur National Monument A": {
+  {
+    "name": "Dinosaur National Monument A",
     "dinosaurs": [
       {
         "name": "Diplodocus",
@@ -204,7 +224,8 @@
       }
     ]
   },
-  "Dinosaur National Monument B": {
+  {
+    "name": "Dinosaur National Monument B",
     "dinosaurs": [
       {
         "name": "Stegosaurus",
@@ -213,7 +234,8 @@
       }
     ]
   },
-  "Dinosaur Park Formation A": {
+  {
+    "name": "Dinosaur Park Formation A",
     "dinosaurs": [
       {
         "name": "Ornithomimus",
@@ -227,7 +249,8 @@
       }
     ]
   },
-  "Dinosaur Park Formation B": {
+  {
+    "name": "Dinosaur Park Formation B",
     "dinosaurs": [
       {
         "name": "Chasmosaurus",
@@ -256,7 +279,8 @@
       }
     ]
   },
-  "Djadochta Formation": {
+  {
+    "name": "Djadochta Formation",
     "dinosaurs": [
       {
         "name": "Oviraptor",
@@ -265,7 +289,8 @@
       }
     ]
   },
-  "Egg Mountain": {
+  {
+    "name": "Egg Mountain",
     "dinosaurs": [
       {
         "name": "Maiasaura",
@@ -274,7 +299,8 @@
       }
     ]
   },
-  "Formation B": {
+  {
+    "name": "Formation B",
     "dinosaurs": [
       {
         "name": "Albertosaurus",
@@ -283,7 +309,8 @@
       }
     ]
   },
-  "Fox Hills Formation": {
+  {
+    "name": "Fox Hills Formation",
     "dinosaurs": [
       {
         "name": "Mosasaurus",
@@ -292,7 +319,8 @@
       }
     ]
   },
-  "Frenchman Formation A": {
+  {
+    "name": "Frenchman Formation A",
     "dinosaurs": [
       {
         "name": "Stygimoloch",
@@ -301,7 +329,8 @@
       }
     ]
   },
-  "Frenchman Formation B": {
+  {
+    "name": "Frenchman Formation B",
     "dinosaurs": [
       {
         "name": "Tyrannosaurus rex",
@@ -310,7 +339,8 @@
       }
     ]
   },
-  "Garden Park": {
+  {
+    "name": "Garden Park",
     "dinosaurs": [
       {
         "name": "Brachiosaurus ",
@@ -324,7 +354,8 @@
       }
     ]
   },
-  "Ghost Ranch": {
+  {
+    "name": "Ghost Ranch",
     "dinosaurs": [
       {
         "name": "Coelophysis",
@@ -333,7 +364,8 @@
       }
     ]
   },
-  "Guodikeng Formation": {
+  {
+    "name": "Guodikeng Formation",
     "dinosaurs": [
       {
         "name": "Lystrosaurus",
@@ -342,7 +374,8 @@
       }
     ]
   },
-  "Hell Creek Formation A": {
+  {
+    "name": "Hell Creek Formation A",
     "dinosaurs": [
       {
         "name": "Pachycephalosaurus",
@@ -351,7 +384,8 @@
       }
     ]
   },
-  "Hell Creek Formation B": {
+  {
+    "name": "Hell Creek Formation B",
     "dinosaurs": [
       {
         "name": "Stygimoloch",
@@ -365,7 +399,8 @@
       }
     ]
   },
-  "Hell Creek Formation C": {
+  {
+    "name": "Hell Creek Formation C",
     "dinosaurs": [
       {
         "name": "Tyrannosaurus rex",
@@ -374,7 +409,8 @@
       }
     ]
   },
-  "Horseshoe Canyon": {
+  {
+    "name": "Horseshoe Canyon",
     "dinosaurs": [
       {
         "name": "Albertosaurus",
@@ -388,7 +424,8 @@
       }
     ]
   },
-  "Horseshoe Canyon Formation A": {
+  {
+    "name": "Horseshoe Canyon Formation A",
     "dinosaurs": [
       {
         "name": "Chasmosaurus",
@@ -402,7 +439,8 @@
       }
     ]
   },
-  "Hythe Formation": {
+  {
+    "name": "Hythe Formation",
     "dinosaurs": [
       {
         "name": "Iguanodon",
@@ -411,7 +449,8 @@
       }
     ]
   },
-  "Iguanodon Mine": {
+  {
+    "name": "Iguanodon Mine",
     "dinosaurs": [
       {
         "name": "Iguanodon",
@@ -420,7 +459,8 @@
       }
     ]
   },
-  "Iren Dabasu Formation": {
+  {
+    "name": "Iren Dabasu Formation",
     "dinosaurs": [
       {
         "name": "Archaeornithomimus",
@@ -434,7 +474,8 @@
       }
     ]
   },
-  "Ischigualasto Formation": {
+  {
+    "name": "Ischigualasto Formation",
     "dinosaurs": [
       {
         "name": "Herrerasaurus",
@@ -443,7 +484,8 @@
       }
     ]
   },
-  "Isle of Wight": {
+  {
+    "name": "Isle of Wight",
     "dinosaurs": [
       {
         "name": "Baryonyx",
@@ -457,7 +499,8 @@
       }
     ]
   },
-  "Javelina Formation": {
+  {
+    "name": "Javelina Formation",
     "dinosaurs": [
       {
         "name": "Quetzalcoatlus",
@@ -466,7 +509,8 @@
       }
     ]
   },
-  "Judith River Formation": {
+  {
+    "name": "Judith River Formation",
     "dinosaurs": [
       {
         "name": "Lokiceratops",
@@ -480,7 +524,8 @@
       }
     ]
   },
-  "Jurassic Coast A": {
+  {
+    "name": "Jurassic Coast A",
     "dinosaurs": [
       {
         "name": "Dimorphodon",
@@ -489,7 +534,8 @@
       }
     ]
   },
-  "Jurassic Coast B": {
+  {
+    "name": "Jurassic Coast B",
     "dinosaurs": [
       {
         "name": "Attenborosaurus",
@@ -503,7 +549,8 @@
       }
     ]
   },
-  "Kaiparowits Formation": {
+  {
+    "name": "Kaiparowits Formation",
     "dinosaurs": [
       {
         "name": "Nasutoceratops",
@@ -512,7 +559,8 @@
       }
     ]
   },
-  "Kayenta Formation": {
+  {
+    "name": "Kayenta Formation",
     "dinosaurs": [
       {
         "name": "Dilophosaurus",
@@ -521,7 +569,8 @@
       }
     ]
   },
-  "Kirtland Formation": {
+  {
+    "name": "Kirtland Formation",
     "dinosaurs": [
       {
         "name": "Parasaurolophus",
@@ -530,7 +579,8 @@
       }
     ]
   },
-  "La Bouchard": {
+  {
+    "name": "La Bouchard",
     "dinosaurs": [
       {
         "name": "Pyroraptor",
@@ -539,7 +589,8 @@
       }
     ]
   },
-  "La Colonia Formation": {
+  {
+    "name": "La Colonia Formation",
     "dinosaurs": [
       {
         "name": "Carnotaurus",
@@ -548,7 +599,8 @@
       }
     ]
   },
-  "La Huérguina Formation": {
+  {
+    "name": "La Huérguina Formation",
     "dinosaurs": [
       {
         "name": "Concavenator",
@@ -557,7 +609,8 @@
       }
     ]
   },
-  "Lance Formation Site A": {
+  {
+    "name": "Lance Formation Site A",
     "dinosaurs": [
       {
         "name": "Edmontosaurus",
@@ -576,7 +629,8 @@
       }
     ]
   },
-  "Lance Formation Site B": {
+  {
+    "name": "Lance Formation Site B",
     "dinosaurs": [
       {
         "name": "Corythosaurus",
@@ -595,7 +649,8 @@
       }
     ]
   },
-  "Lance Formation Site C": {
+  {
+    "name": "Lance Formation Site C",
     "dinosaurs": [
       {
         "name": "Ankylosaurus",
@@ -609,7 +664,8 @@
       }
     ]
   },
-  "Laramie Formation": {
+  {
+    "name": "Laramie Formation",
     "dinosaurs": [
       {
         "name": "Styracosaurus",
@@ -618,7 +674,8 @@
       }
     ]
   },
-  "Lost Burro Gap": {
+  {
+    "name": "Lost Burro Gap",
     "dinosaurs": [
       {
         "name": "Dunkleosteus",
@@ -627,7 +684,8 @@
       }
     ]
   },
-  "Lourinhã Formation A": {
+  {
+    "name": "Lourinhã Formation A",
     "dinosaurs": [
       {
         "name": "Ceratosaurus",
@@ -636,7 +694,8 @@
       }
     ]
   },
-  "Lourinhã Formation B": {
+  {
+    "name": "Lourinhã Formation B",
     "dinosaurs": [
       {
         "name": "Stegosaurus",
@@ -645,7 +704,8 @@
       }
     ]
   },
-  "Maastricht Formation": {
+  {
+    "name": "Maastricht Formation",
     "dinosaurs": [
       {
         "name": "Mosasaurus",
@@ -654,7 +714,8 @@
       }
     ]
   },
-  "Mackunda Formation": {
+  {
+    "name": "Mackunda Formation",
     "dinosaurs": [
       {
         "name": "Muttaburrasaurus",
@@ -663,7 +724,8 @@
       }
     ]
   },
-  "Minchinhampton": {
+  {
+    "name": "Minchinhampton",
     "dinosaurs": [
       {
         "name": "Proceratosaurus",
@@ -672,7 +734,8 @@
       }
     ]
   },
-  "Monument A": {
+  {
+    "name": "Monument A",
     "dinosaurs": [
       {
         "name": "Apatosaurus",
@@ -681,7 +744,8 @@
       }
     ]
   },
-  "Morrison Formation A": {
+  {
+    "name": "Morrison Formation A",
     "dinosaurs": [
       {
         "name": "Ceratosaurus",
@@ -690,7 +754,8 @@
       }
     ]
   },
-  "Morrison Formation B": {
+  {
+    "name": "Morrison Formation B",
     "dinosaurs": [
       {
         "name": "Apatosaurus",
@@ -704,7 +769,8 @@
       }
     ]
   },
-  "Morrison Formation C": {
+  {
+    "name": "Morrison Formation C",
     "dinosaurs": [
       {
         "name": "Brachiosaurus ",
@@ -723,7 +789,8 @@
       }
     ]
   },
-  "Morrison Formation D": {
+  {
+    "name": "Morrison Formation D",
     "dinosaurs": [
       {
         "name": "Allosaurus",
@@ -732,7 +799,8 @@
       }
     ]
   },
-  "Nanxiong Formation": {
+  {
+    "name": "Nanxiong Formation",
     "dinosaurs": [
       {
         "name": "Qianzhousaurus",
@@ -741,7 +809,8 @@
       }
     ]
   },
-  "Nemegt Formation A": {
+  {
+    "name": "Nemegt Formation A",
     "dinosaurs": [
       {
         "name": "Deinocheirus",
@@ -765,7 +834,8 @@
       }
     ]
   },
-  "Nemegt Formation B": {
+  {
+    "name": "Nemegt Formation B",
     "dinosaurs": [
       {
         "name": "Homalocephale",
@@ -784,7 +854,8 @@
       }
     ]
   },
-  "Niobrara Formation": {
+  {
+    "name": "Niobrara Formation",
     "dinosaurs": [
       {
         "name": "Geosternbergia",
@@ -798,7 +869,8 @@
       }
     ]
   },
-  "Oshih Formation": {
+  {
+    "name": "Oshih Formation",
     "dinosaurs": [
       {
         "name": "Psittacosaurus",
@@ -807,7 +879,8 @@
       }
     ]
   },
-  "Oxford Clay": {
+  {
+    "name": "Oxford Clay",
     "dinosaurs": [
       {
         "name": "Metriacanthosaurus",
@@ -821,7 +894,8 @@
       }
     ]
   },
-  "Peay Sandstone Member": {
+  {
+    "name": "Peay Sandstone Member",
     "dinosaurs": [
       {
         "name": "Nodosaurus",
@@ -830,7 +904,8 @@
       }
     ]
   },
-  "Pierre Shale": {
+  {
+    "name": "Pierre Shale",
     "dinosaurs": [
       {
         "name": "Pteranodon",
@@ -839,7 +914,8 @@
       }
     ]
   },
-  "Plottier Formation": {
+  {
+    "name": "Plottier Formation",
     "dinosaurs": [
       {
         "name": "Thanatosdrakon",
@@ -848,7 +924,8 @@
       }
     ]
   },
-  "Prince Creek Formation": {
+  {
+    "name": "Prince Creek Formation",
     "dinosaurs": [
       {
         "name": "Troodon",
@@ -857,7 +934,8 @@
       }
     ]
   },
-  "Quarry B": {
+  {
+    "name": "Quarry B",
     "dinosaurs": [
       {
         "name": "Allosaurus",
@@ -866,7 +944,8 @@
       }
     ]
   },
-  "Red Beds": {
+  {
+    "name": "Red Beds",
     "dinosaurs": [
       {
         "name": "Dimetrodon",
@@ -875,7 +954,8 @@
       }
     ]
   },
-  "Romualdo Formation": {
+  {
+    "name": "Romualdo Formation",
     "dinosaurs": [
       {
         "name": "Irritator",
@@ -894,7 +974,8 @@
       }
     ]
   },
-  "Scollard Formation A": {
+  {
+    "name": "Scollard Formation A",
     "dinosaurs": [
       {
         "name": "Chasmosaurus",
@@ -913,7 +994,8 @@
       }
     ]
   },
-  "Scollard Formation B": {
+  {
+    "name": "Scollard Formation B",
     "dinosaurs": [
       {
         "name": "Ankylosaurus",
@@ -922,7 +1004,8 @@
       }
     ]
   },
-  "Shishugou Formation": {
+  {
+    "name": "Shishugou Formation",
     "dinosaurs": [
       {
         "name": "Microceratus",
@@ -931,7 +1014,8 @@
       }
     ]
   },
-  "Smokejack Clay Pit": {
+  {
+    "name": "Smokejack Clay Pit",
     "dinosaurs": [
       {
         "name": "Baryonyx",
@@ -940,7 +1024,8 @@
       }
     ]
   },
-  "Smoky Hill Chalk": {
+  {
+    "name": "Smoky Hill Chalk",
     "dinosaurs": [
       {
         "name": "Pteranodon",
@@ -949,7 +1034,8 @@
       }
     ]
   },
-  "Solnhofen Formation": {
+  {
+    "name": "Solnhofen Formation",
     "dinosaurs": [
       {
         "name": "Compsognathus",
@@ -958,7 +1044,8 @@
       }
     ]
   },
-  "Tegama Beds": {
+  {
+    "name": "Tegama Beds",
     "dinosaurs": [
       {
         "name": "Suchomimus",
@@ -967,7 +1054,8 @@
       }
     ]
   },
-  "Tendaguru Formation": {
+  {
+    "name": "Tendaguru Formation",
     "dinosaurs": [
       {
         "name": "Kentrosaurus",
@@ -976,7 +1064,8 @@
       }
     ]
   },
-  "Toolebuc Formation": {
+  {
+    "name": "Toolebuc Formation",
     "dinosaurs": [
       {
         "name": "Kronosaurus",
@@ -985,7 +1074,8 @@
       }
     ]
   },
-  "Twin Mountains Formation": {
+  {
+    "name": "Twin Mountains Formation",
     "dinosaurs": [
       {
         "name": "Acrocanthosaurus",
@@ -999,7 +1089,8 @@
       }
     ]
   },
-  "Udurchukan Formation": {
+  {
+    "name": "Udurchukan Formation",
     "dinosaurs": [
       {
         "name": "Olorotitan",
@@ -1008,7 +1099,8 @@
       }
     ]
   },
-  "Xingezhuang Formation": {
+  {
+    "name": "Xingezhuang Formation",
     "dinosaurs": [
       {
         "name": "Sinoceratops",
@@ -1017,7 +1109,8 @@
       }
     ]
   },
-  "Yixian Formation": {
+  {
+    "name": "Yixian Formation",
     "dinosaurs": [
       {
         "name": "Yutyrannus",
@@ -1026,7 +1119,8 @@
       }
     ]
   },
-  "Yuliangze Formation": {
+  {
+    "name": "Yuliangze Formation",
     "dinosaurs": [
       {
         "name": "Tsintaosaurus",
@@ -1035,7 +1129,8 @@
       }
     ]
   },
-  "Ziliujing Formation A": {
+  {
+    "name": "Ziliujing Formation A",
     "dinosaurs": [
       {
         "name": "Chungkingosaurus",
@@ -1044,7 +1139,8 @@
       }
     ]
   },
-  "Ziliujing Formation B": {
+  {
+    "name": "Ziliujing Formation B",
     "dinosaurs": [
       {
         "name": "Gigantspinosaurus",
@@ -1058,4 +1154,4 @@
       }
     ]
   }
-}
+]

@@ -1,5 +1,6 @@
-{
-  "Carcharodontosauridae": {
+[
+  {
+    "name": "Carcharodontosauridae",
     "dinosaurs": [
       {
         "name": "Acrocanthosaurus",
@@ -18,7 +19,8 @@
       }
     ]
   },
-  "Tyrannosauridae": {
+  {
+    "name": "Tyrannosauridae",
     "dinosaurs": [
       {
         "name": "Albertosaurus",
@@ -37,7 +39,8 @@
       }
     ]
   },
-  "Allosauridae": {
+  {
+    "name": "Allosauridae",
     "dinosaurs": [
       {
         "name": "Allosaurus",
@@ -46,7 +49,8 @@
       }
     ]
   },
-  "Hybrid": {
+  {
+    "name": "Hybrid",
     "dinosaurs": [
       {
         "name": "Ankylodocus",
@@ -85,7 +89,8 @@
       }
     ]
   },
-  "Ankylosauridae": {
+  {
+    "name": "Ankylosauridae",
     "dinosaurs": [
       {
         "name": "Ankylosaurus",
@@ -94,7 +99,8 @@
       }
     ]
   },
-  "Diplodocidae": {
+  {
+    "name": "Diplodocidae",
     "dinosaurs": [
       {
         "name": "Apatosaurus",
@@ -108,7 +114,8 @@
       }
     ]
   },
-  "Ornithomimidae": {
+  {
+    "name": "Ornithomimidae",
     "dinosaurs": [
       {
         "name": "Archaeornithomimus",
@@ -132,7 +139,8 @@
       }
     ]
   },
-  "Dromaeosauridae": {
+  {
+    "name": "Dromaeosauridae",
     "dinosaurs": [
       {
         "name": "Atrociraptor",
@@ -166,7 +174,8 @@
       }
     ]
   },
-  "Pliosauridae": {
+  {
+    "name": "Pliosauridae",
     "dinosaurs": [
       {
         "name": "Attenborosaurus",
@@ -180,7 +189,8 @@
       }
     ]
   },
-  "Spinosauridae": {
+  {
+    "name": "Spinosauridae",
     "dinosaurs": [
       {
         "name": "Baryonyx",
@@ -204,7 +214,8 @@
       }
     ]
   },
-  "Brachiosauridae": {
+  {
+    "name": "Brachiosauridae",
     "dinosaurs": [
       {
         "name": "Brachiosaurus ",
@@ -213,7 +224,8 @@
       }
     ]
   },
-  "Tapejaridae": {
+  {
+    "name": "Tapejaridae",
     "dinosaurs": [
       {
         "name": "Caiuajara ",
@@ -227,7 +239,8 @@
       }
     ]
   },
-  "Abelisauridae": {
+  {
+    "name": "Abelisauridae",
     "dinosaurs": [
       {
         "name": "Carnotaurus",
@@ -236,7 +249,8 @@
       }
     ]
   },
-  "Ceratosauridae": {
+  {
+    "name": "Ceratosauridae",
     "dinosaurs": [
       {
         "name": "Ceratosaurus",
@@ -245,7 +259,8 @@
       }
     ]
   },
-  "Ceratopsidae": {
+  {
+    "name": "Ceratopsidae",
     "dinosaurs": [
       {
         "name": "Chasmosaurus",
@@ -279,7 +294,8 @@
       }
     ]
   },
-  "Huayangosauridae": {
+  {
+    "name": "Huayangosauridae",
     "dinosaurs": [
       {
         "name": "Chungkingosaurus",
@@ -288,7 +304,8 @@
       }
     ]
   },
-  "Coelophysidae": {
+  {
+    "name": "Coelophysidae",
     "dinosaurs": [
       {
         "name": "Coelophysis",
@@ -297,7 +314,8 @@
       }
     ]
   },
-  "Compsognathidae": {
+  {
+    "name": "Compsognathidae",
     "dinosaurs": [
       {
         "name": "Compsognathus",
@@ -306,7 +324,8 @@
       }
     ]
   },
-  "Hadrosauridae": {
+  {
+    "name": "Hadrosauridae",
     "dinosaurs": [
       {
         "name": "Corythosaurus",
@@ -340,7 +359,8 @@
       }
     ]
   },
-  "Dilophosauridae": {
+  {
+    "name": "Dilophosauridae",
     "dinosaurs": [
       {
         "name": "Dilophosaurus",
@@ -349,7 +369,8 @@
       }
     ]
   },
-  "Sphenacodontidae": {
+  {
+    "name": "Sphenacodontidae",
     "dinosaurs": [
       {
         "name": "Dimetrodon",
@@ -358,7 +379,8 @@
       }
     ]
   },
-  "Dimorphodontidae": {
+  {
+    "name": "Dimorphodontidae",
     "dinosaurs": [
       {
         "name": "Dimorphodon",
@@ -367,7 +389,8 @@
       }
     ]
   },
-  "Titanosauria": {
+  {
+    "name": "Titanosauria",
     "dinosaurs": [
       {
         "name": "Dreadnoughtus",
@@ -381,7 +404,8 @@
       }
     ]
   },
-  "Dryosauridae": {
+  {
+    "name": "Dryosauridae",
     "dinosaurs": [
       {
         "name": "Dryosaurus",
@@ -390,7 +414,8 @@
       }
     ]
   },
-  "Dunkleosteidae": {
+  {
+    "name": "Dunkleosteidae",
     "dinosaurs": [
       {
         "name": "Dunkleosteus",
@@ -399,7 +424,8 @@
       }
     ]
   },
-  "Pteranodontidae": {
+  {
+    "name": "Pteranodontidae",
     "dinosaurs": [
       {
         "name": "Geosternbergia",
@@ -413,7 +439,8 @@
       }
     ]
   },
-  "Stegosauria": {
+  {
+    "name": "Stegosauria",
     "dinosaurs": [
       {
         "name": "Gigantspinosaurus",
@@ -422,7 +449,8 @@
       }
     ]
   },
-  "Proceratosauridae": {
+  {
+    "name": "Proceratosauridae",
     "dinosaurs": [
       {
         "name": "Guanlong",
@@ -441,7 +469,8 @@
       }
     ]
   },
-  "Herrerasauridae": {
+  {
+    "name": "Herrerasauridae",
     "dinosaurs": [
       {
         "name": "Herrerasaurus",
@@ -450,7 +479,8 @@
       }
     ]
   },
-  "Pachycephalosauridae": {
+  {
+    "name": "Pachycephalosauridae",
     "dinosaurs": [
       {
         "name": "Homalocephale",
@@ -469,7 +499,8 @@
       }
     ]
   },
-  "Hypsilophodontidae": {
+  {
+    "name": "Hypsilophodontidae",
     "dinosaurs": [
       {
         "name": "Hypsilophodon",
@@ -478,7 +509,8 @@
       }
     ]
   },
-  "Ichthyosauridae": {
+  {
+    "name": "Ichthyosauridae",
     "dinosaurs": [
       {
         "name": "Ichthyosaurus",
@@ -487,7 +519,8 @@
       }
     ]
   },
-  "Iguanodontidae": {
+  {
+    "name": "Iguanodontidae",
     "dinosaurs": [
       {
         "name": "Iguanodon",
@@ -496,7 +529,8 @@
       }
     ]
   },
-  "Stegosauridae": {
+  {
+    "name": "Stegosauridae",
     "dinosaurs": [
       {
         "name": "Kentrosaurus",
@@ -510,7 +544,8 @@
       }
     ]
   },
-  "Lystrosauridae": {
+  {
+    "name": "Lystrosauridae",
     "dinosaurs": [
       {
         "name": "Lystrosaurus",
@@ -519,7 +554,8 @@
       }
     ]
   },
-  "Mamenchisauridae": {
+  {
+    "name": "Mamenchisauridae",
     "dinosaurs": [
       {
         "name": "Mamenchisaurus",
@@ -528,7 +564,8 @@
       }
     ]
   },
-  "Otodontidae": {
+  {
+    "name": "Otodontidae",
     "dinosaurs": [
       {
         "name": "Megalodon",
@@ -537,7 +574,8 @@
       }
     ]
   },
-  "Metriacanthosauridae": {
+  {
+    "name": "Metriacanthosauridae",
     "dinosaurs": [
       {
         "name": "Metriacanthosaurus",
@@ -546,7 +584,8 @@
       }
     ]
   },
-  "Ceratopsia": {
+  {
+    "name": "Ceratopsia",
     "dinosaurs": [
       {
         "name": "Microceratus",
@@ -555,7 +594,8 @@
       }
     ]
   },
-  "Saurischia": {
+  {
+    "name": "Saurischia",
     "dinosaurs": [
       {
         "name": "Moros intrepidus",
@@ -564,7 +604,8 @@
       }
     ]
   },
-  "Mosasauridae": {
+  {
+    "name": "Mosasauridae",
     "dinosaurs": [
       {
         "name": "Mosasaurus",
@@ -573,7 +614,8 @@
       }
     ]
   },
-  "Rhabdodontomorpha": {
+  {
+    "name": "Rhabdodontomorpha",
     "dinosaurs": [
       {
         "name": "Muttaburrasaurus",
@@ -582,7 +624,8 @@
       }
     ]
   },
-  "Nodosauridae": {
+  {
+    "name": "Nodosauridae",
     "dinosaurs": [
       {
         "name": "Nodosaurus",
@@ -596,7 +639,8 @@
       }
     ]
   },
-  "Oviraptoridae": {
+  {
+    "name": "Oviraptoridae",
     "dinosaurs": [
       {
         "name": "Oviraptor",
@@ -605,7 +649,8 @@
       }
     ]
   },
-  "Plesiosauridae": {
+  {
+    "name": "Plesiosauridae",
     "dinosaurs": [
       {
         "name": "Plesiosaurus",
@@ -614,7 +659,8 @@
       }
     ]
   },
-  "Protoceratopsidae": {
+  {
+    "name": "Protoceratopsidae",
     "dinosaurs": [
       {
         "name": "Protoceratops",
@@ -623,7 +669,8 @@
       }
     ]
   },
-  "Psittacosauridae": {
+  {
+    "name": "Psittacosauridae",
     "dinosaurs": [
       {
         "name": "Psittacosaurus",
@@ -632,7 +679,8 @@
       }
     ]
   },
-  "Azhdarchidae": {
+  {
+    "name": "Azhdarchidae",
     "dinosaurs": [
       {
         "name": "Quetzalcoatlus",
@@ -646,7 +694,8 @@
       }
     ]
   },
-  "Therizinosauridae": {
+  {
+    "name": "Therizinosauridae",
     "dinosaurs": [
       {
         "name": "Therizinosaurus",
@@ -655,7 +704,8 @@
       }
     ]
   },
-  "Troodontidae": {
+  {
+    "name": "Troodontidae",
     "dinosaurs": [
       {
         "name": "Troodon",
@@ -664,7 +714,8 @@
       }
     ]
   },
-  "Anhangueridae": {
+  {
+    "name": "Anhangueridae",
     "dinosaurs": [
       {
         "name": "Tropeognathus",
@@ -673,7 +724,8 @@
       }
     ]
   },
-  "Deinocheiridae": {
+  {
+    "name": "Deinocheiridae",
     "dinosaurs": [
       {
         "name": "Deinocheirus",
@@ -682,4 +734,4 @@
       }
     ]
   }
-}
+]

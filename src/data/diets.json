@@ -1,5 +1,6 @@
-{
-  "Carnivore": {
+[
+  {
+    "name": "Carnivore",
     "dinosaurs": [
       {
         "name": "Acrocanthosaurus",
@@ -213,7 +214,8 @@
       }
     ]
   },
-  "Herbivore": {
+  {
+    "name": "Herbivore",
     "dinosaurs": [
       {
         "name": "Ankylodocus",
@@ -432,7 +434,8 @@
       }
     ]
   },
-  "Piscivore": {
+  {
+    "name": "Piscivore",
     "dinosaurs": [
       {
         "name": "Attenborosaurus",
@@ -541,7 +544,8 @@
       }
     ]
   },
-  "Omnivore": {
+  {
+    "name": "Omnivore",
     "dinosaurs": [
       {
         "name": "Deinocheirus",
@@ -560,4 +564,4 @@
       }
     ]
   }
-}
+]

@@ -1,5 +1,6 @@
-{
-  "Terrestrial": {
+[
+  {
+    "name": "Terrestrial",
     "dinosaurs": [
       {
         "name": "Acrocanthosaurus",
@@ -403,7 +404,8 @@
       }
     ]
   },
-  "Aquatic": {
+  {
+    "name": "Aquatic",
     "dinosaurs": [
       {
         "name": "Attenborosaurus",
@@ -442,7 +444,8 @@
       }
     ]
   },
-  "Aerial": {
+  {
+    "name": "Aerial",
     "dinosaurs": [
       {
         "name": "Caiuajara",
@@ -486,4 +489,4 @@
       }
     ]
   }
-}
+]
