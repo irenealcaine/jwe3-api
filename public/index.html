@@ -11,7 +11,7 @@
       background: #0b1d26;
       color: #fff;
       text-align: center;
-      padding: 3rem;
+      padding: 1rem;
     }
 
     h1 {
@@ -21,31 +21,33 @@
 
     a {
       display: inline-block;
-      background: #00ffa3;
-      color: #0b1d26;
-      padding: 0.8rem 1.5rem;
+      background: #00ffa344;
+      border: 2px solid #00ffa3;
+      color: #00ffa3;
+      padding: 0.4rem 1rem;
       border-radius: 8px;
       text-decoration: none;
       font-weight: bold;
+      transition: background 0.3s ease;
     }
 
     a:hover {
-      background: #00d88d;
+      background: #00ffa322;
     }
 
     main.docs {
       max-width: 900px;
-      margin: 2.5rem auto 0;
+      margin: 2rem auto 0;
       text-align: left;
       background: rgba(255, 255, 255, 0.03);
       border: 1px solid rgba(255, 255, 255, 0.04);
-      padding: 1.25rem 1.5rem;
+      padding: 1rem 1.25rem;
       border-radius: 10px;
     }
 
     .endpoint {
       margin-bottom: 3rem;
-      padding: .5rem 1.5rem;
+      padding: .5rem 1rem;
       border-bottom: 2px solid rgba(0, 255, 163, 0.2);
       background: rgba(255, 255, 255, 0.02);
       border-radius: 8px;
@@ -74,6 +76,19 @@
       display: block;
       margin-top: 0.5rem;
     }
+
+    .table-wrapper {
+      overflow-x: auto;
+      margin-bottom: 1rem;
+      border-radius: 6px;
+      border: 1px solid rgba(255, 255, 255, 0.06);
+    }
+
+    .table-wrapper table {
+      width: 100%;
+      min-width: 600px;
+      border-collapse: collapse;
+    }
   </style>
 </head>
 
@@ -86,52 +101,54 @@
     <section class="endpoint">
       <h3>GET <code class="route">/api/dinosaurs</code> — List all dinosaurs</h3>
       <a href="/api/dinosaurs" style="display: inline-block; margin-bottom: 1rem;">Try this endpoint</a>
-      <table style="width:100%; border-collapse:collapse; margin-bottom:1rem;">
-        <thead>
-          <tr>
-            <th style="text-align:left; padding:8px; border-bottom:1px solid rgba(255,255,255,0.06)">Field</th>
-            <th style="text-align:left; padding:8px; border-bottom:1px solid rgba(255,255,255,0.06)">Type</th>
-            <th style="text-align:left; padding:8px; border-bottom:1px solid rgba(255,255,255,0.06)">Notes</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td style="padding:8px">id</td>
-            <td style="padding:8px">integer</td>
-            <td style="padding:8px">Unique identifier</td>
-          </tr>
-          <tr>
-            <td style="padding:8px">name</td>
-            <td style="padding:8px">string</td>
-            <td style="padding:8px">Common name</td>
-          </tr>
-          <tr>
-            <td style="padding:8px">slug</td>
-            <td style="padding:8px">string</td>
-            <td style="padding:8px">URL-friendly identifier</td>
-          </tr>
-          <tr>
-            <td style="padding:8px">image</td>
-            <td style="padding:8px">string</td>
-            <td style="padding:8px">Relative path to image (e.g. /images/..)</td>
-          </tr>
-          <tr>
-            <td style="padding:8px">description</td>
-            <td style="padding:8px">string</td>
-            <td style="padding:8px">Long description</td>
-          </tr>
-          <tr>
-            <td style="padding:8px">era</td>
-            <td style="padding:8px">string</td>
-            <td style="padding:8px">Geological period</td>
-          </tr>
-          <tr>
-            <td style="padding:8px">diet</td>
-            <td style="padding:8px">array[string]</td>
-            <td style="padding:8px">Diet type(s)</td>
-          </tr>
-        </tbody>
-      </table>
+      <div class="table-wrapper">
+        <table style="width:100%; border-collapse:collapse; margin-bottom:1rem;">
+          <thead>
+            <tr>
+              <th style="text-align:left; padding:8px; border-bottom:1px solid rgba(255,255,255,0.06)">Field</th>
+              <th style="text-align:left; padding:8px; border-bottom:1px solid rgba(255,255,255,0.06)">Type</th>
+              <th style="text-align:left; padding:8px; border-bottom:1px solid rgba(255,255,255,0.06)">Notes</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td style="padding:8px">id</td>
+              <td style="padding:8px">integer</td>
+              <td style="padding:8px">Unique identifier</td>
+            </tr>
+            <tr>
+              <td style="padding:8px">name</td>
+              <td style="padding:8px">string</td>
+              <td style="padding:8px">Common name</td>
+            </tr>
+            <tr>
+              <td style="padding:8px">slug</td>
+              <td style="padding:8px">string</td>
+              <td style="padding:8px">URL-friendly identifier</td>
+            </tr>
+            <tr>
+              <td style="padding:8px">image</td>
+              <td style="padding:8px">string</td>
+              <td style="padding:8px">Relative path to image (e.g. /images/..)</td>
+            </tr>
+            <tr>
+              <td style="padding:8px">description</td>
+              <td style="padding:8px">string</td>
+              <td style="padding:8px">Long description</td>
+            </tr>
+            <tr>
+              <td style="padding:8px">era</td>
+              <td style="padding:8px">string</td>
+              <td style="padding:8px">Geological period</td>
+            </tr>
+            <tr>
+              <td style="padding:8px">diet</td>
+              <td style="padding:8px">array[string]</td>
+              <td style="padding:8px">Diet type(s)</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
 
       <h3>Ejemplo</h3>
       <pre>{
@@ -148,7 +165,8 @@
     <section class="endpoint">
       <h3>GET <code class="route">/api/dinosaurs/:id</code> — Get a dinosaur by ID</h3>
       <a href="/api/dinosaurs/1" style="display: inline-block; margin-bottom: 1rem;">Try this endpoint</a>
-      <table style="width:100%; border-collapse:collapse; margin-bottom:1rem;">
+      <div class="table-wrapper">
+        <table style="width:100%; border-collapse:collapse; margin-bottom:1rem;">
         <thead>
           <tr>
             <th style="text-align:left; padding:8px; border-bottom:1px solid rgba(255,255,255,0.06)">Field</th>
@@ -273,7 +291,8 @@
             <td style="padding:8px">Source game</td>
           </tr>
         </tbody>
-      </table>
+        </table>
+      </div>
 
       <h3>Example</h3>
       <pre>{
@@ -312,7 +331,8 @@
     <section class="endpoint">
       <h3>GET <code class="route">/api/diets</code> — List dinosaurs grouped by diet type</h3>
       <a href="/api/diets" style="display: inline-block; margin-bottom: 1rem;">Try this endpoint</a>
-      <table style="width:100%; border-collapse:collapse; margin-bottom:1rem;">
+      <div class="table-wrapper">
+        <table style="width:100%; border-collapse:collapse; margin-bottom:1rem;">
         <thead>
           <tr>
             <th style="text-align:left; padding:8px; border-bottom:1px solid rgba(255,255,255,0.06)">Field</th>
@@ -347,7 +367,8 @@
             <td style="padding:8px">Relative path to image</td>
           </tr>
         </tbody>
-      </table>
+        </table>
+      </div>
 
       <h3>Ejemplo</h3>
       <pre>{
@@ -380,7 +401,8 @@
     <section class="endpoint">
       <h3>GET <code class="route">/api/families</code> — List dinosaurs grouped by taxonomic family</h3>
       <a href="/api/families" style="display: inline-block; margin-bottom: 1rem;">Try this endpoint</a>
-      <table style="width:100%; border-collapse:collapse; margin-bottom:1rem;">
+      <div class="table-wrapper">
+        <table style="width:100%; border-collapse:collapse; margin-bottom:1rem;">
         <thead>
           <tr>
             <th style="text-align:left; padding:8px; border-bottom:1px solid rgba(255,255,255,0.06)">Field</th>
@@ -416,6 +438,7 @@
           </tr>
         </tbody>
       </table>
+      </div>
 
       <h3>Ejemplo</h3>
       <pre>{
@@ -443,12 +466,14 @@
     ]
   }
 }</pre>
+      </div>
     </section>
 
     <section class="endpoint">
       <h3>GET <code class="route">/api/habitats</code> — List dinosaurs grouped by habitat type</h3>
       <a href="/api/habitats" style="display: inline-block; margin-bottom: 1rem;">Try this endpoint</a>
-      <table style="width:100%; border-collapse:collapse; margin-bottom:1rem;">
+      <div class="table-wrapper">
+        <table style="width:100%; border-collapse:collapse; margin-bottom:1rem;">
         <thead>
           <tr>
             <th style="text-align:left; padding:8px; border-bottom:1px solid rgba(255,255,255,0.06)">Field</th>
@@ -484,6 +509,7 @@
           </tr>
         </tbody>
       </table>
+    </div>
 
       <h3>Ejemplo</h3>
       <pre>{
@@ -520,12 +546,14 @@
     ]
   }
 }</pre>
+      </div>
     </section>
 
     <section class="endpoint">
       <h3>GET <code class="route">/api/dig-sites</code> — List dinosaurs grouped by dig sites</h3>
       <a href="/api/dig-sites" style="display: inline-block; margin-bottom: 1rem;">Try this endpoint</a>
-      <table style="width:100%; border-collapse:collapse; margin-bottom:1rem;">
+      <div class="table-wrapper">
+        <table style="width:100%; border-collapse:collapse; margin-bottom:1rem;">
         <thead>
           <tr>
             <th style="text-align:left; padding:8px; border-bottom:1px solid rgba(255,255,255,0.06)">Field</th>
@@ -561,6 +589,7 @@
           </tr>
         </tbody>
       </table>
+    </div>
 
       <h3>Ejemplo</h3>
       <pre>{
@@ -588,18 +617,19 @@
     ]
   }
 }</pre>
+      </div>
     </section>
 
     <section style="margin-top: 3rem; padding-top: 2rem; border-top: 2px solid rgba(0, 255, 163, 0.2);">
       <h3 style="color:#00ffa3;">📚 Data Sources</h3>
       <p>The information in this API has been obtained from the following sources:</p>
-      <ul style="list-style: none; padding-left: 0;">
-        <li style="margin: 0.75rem 0;">
+      <ul style="list-style: none; padding-left: 0; display: flex; gap: 1rem; flex-wrap: wrap;">
+        <li style="">
           <a href="https://jurassicworld-evolution.fandom.com/wiki/Jurassic_World_Evolution_3" target="_blank" rel="noopener noreferrer">
             JWE 3 Wiki - Fandom
           </a>
         </li>
-        <li style="margin: 0.75rem 0;">
+        <li style="">
           <a href="https://www.jurassicworldevolution.com/3/dinosaurs" target="_blank" rel="noopener noreferrer">
             JWE - Official Website
           </a>
@@ -613,13 +643,13 @@
     <p style="margin-bottom: 1rem; color: #9aa8b0;">Created by Irene Alcaine</p>
     <div style="display: flex; justify-content: center; gap: 1.5rem; flex-wrap: wrap;">
       <a href="https://irenealcainealvarez.es/" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.6rem 1.2rem;">
-        🌐 Website
+        Web
       </a>
       <a href="https://github.com/irenealcaine" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.6rem 1.2rem;">
-        🐙 GitHub
+        GitHub
       </a>
       <a href="https://www.linkedin.com/in/irenealcaine/" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.6rem 1.2rem;">
-        💼 LinkedIn
+        LinkedIn
       </a>
     </div>
   </footer>
