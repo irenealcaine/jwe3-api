@@ -344,9 +344,14 @@
         </thead>
         <tbody>
           <tr>
-            <td style="padding:8px">[diet_type]</td>
-            <td style="padding:8px">object</td>
-            <td style="padding:8px">Diet category (Carnivore, Herbivore, Piscivore, Omnivore)</td>
+            <td style="padding:8px">name</td>
+            <td style="padding:8px">string</td>
+            <td style="padding:8px">Diet category name (Carnivore, Herbivore, Piscivore, Omnivore)</td>
+          </tr>
+          <tr>
+            <td style="padding:8px">description</td>
+            <td style="padding:8px">string</td>
+            <td style="padding:8px">Detailed description of the diet type</td>
           </tr>
           <tr>
             <td style="padding:8px">dinosaurs</td>
@@ -354,17 +359,17 @@
             <td style="padding:8px">Array of dinosaurs in this diet category</td>
           </tr>
           <tr>
-            <td style="padding:8px">name</td>
+            <td style="padding:8px">dinosaurs[].name</td>
             <td style="padding:8px">string</td>
             <td style="padding:8px">Dinosaur name</td>
           </tr>
           <tr>
-            <td style="padding:8px">slug</td>
+            <td style="padding:8px">dinosaurs[].slug</td>
             <td style="padding:8px">string</td>
             <td style="padding:8px">URL-friendly identifier</td>
           </tr>
           <tr>
-            <td style="padding:8px">image</td>
+            <td style="padding:8px">dinosaurs[].image</td>
             <td style="padding:8px">string</td>
             <td style="padding:8px">Relative path to image</td>
           </tr>
@@ -373,8 +378,10 @@
       </div>
 
       <h3>Ejemplo</h3>
-      <pre>{
-  "Carnivore": {
+      <pre>[
+  {
+    "name": "Carnivore",
+    "description": "Meat-eating predators that hunt and consume other animals. These fearsome dinosaurs feature sharp teeth, powerful jaws, and agile bodies designed for hunting. They range from massive apex predators to smaller pack hunters, requiring live prey or fresh meat to survive.",
     "dinosaurs": [
       {
         "name": "Acrocanthosaurus",
@@ -388,7 +395,9 @@
       }
     ]
   },
-  "Herbivore": {
+  {
+    "name": "Herbivore",
+    "description": "Plant-eating dinosaurs that feed exclusively on vegetation. This diverse group includes armored ankylosaurs, long-necked sauropods, duck-billed hadrosaurs, and horned ceratopsians.",
     "dinosaurs": [
       {
         "name": "Ankylodocus",
@@ -397,7 +406,7 @@
       }
     ]
   }
-}</pre>
+]</pre>
     </section>
 
     <section class="endpoint">
@@ -414,9 +423,9 @@
         </thead>
         <tbody>
           <tr>
-            <td style="padding:8px">[family_name]</td>
-            <td style="padding:8px">object</td>
-            <td style="padding:8px">Taxonomic family (e.g., Tyrannosauridae, Ceratopsidae)</td>
+            <td style="padding:8px">name</td>
+            <td style="padding:8px">string</td>
+            <td style="padding:8px">Taxonomic family name (e.g., Tyrannosauridae, Ceratopsidae)</td>
           </tr>
           <tr>
             <td style="padding:8px">dinosaurs</td>
@@ -424,17 +433,17 @@
             <td style="padding:8px">Array of dinosaurs in this family</td>
           </tr>
           <tr>
-            <td style="padding:8px">name</td>
+            <td style="padding:8px">dinosaurs[].name</td>
             <td style="padding:8px">string</td>
             <td style="padding:8px">Dinosaur name</td>
           </tr>
           <tr>
-            <td style="padding:8px">slug</td>
+            <td style="padding:8px">dinosaurs[].slug</td>
             <td style="padding:8px">string</td>
             <td style="padding:8px">URL-friendly identifier</td>
           </tr>
           <tr>
-            <td style="padding:8px">image</td>
+            <td style="padding:8px">dinosaurs[].image</td>
             <td style="padding:8px">string</td>
             <td style="padding:8px">Relative path to image</td>
           </tr>
@@ -443,8 +452,9 @@
       </div>
 
       <h3>Ejemplo</h3>
-      <pre>{
-  "Tyrannosauridae": {
+      <pre>[
+  {
+    "name": "Tyrannosauridae",
     "dinosaurs": [
       {
         "name": "Albertosaurus",
@@ -458,7 +468,8 @@
       }
     ]
   },
-  "Ceratopsidae": {
+  {
+    "name": "Ceratopsidae",
     "dinosaurs": [
       {
         "name": "Triceratops",
@@ -467,7 +478,7 @@
       }
     ]
   }
-}</pre>
+]</pre>
       </div>
     </section>
 
@@ -485,27 +496,32 @@
         </thead>
         <tbody>
           <tr>
-            <td style="padding:8px">[habitat_type]</td>
-            <td style="padding:8px">object</td>
-            <td style="padding:8px">Habitat category (Terrestrial, Aquatic, Aerial)</td>
+            <td style="padding:8px">name</td>
+            <td style="padding:8px">string</td>
+            <td style="padding:8px">Habitat category name (Terrestrial, Aquatic, Aerial)</td>
+          </tr>
+          <tr>
+            <td style="padding:8px">description</td>
+            <td style="padding:8px">string</td>
+            <td style="padding:8px">Detailed description of the habitat type</td>
           </tr>
           <tr>
             <td style="padding:8px">dinosaurs</td>
             <td style="padding:8px">array[object]</td>
-            <td style="padding:8px">Array of dinosaurs in this habitat</td>
+            <td style="padding:8px">Array of creatures in this habitat</td>
           </tr>
           <tr>
-            <td style="padding:8px">name</td>
+            <td style="padding:8px">dinosaurs[].name</td>
             <td style="padding:8px">string</td>
-            <td style="padding:8px">Dinosaur name</td>
+            <td style="padding:8px">Creature name</td>
           </tr>
           <tr>
-            <td style="padding:8px">slug</td>
+            <td style="padding:8px">dinosaurs[].slug</td>
             <td style="padding:8px">string</td>
             <td style="padding:8px">URL-friendly identifier</td>
           </tr>
           <tr>
-            <td style="padding:8px">image</td>
+            <td style="padding:8px">dinosaurs[].image</td>
             <td style="padding:8px">string</td>
             <td style="padding:8px">Relative path to image</td>
           </tr>
@@ -514,8 +530,10 @@
     </div>
 
       <h3>Ejemplo</h3>
-      <pre>{
-  "Terrestrial": {
+      <pre>[
+  {
+    "name": "Terrestrial",
+    "description": "Land-dwelling dinosaurs that lived and thrived on solid ground. This diverse group includes the true dinosaurs - from massive sauropods and armored ankylosaurs to swift raptors and mighty tyrannosaurs.",
     "dinosaurs": [
       {
         "name": "Acrocanthosaurus",
@@ -529,7 +547,9 @@
       }
     ]
   },
-  "Aquatic": {
+  {
+    "name": "Aquatic",
+    "description": "Marine reptiles that dominated the ancient seas and oceans. Note: While commonly referred to as 'dinosaurs', these creatures are technically marine reptiles, not true dinosaurs.",
     "dinosaurs": [
       {
         "name": "Mosasaurus",
@@ -538,7 +558,9 @@
       }
     ]
   },
-  "Aerial": {
+  {
+    "name": "Aerial",
+    "description": "Flying reptiles that ruled the prehistoric skies. Important: Pterosaurs are not technically dinosaurs but a separate group of flying reptiles.",
     "dinosaurs": [
       {
         "name": "Pteranodon",
@@ -547,7 +569,7 @@
       }
     ]
   }
-}</pre>
+]</pre>
       </div>
     </section>
 
@@ -565,8 +587,8 @@
         </thead>
         <tbody>
           <tr>
-            <td style="padding:8px">[dig_site_name]</td>
-            <td style="padding:8px">object</td>
+            <td style="padding:8px">name</td>
+            <td style="padding:8px">string</td>
             <td style="padding:8px">Excavation site/geological formation name</td>
           </tr>
           <tr>
@@ -575,17 +597,17 @@
             <td style="padding:8px">Array of dinosaurs found at this dig site</td>
           </tr>
           <tr>
-            <td style="padding:8px">name</td>
+            <td style="padding:8px">dinosaurs[].name</td>
             <td style="padding:8px">string</td>
             <td style="padding:8px">Dinosaur name</td>
           </tr>
           <tr>
-            <td style="padding:8px">slug</td>
+            <td style="padding:8px">dinosaurs[].slug</td>
             <td style="padding:8px">string</td>
             <td style="padding:8px">URL-friendly identifier</td>
           </tr>
           <tr>
-            <td style="padding:8px">image</td>
+            <td style="padding:8px">dinosaurs[].image</td>
             <td style="padding:8px">string</td>
             <td style="padding:8px">Relative path to image</td>
           </tr>
@@ -594,31 +616,33 @@
     </div>
 
       <h3>Ejemplo</h3>
-      <pre>{
-  "Hell Creek Formation C": {
+      <pre>[
+  {
+    "name": "Antlers Formation",
     "dinosaurs": [
       {
-        "name": "Tyrannosaurus rex",
-        "slug": "tyrannosaurus-rex",
-        "image": "/images/tyrannosaurus-rex.webp"
+        "name": "Acrocanthosaurus",
+        "slug": "acrocanthosaurus",
+        "image": "/images/acrocanthosaurus.webp"
+      },
+      {
+        "name": "Quetzalcoatlus",
+        "slug": "quetzalcoatlus",
+        "image": "/images/quetzalcoatlus.webp"
       }
     ]
   },
-  "Morrison Formation C": {
+  {
+    "name": "Horseshoe Canyon",
     "dinosaurs": [
       {
-        "name": "Brachiosaurus",
-        "slug": "brachiosaurus",
-        "image": "/images/brachiosaurus.webp"
-      },
-      {
-        "name": "Diplodocus",
-        "slug": "diplodocus",
-        "image": "/images/diplodocus.webp"
+        "name": "Albertosaurus",
+        "slug": "albertosaurus",
+        "image": "/images/albertosaurus.webp"
       }
     ]
   }
-}</pre>
+]</pre>
       </div>
     </section>
 
