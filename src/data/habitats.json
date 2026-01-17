@@ -1,6 +1,7 @@
 [
   {
     "name": "Terrestrial",
+    "description": "Land-dwelling dinosaurs that lived and thrived on solid ground. This diverse group includes the true dinosaurs - from massive sauropods and armored ankylosaurs to swift raptors and mighty tyrannosaurs. They adapted to various terrestrial environments including forests, plains, swamps, and deserts throughout the Mesozoic Era.",
     "dinosaurs": [
       {
         "name": "Acrocanthosaurus",
@@ -406,6 +407,7 @@
   },
   {
     "name": "Aquatic",
+    "description": "Marine reptiles that dominated the ancient seas and oceans. Note: While commonly referred to as 'dinosaurs', these creatures - including plesiosaurs, ichthyosaurs, and mosasaurs - are technically marine reptiles, not true dinosaurs. They evolved separately to thrive in aquatic environments, developing streamlined bodies, flippers, and other adaptations for underwater life.",
     "dinosaurs": [
       {
         "name": "Attenborosaurus",
@@ -446,6 +448,7 @@
   },
   {
     "name": "Aerial",
+    "description": "Flying reptiles that ruled the prehistoric skies. Important: Pterosaurs, while contemporaries of dinosaurs and often called 'flying dinosaurs', are not technically dinosaurs but a separate group of flying reptiles. They were the first vertebrates to achieve powered flight, with wingspans ranging from small to massive, and filled various ecological niches in aerial environments.",
     "dinosaurs": [
       {
         "name": "Caiuajara",

@@ -1,6 +1,7 @@
 [
   {
     "name": "Carnivore",
+    "description": "Meat-eating predators that hunt and consume other animals. These fearsome dinosaurs feature sharp teeth, powerful jaws, and agile bodies designed for hunting. They range from massive apex predators to smaller pack hunters, requiring live prey or fresh meat to survive.",
     "dinosaurs": [
       {
         "name": "Acrocanthosaurus",
@@ -216,6 +217,7 @@
   },
   {
     "name": "Herbivore",
+    "description": "Plant-eating dinosaurs that feed exclusively on vegetation. This diverse group includes armored ankylosaurs, long-necked sauropods, duck-billed hadrosaurs, and horned ceratopsians. They possess specialized teeth and digestive systems adapted for processing plant matter, ranging from leaves and ferns to tough fibrous vegetation.",
     "dinosaurs": [
       {
         "name": "Ankylodocus",
@@ -436,6 +438,7 @@
   },
   {
     "name": "Piscivore",
+    "description": "Fish-eating specialists adapted for aquatic or semi-aquatic lifestyles. This group includes spinosaurids with crocodile-like snouts, flying pterosaurs, and marine reptiles. They possess unique adaptations such as conical teeth for gripping slippery prey, long jaws, and often spend time near or in water bodies hunting for fish and other aquatic creatures.",
     "dinosaurs": [
       {
         "name": "Attenborosaurus",
@@ -546,6 +549,7 @@
   },
   {
     "name": "Omnivore",
+    "description": "Versatile eaters with diverse diets including both plants and small animals. These dinosaurs feature adaptable teeth and digestive systems allowing them to consume vegetation, eggs, insects, and small creatures. Their flexible feeding habits give them an advantage in varying environments and food availability.",
     "dinosaurs": [
       {
         "name": "Deinocheirus",
