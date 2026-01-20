@@ -1,6 +1,7 @@
 [
   {
     "name": "Abrahamskraal Formation",
+    "zone": "Africa",
     "dinosaurs": [
       {
         "name": "Lystrosaurus",
@@ -11,6 +12,7 @@
   },
   {
     "name": "Baynshire Formation",
+    "zone": "Asia",
     "dinosaurs": [
       {
         "name": "Deinocheirus",
@@ -21,6 +23,7 @@
   },
   {
     "name": "Allen Formation",
+    "zone": "South America",
     "dinosaurs": [
       {
         "name": "Austroraptor",
@@ -31,6 +34,7 @@
   },
   {
     "name": "Antlers Formation",
+    "zone": "North America",
     "dinosaurs": [
       {
         "name": "Acrocanthosaurus",
@@ -46,6 +50,7 @@
   },
   {
     "name": "Bahariya Formation",
+    "zone": "Africa",
     "dinosaurs": [
       {
         "name": "Spinosaurus",
@@ -56,6 +61,7 @@
   },
   {
     "name": "Bayan Mandahu Formation",
+    "zone": "Asia",
     "dinosaurs": [
       {
         "name": "Protoceratops",
@@ -66,6 +72,7 @@
   },
   {
     "name": "Bissekty Formation",
+    "zone": "Asia",
     "dinosaurs": [
       {
         "name": "Archaeornithomimus",
@@ -76,6 +83,7 @@
   },
   {
     "name": "Bone Valley Formation",
+    "zone": "North America",
     "dinosaurs": [
       {
         "name": "Megalodon",
@@ -86,6 +94,7 @@
   },
   {
     "name": "Canjuers",
+    "zone": "Europe",
     "dinosaurs": [
       {
         "name": "Compsognathus",
@@ -96,6 +105,7 @@
   },
   {
     "name": "Candeleros Formation",
+    "zone": "South America",
     "dinosaurs": [
       {
         "name": "Giganotosaurus",
@@ -106,6 +116,7 @@
   },
   {
     "name": "Cedar Mountain Formation",
+    "zone": "North America",
     "dinosaurs": [
       {
         "name": "Deinonychus",
@@ -131,6 +142,7 @@
   },
   {
     "name": "Cerro Barcino Formation",
+    "zone": "South America",
     "dinosaurs": [
       {
         "name": "Patagotitan",
@@ -141,6 +153,7 @@
   },
   {
     "name": "Cerro Fortaleza Formation",
+    "zone": "South America",
     "dinosaurs": [
       {
         "name": "Dreadnoughtus",
@@ -151,6 +164,7 @@
   },
   {
     "name": "Chenini Formation",
+    "zone": "Africa",
     "dinosaurs": [
       {
         "name": "Spinosaurus",
@@ -160,28 +174,19 @@
     ]
   },
   {
-    "name": "Cleveland Lloyd Dinosaur",
+    "name": "Cleveland Lloyd Dinosaur Quarry",
+    "zone": "North America",
     "dinosaurs": [
       {
         "name": "Allosaurus",
         "slug": "allosaurus",
         "image": "/images/allosaurus.webp"
-      }
-    ]
-  },
-  {
-    "name": "Cleveland Lloyd Dinosaur Quarry A",
-    "dinosaurs": [
+      },
       {
         "name": "Brachiosaurus ",
         "slug": "brachiosaurus",
         "image": "/images/brachiosaurus.webp"
-      }
-    ]
-  },
-  {
-    "name": "Cleveland Lloyd Dinosaur Quarry B",
-    "dinosaurs": [
+      },
       {
         "name": "Stegosaurus",
         "slug": "stegosaurus",
@@ -191,6 +196,7 @@
   },
   {
     "name": "Cloverly Formation",
+    "zone": "North America",
     "dinosaurs": [
       {
         "name": "Deinonychus",
@@ -205,28 +211,19 @@
     ]
   },
   {
-    "name": "Dinosaur National",
+    "name": "Dinosaur National Monument",
+    "zone": "North America",
     "dinosaurs": [
       {
         "name": "Apatosaurus",
         "slug": "apatosaurus",
         "image": "/images/apatosaurus.webp"
-      }
-    ]
-  },
-  {
-    "name": "Dinosaur National Monument A",
-    "dinosaurs": [
+      },
       {
         "name": "Diplodocus",
         "slug": "diplodocus",
         "image": "/images/diplodocus.webp"
-      }
-    ]
-  },
-  {
-    "name": "Dinosaur National Monument B",
-    "dinosaurs": [
+      },
       {
         "name": "Stegosaurus",
         "slug": "stegosaurus",
@@ -235,7 +232,8 @@
     ]
   },
   {
-    "name": "Dinosaur Park Formation A",
+    "name": "Dinosaur Park Formation",
+    "zone": "North America",
     "dinosaurs": [
       {
         "name": "Ornithomimus",
@@ -246,12 +244,7 @@
         "name": "Struthiomimus",
         "slug": "struthiomimus",
         "image": "/images/struthiomimus.webp"
-      }
-    ]
-  },
-  {
-    "name": "Dinosaur Park Formation B",
-    "dinosaurs": [
+      },
       {
         "name": "Chasmosaurus",
         "slug": "chasmosaurus",
@@ -281,6 +274,7 @@
   },
   {
     "name": "Djadochta Formation",
+    "zone": "Asia",
     "dinosaurs": [
       {
         "name": "Oviraptor",
@@ -291,6 +285,7 @@
   },
   {
     "name": "Egg Mountain",
+    "zone": "North America",
     "dinosaurs": [
       {
         "name": "Maiasaura",
@@ -301,6 +296,7 @@
   },
   {
     "name": "Formation B",
+    "zone": "North America",
     "dinosaurs": [
       {
         "name": "Albertosaurus",
@@ -311,6 +307,7 @@
   },
   {
     "name": "Fox Hills Formation",
+    "zone": "North America",
     "dinosaurs": [
       {
         "name": "Mosasaurus",
@@ -320,18 +317,14 @@
     ]
   },
   {
-    "name": "Frenchman Formation A",
+    "name": "Frenchman Formation",
+    "zone": "North America",
     "dinosaurs": [
       {
         "name": "Stygimoloch",
         "slug": "stygimoloch",
         "image": "/images/stygimoloch.webp"
-      }
-    ]
-  },
-  {
-    "name": "Frenchman Formation B",
-    "dinosaurs": [
+      },
       {
         "name": "Tyrannosaurus rex",
         "slug": "tyrannosaurus-rex",
@@ -341,6 +334,7 @@
   },
   {
     "name": "Garden Park",
+    "zone": "North America",
     "dinosaurs": [
       {
         "name": "Brachiosaurus ",
@@ -356,6 +350,7 @@
   },
   {
     "name": "Ghost Ranch",
+    "zone": "North America",
     "dinosaurs": [
       {
         "name": "Coelophysis",
@@ -366,6 +361,7 @@
   },
   {
     "name": "Guodikeng Formation",
+    "zone": "Asia",
     "dinosaurs": [
       {
         "name": "Lystrosaurus",
@@ -375,18 +371,14 @@
     ]
   },
   {
-    "name": "Hell Creek Formation A",
+    "name": "Hell Creek Formation",
+    "zone": "North America",
     "dinosaurs": [
       {
         "name": "Pachycephalosaurus",
         "slug": "pachycephalosaurus",
         "image": "/images/pachycephalosaurus.webp"
-      }
-    ]
-  },
-  {
-    "name": "Hell Creek Formation B",
-    "dinosaurs": [
+      },
       {
         "name": "Stygimoloch",
         "slug": "stygimoloch",
@@ -396,12 +388,7 @@
         "name": "Triceratops",
         "slug": "triceratops",
         "image": "/images/triceratops.webp"
-      }
-    ]
-  },
-  {
-    "name": "Hell Creek Formation C",
-    "dinosaurs": [
+      },
       {
         "name": "Tyrannosaurus rex",
         "slug": "tyrannosaurus-rex",
@@ -410,7 +397,8 @@
     ]
   },
   {
-    "name": "Horseshoe Canyon",
+    "name": "Horseshoe Canyon Formation",
+    "zone": "North America",
     "dinosaurs": [
       {
         "name": "Albertosaurus",
@@ -421,12 +409,7 @@
         "name": "Atrociraptor",
         "slug": "atrociraptor",
         "image": "/images/atrociraptor.webp"
-      }
-    ]
-  },
-  {
-    "name": "Horseshoe Canyon Formation A",
-    "dinosaurs": [
+      },
       {
         "name": "Chasmosaurus",
         "slug": "chasmosaurus",
@@ -441,6 +424,7 @@
   },
   {
     "name": "Hythe Formation",
+    "zone": "Europe",
     "dinosaurs": [
       {
         "name": "Iguanodon",
@@ -451,6 +435,7 @@
   },
   {
     "name": "Iguanodon Mine",
+    "zone": "Europe",
     "dinosaurs": [
       {
         "name": "Iguanodon",
@@ -461,6 +446,7 @@
   },
   {
     "name": "Iren Dabasu Formation",
+    "zone": "Asia",
     "dinosaurs": [
       {
         "name": "Archaeornithomimus",
@@ -476,6 +462,7 @@
   },
   {
     "name": "Ischigualasto Formation",
+    "zone": "South America",
     "dinosaurs": [
       {
         "name": "Herrerasaurus",
@@ -486,6 +473,7 @@
   },
   {
     "name": "Isle of Wight",
+    "zone": "Europe",
     "dinosaurs": [
       {
         "name": "Baryonyx",
@@ -501,6 +489,7 @@
   },
   {
     "name": "Javelina Formation",
+    "zone": "North America",
     "dinosaurs": [
       {
         "name": "Quetzalcoatlus",
@@ -511,6 +500,7 @@
   },
   {
     "name": "Judith River Formation",
+    "zone": "North America",
     "dinosaurs": [
       {
         "name": "Lokiceratops",
@@ -525,18 +515,14 @@
     ]
   },
   {
-    "name": "Jurassic Coast A",
+    "name": "Jurassic Coast",
+    "zone": "Europe",
     "dinosaurs": [
       {
         "name": "Dimorphodon",
         "slug": "dimorphodon",
         "image": "/images/dimorphodon.webp"
-      }
-    ]
-  },
-  {
-    "name": "Jurassic Coast B",
-    "dinosaurs": [
+      },
       {
         "name": "Attenborosaurus",
         "slug": "attenborosaurus",
@@ -551,6 +537,7 @@
   },
   {
     "name": "Kaiparowits Formation",
+    "zone": "North America",
     "dinosaurs": [
       {
         "name": "Nasutoceratops",
@@ -561,6 +548,7 @@
   },
   {
     "name": "Kayenta Formation",
+    "zone": "North America",
     "dinosaurs": [
       {
         "name": "Dilophosaurus",
@@ -571,6 +559,7 @@
   },
   {
     "name": "Kirtland Formation",
+    "zone": "North America",
     "dinosaurs": [
       {
         "name": "Parasaurolophus",
@@ -581,6 +570,7 @@
   },
   {
     "name": "La Bouchard",
+    "zone": "Europe",
     "dinosaurs": [
       {
         "name": "Pyroraptor",
@@ -591,6 +581,7 @@
   },
   {
     "name": "La Colonia Formation",
+    "zone": "South America",
     "dinosaurs": [
       {
         "name": "Carnotaurus",
@@ -601,6 +592,7 @@
   },
   {
     "name": "La Huérguina Formation",
+    "zone": "Europe",
     "dinosaurs": [
       {
         "name": "Concavenator",
@@ -610,7 +602,8 @@
     ]
   },
   {
-    "name": "Lance Formation Site A",
+    "name": "Lance Formation",
+    "zone": "North America",
     "dinosaurs": [
       {
         "name": "Edmontosaurus",
@@ -626,12 +619,7 @@
         "name": "Stygimoloch",
         "slug": "stygimoloch",
         "image": "/images/stygimoloch.webp"
-      }
-    ]
-  },
-  {
-    "name": "Lance Formation Site B",
-    "dinosaurs": [
+      },
       {
         "name": "Corythosaurus",
         "slug": "corythosaurus",
@@ -646,12 +634,7 @@
         "name": "Triceratops",
         "slug": "triceratops",
         "image": "/images/triceratops.webp"
-      }
-    ]
-  },
-  {
-    "name": "Lance Formation Site C",
-    "dinosaurs": [
+      },
       {
         "name": "Ankylosaurus",
         "slug": "ankylosaurus",
@@ -666,6 +649,7 @@
   },
   {
     "name": "Laramie Formation",
+    "zone": "North America",
     "dinosaurs": [
       {
         "name": "Styracosaurus",
@@ -676,6 +660,7 @@
   },
   {
     "name": "Lost Burro Gap",
+    "zone": "North America",
     "dinosaurs": [
       {
         "name": "Dunkleosteus",
@@ -685,18 +670,14 @@
     ]
   },
   {
-    "name": "Lourinhã Formation A",
+    "name": "Lourinhã Formation",
+    "zone": "Europe",
     "dinosaurs": [
       {
         "name": "Ceratosaurus",
         "slug": "ceratosaurus",
         "image": "/images/ceratosaurus.webp"
-      }
-    ]
-  },
-  {
-    "name": "Lourinhã Formation B",
-    "dinosaurs": [
+      },
       {
         "name": "Stegosaurus",
         "slug": "stegosaurus",
@@ -706,6 +687,7 @@
   },
   {
     "name": "Maastricht Formation",
+    "zone": "Europe",
     "dinosaurs": [
       {
         "name": "Mosasaurus",
@@ -716,6 +698,7 @@
   },
   {
     "name": "Mackunda Formation",
+    "zone": "Australia",
     "dinosaurs": [
       {
         "name": "Muttaburrasaurus",
@@ -726,6 +709,7 @@
   },
   {
     "name": "Minchinhampton",
+    "zone": "Europe",
     "dinosaurs": [
       {
         "name": "Proceratosaurus",
@@ -736,6 +720,7 @@
   },
   {
     "name": "Monument A",
+    "zone": "North America",
     "dinosaurs": [
       {
         "name": "Apatosaurus",
@@ -745,18 +730,14 @@
     ]
   },
   {
-    "name": "Morrison Formation A",
+    "name": "Morrison Formation",
+    "zone": "North America",
     "dinosaurs": [
       {
         "name": "Ceratosaurus",
         "slug": "ceratosaurus",
         "image": "/images/ceratosaurus.webp"
-      }
-    ]
-  },
-  {
-    "name": "Morrison Formation B",
-    "dinosaurs": [
+      },
       {
         "name": "Apatosaurus",
         "slug": "apatosaurus",
@@ -766,12 +747,7 @@
         "name": "Dryosaurus",
         "slug": "dryosaurus",
         "image": "/images/dryosaurus.webp"
-      }
-    ]
-  },
-  {
-    "name": "Morrison Formation C",
-    "dinosaurs": [
+      },
       {
         "name": "Brachiosaurus ",
         "slug": "brachiosaurus",
@@ -786,12 +762,7 @@
         "name": "Sauropelta",
         "slug": "sauropelta",
         "image": "/images/sauropelta.webp"
-      }
-    ]
-  },
-  {
-    "name": "Morrison Formation D",
-    "dinosaurs": [
+      },
       {
         "name": "Allosaurus",
         "slug": "allosaurus",
@@ -801,6 +772,7 @@
   },
   {
     "name": "Nanxiong Formation",
+    "zone": "Asia",
     "dinosaurs": [
       {
         "name": "Qianzhousaurus",
@@ -810,7 +782,8 @@
     ]
   },
   {
-    "name": "Nemegt Formation A",
+    "name": "Nemegt Formation",
+    "zone": "Asia",
     "dinosaurs": [
       {
         "name": "Deinocheirus",
@@ -831,12 +804,7 @@
         "name": "Parasaurolophus",
         "slug": "parasaurolophus",
         "image": "/images/parasaurolophus.webp"
-      }
-    ]
-  },
-  {
-    "name": "Nemegt Formation B",
-    "dinosaurs": [
+      },
       {
         "name": "Homalocephale",
         "slug": "homalocephale",
@@ -856,6 +824,7 @@
   },
   {
     "name": "Niobrara Formation",
+    "zone": "North America",
     "dinosaurs": [
       {
         "name": "Geosternbergia",
@@ -871,6 +840,7 @@
   },
   {
     "name": "Oshih Formation",
+    "zone": "Asia",
     "dinosaurs": [
       {
         "name": "Psittacosaurus",
@@ -881,6 +851,7 @@
   },
   {
     "name": "Oxford Clay",
+    "zone": "Europe",
     "dinosaurs": [
       {
         "name": "Metriacanthosaurus",
@@ -896,6 +867,7 @@
   },
   {
     "name": "Peay Sandstone Member",
+    "zone": "North America",
     "dinosaurs": [
       {
         "name": "Nodosaurus",
@@ -906,6 +878,7 @@
   },
   {
     "name": "Pierre Shale",
+    "zone": "North America",
     "dinosaurs": [
       {
         "name": "Pteranodon",
@@ -916,6 +889,7 @@
   },
   {
     "name": "Plottier Formation",
+    "zone": "South America",
     "dinosaurs": [
       {
         "name": "Thanatosdrakon",
@@ -926,6 +900,7 @@
   },
   {
     "name": "Prince Creek Formation",
+    "zone": "North America",
     "dinosaurs": [
       {
         "name": "Troodon",
@@ -936,6 +911,7 @@
   },
   {
     "name": "Quarry B",
+    "zone": "North America",
     "dinosaurs": [
       {
         "name": "Allosaurus",
@@ -946,6 +922,7 @@
   },
   {
     "name": "Red Beds",
+    "zone": "North America",
     "dinosaurs": [
       {
         "name": "Dimetrodon",
@@ -956,6 +933,7 @@
   },
   {
     "name": "Romualdo Formation",
+    "zone": "South America",
     "dinosaurs": [
       {
         "name": "Irritator",
@@ -975,7 +953,8 @@
     ]
   },
   {
-    "name": "Scollard Formation A",
+    "name": "Scollard Formation",
+    "zone": "North America",
     "dinosaurs": [
       {
         "name": "Chasmosaurus",
@@ -991,12 +970,7 @@
         "name": "Pachycephalosaurus",
         "slug": "pachycephalosaurus",
         "image": "/images/pachycephalosaurus.webp"
-      }
-    ]
-  },
-  {
-    "name": "Scollard Formation B",
-    "dinosaurs": [
+      },
       {
         "name": "Ankylosaurus",
         "slug": "ankylosaurus",
@@ -1006,6 +980,7 @@
   },
   {
     "name": "Shishugou Formation",
+    "zone": "Asia",
     "dinosaurs": [
       {
         "name": "Microceratus",
@@ -1016,6 +991,7 @@
   },
   {
     "name": "Smokejack Clay Pit",
+    "zone": "Europe",
     "dinosaurs": [
       {
         "name": "Baryonyx",
@@ -1026,6 +1002,7 @@
   },
   {
     "name": "Smoky Hill Chalk",
+    "zone": "North America",
     "dinosaurs": [
       {
         "name": "Pteranodon",
@@ -1036,6 +1013,7 @@
   },
   {
     "name": "Solnhofen Formation",
+    "zone": "Europe",
     "dinosaurs": [
       {
         "name": "Compsognathus",
@@ -1046,6 +1024,7 @@
   },
   {
     "name": "Tegama Beds",
+    "zone": "Africa",
     "dinosaurs": [
       {
         "name": "Suchomimus",
@@ -1056,6 +1035,7 @@
   },
   {
     "name": "Tendaguru Formation",
+    "zone": "Africa",
     "dinosaurs": [
       {
         "name": "Kentrosaurus",
@@ -1066,6 +1046,7 @@
   },
   {
     "name": "Toolebuc Formation",
+    "zone": "Australia",
     "dinosaurs": [
       {
         "name": "Kronosaurus",
@@ -1076,6 +1057,7 @@
   },
   {
     "name": "Twin Mountains Formation",
+    "zone": "North America",
     "dinosaurs": [
       {
         "name": "Acrocanthosaurus",
@@ -1091,6 +1073,7 @@
   },
   {
     "name": "Udurchukan Formation",
+    "zone": "Asia",
     "dinosaurs": [
       {
         "name": "Olorotitan",
@@ -1101,6 +1084,7 @@
   },
   {
     "name": "Xingezhuang Formation",
+    "zone": "Asia",
     "dinosaurs": [
       {
         "name": "Sinoceratops",
@@ -1111,6 +1095,7 @@
   },
   {
     "name": "Yixian Formation",
+    "zone": "Asia",
     "dinosaurs": [
       {
         "name": "Yutyrannus",
@@ -1121,6 +1106,7 @@
   },
   {
     "name": "Yuliangze Formation",
+    "zone": "Asia",
     "dinosaurs": [
       {
         "name": "Tsintaosaurus",
@@ -1130,18 +1116,14 @@
     ]
   },
   {
-    "name": "Ziliujing Formation A",
+    "name": "Ziliujing Formation",
+    "zone": "Asia",
     "dinosaurs": [
       {
         "name": "Chungkingosaurus",
         "slug": "chungkingosaurus",
         "image": "/images/chungkingosaurus.webp"
-      }
-    ]
-  },
-  {
-    "name": "Ziliujing Formation B",
-    "dinosaurs": [
+      },
       {
         "name": "Gigantspinosaurus",
         "slug": "gigantspinosaurus",

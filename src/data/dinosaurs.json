@@ -82,8 +82,7 @@
       }
     ],
     "dig_sites": [
-      "Horseshoe Canyon",
-      "Formation B"
+      "Horseshoe Canyon Formation"
     ],
     "security_rating": 5,
     "minimum_population": 1,
@@ -138,9 +137,8 @@
       }
     ],
     "dig_sites": [
-      "Cleveland Lloyd Dinosaur",
-      "Quarry B",
-      "Morrison Formation D"
+      "Cleveland Lloyd Dinosaur Quarry",
+      "Morrison Formation"
     ],
     "security_rating": 5,
     "minimum_population": 1,
@@ -242,8 +240,8 @@
       }
     ],
     "dig_sites": [
-      "Lance Formation Site C",
-      "Scollard Formation B"
+      "Lance Formation",
+      "Scollard Formation"
     ],
     "security_rating": 6,
     "minimum_population": 1,
@@ -303,9 +301,8 @@
       }
     ],
     "dig_sites": [
-      "Dinosaur National",
-      "Monument A",
-      "Morrison Formation B"
+      "Dinosaur National Monument",
+      "Morrison Formation"
     ],
     "security_rating": 3,
     "minimum_population": 1,
@@ -423,8 +420,7 @@
       }
     ],
     "dig_sites": [
-      "Horseshoe Canyon",
-      "Formation A"
+      "Horseshoe Canyon Formation"
     ],
     "security_rating": 5,
     "minimum_population": 2,
@@ -474,7 +470,7 @@
       }
     ],
     "dig_sites": [
-      "Jurassic Coast B"
+      "Jurassic Coast"
     ],
     "security_rating": 1,
     "minimum_population": 3,
@@ -579,10 +575,9 @@
       }
     ],
     "dig_sites": [
-      "Cleveland Lloyd Dinosaur",
-      "Quarry A",
+      "Cleveland Lloyd Dinosaur Quarry",
       "Garden Park",
-      "Morrison Formation C"
+      "Morrison Formation"
     ],
     "security_rating": 4,
     "minimum_population": 1,
@@ -731,8 +726,8 @@
       }
     ],
     "dig_sites": [
-      "Lourinhã Formation A",
-      "Morrison Formation A"
+      "Lourinhã Formation",
+      "Morrison Formation"
     ],
     "security_rating": 5,
     "minimum_population": 2,
@@ -788,10 +783,9 @@
       }
     ],
     "dig_sites": [
-      "Scollard Formation A",
-      "Horseshoe Canyon",
-      "Formation A",
-      "Dinosaur Park Formation B"
+      "Scollard Formation",
+      "Horseshoe Canyon Formation",
+      "Dinosaur Park Formation"
     ],
     "security_rating": 3,
     "minimum_population": 1,
@@ -847,7 +841,7 @@
       }
     ],
     "dig_sites": [
-      "Ziliujing Formation A"
+      "Ziliujing Formation"
     ],
     "security_rating": 5,
     "minimum_population": 1,
@@ -1071,9 +1065,9 @@
       }
     ],
     "dig_sites": [
-      "Dinosaur Park Formation B",
-      "Lance Formation Site B",
-      "Scollard Formation A"
+      "Dinosaur Park Formation",
+      "Lance Formation",
+      "Scollard Formation"
     ],
     "security_rating": 2,
     "minimum_population": 4,
@@ -1294,7 +1288,7 @@
       }
     ],
     "dig_sites": [
-      "Jurassic Coast A"
+      "Jurassic Coast"
     ],
     "security_rating": 1,
     "minimum_population": 4,
@@ -1348,10 +1342,9 @@
       }
     ],
     "dig_sites": [
-      "Dinosaur National ",
-      "Monument A",
+      "Dinosaur National Monument",
       "Garden Park",
-      "Morrison Formation C"
+      "Morrison Formation"
     ],
     "security_rating": 3,
     "minimum_population": 2,
@@ -1468,7 +1461,7 @@
       }
     ],
     "dig_sites": [
-      "Morrison Formation B"
+      "Morrison Formation"
     ],
     "security_rating": 1,
     "minimum_population": 3,
@@ -1573,9 +1566,8 @@
       }
     ],
     "dig_sites": [
-      "Horseshoe Canyon",
-      "Formation A",
-      "Lance Formation Site A"
+      "Horseshoe Canyon Formation",
+      "Lance Formation"
     ],
     "security_rating": 3,
     "minimum_population": 4,
@@ -1631,7 +1623,7 @@
       }
     ],
     "dig_sites": [
-      "Nemegt Formation A"
+      "Nemegt Formation"
     ],
     "security_rating": 1,
     "minimum_population": 6,
@@ -1796,7 +1788,7 @@
       }
     ],
     "dig_sites": [
-      "Ziliujing Formation B"
+      "Ziliujing Formation"
     ],
     "security_rating": 2,
     "minimum_population": 2,
@@ -1940,7 +1932,7 @@
       }
     ],
     "dig_sites": [
-      "Nemegt Formation B"
+      "Nemegt Formation"
     ],
     "security_rating": 1,
     "minimum_population": 7,
@@ -1995,7 +1987,7 @@
       }
     ],
     "dig_sites": [
-      "Jurassic Coast B"
+      "Jurassic Coast"
     ],
     "security_rating": 1,
     "minimum_population": 6,
@@ -2459,7 +2451,7 @@
       }
     ],
     "dig_sites": [
-      "Ziliujing Formation B"
+      "Ziliujing Formation"
     ],
     "security_rating": 4,
     "minimum_population": 1,
@@ -3006,7 +2998,7 @@
       }
     ],
     "dig_sites": [
-      "Dinosaur Park Formation A"
+      "Dinosaur Park Formation"
     ],
     "habitat": "Terrestrial",
     "game": "Base game"
@@ -3040,7 +3032,7 @@
     ],
     "dig_sites": [
       "Djadochta Formation",
-      "Nemegt Formation A"
+      "Nemegt Formation"
     ],
     "security_rating": 1,
     "minimum_population": 6,
@@ -3095,9 +3087,9 @@
       }
     ],
     "dig_sites": [
-      "Hell Creek Formation A",
-      "Lance Formation Site B",
-      "Scollard Formation A"
+      "Hell Creek Formation",
+      "Lance Formation",
+      "Scollard Formation"
     ],
     "security_rating": 3,
     "minimum_population": 3,
@@ -3151,9 +3143,9 @@
       }
     ],
     "dig_sites": [
-      "Dinosaur Park Formation B",
+      "Dinosaur Park Formation",
       "Kirtland Formation",
-      "Nemegt Formation A"
+      "Nemegt Formation"
     ],
     "security_rating": 3,
     "minimum_population": 4,
@@ -3624,7 +3616,7 @@
     "dig_sites": [
       "Cedar Mountain Formation",
       "Cloverly Formation",
-      "Morrison Formation C"
+      "Morrison Formation"
     ],
     "security_rating": 2,
     "minimum_population": 1,
@@ -3994,9 +3986,9 @@
       }
     ],
     "dig_sites": [
-      "Cleveland Lloyd Dinosaur Quarry B",
-      "Dinosaur National Monument B",
-      "Lourinhã Formation B"
+      "Cleveland Lloyd Dinosaur Quarry",
+      "Dinosaur National Monument",
+      "Lourinhã Formation"
     ],
     "security_rating": 5,
     "minimum_population": 4,
@@ -4056,8 +4048,8 @@
       }
     ],
     "dig_sites": [
-      "Dinosaur Park Formation A",
-      "Lance Formation Site A"
+      "Dinosaur Park Formation",
+      "Lance Formation"
     ],
     "security_rating": 1,
     "minimum_population": 3,
@@ -4113,9 +4105,9 @@
       }
     ],
     "dig_sites": [
-      "Frenchman Formation A",
-      "Hell Creek Formation B",
-      "Lance Formation Site A"
+      "Frenchman Formation",
+      "Hell Creek Formation",
+      "Lance Formation"
     ],
     "security_rating": 4,
     "minimum_population": 3,
@@ -4169,7 +4161,7 @@
       }
     ],
     "dig_sites": [
-      "Dinosaur Park Formation B",
+      "Dinosaur Park Formation",
       "Laramie Formation"
     ],
     "security_rating": 3,
@@ -4394,7 +4386,7 @@
       }
     ],
     "dig_sites": [
-      "Nemegt Formation B"
+      "Nemegt Formation"
     ],
     "security_rating": 5,
     "minimum_population": 1,
@@ -4446,8 +4438,8 @@
       }
     ],
     "dig_sites": [
-      "Hell Creek Formation B",
-      "Lance Formation Site B"
+      "Hell Creek Formation",
+      "Lance Formation"
     ],
     "security_rating": 4,
     "minimum_population": 2,
@@ -4510,7 +4502,7 @@
       }
     ],
     "dig_sites": [
-      "Dinosaur Park Formation B",
+      "Dinosaur Park Formation",
       "Judith River Formation",
       "Prince Creek Formation"
     ],
@@ -4674,9 +4666,9 @@
       }
     ],
     "dig_sites": [
-      "Hell Creek Formation C",
-      "Lance Formation Site C",
-      "Frenchman Formation B"
+      "Hell Creek Formation",
+      "Lance Formation",
+      "Frenchman Formation"
     ],
     "security_rating": 6,
     "minimum_population": 1,
@@ -4786,7 +4778,7 @@
     ],
     "dig_sites": [
       "Iren Dabasu Formation",
-      "Nemegt Formation B"
+      "Nemegt Formation"
     ],
     "security_rating": 5,
     "minimum_population": 2,
@@ -4997,7 +4989,7 @@
     ],
     "dig_sites": [
       "Baynshire Formation",
-      "Nemegt Formation A"
+      "Nemegt Formation"
     ],
     "security_rating": 3,
     "minimum_population": 1,
