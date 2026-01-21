@@ -212,6 +212,11 @@
         "name": "Yutyrannus",
         "slug": "yutyrannus",
         "image": "/images/yutyrannus.webp"
+      },
+      {
+        "name": "Majungasaurus",
+        "slug": "majungasaurus",
+        "image": "/images/majungasaurus.webp"
       }
     ]
   },

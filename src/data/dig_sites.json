@@ -1135,5 +1135,16 @@
         "image": "/images/mamenchisaurus.webp"
       }
     ]
+  },
+  {
+    "name": "Maevarano Formation",
+    "zone": "Africa",
+    "dinosaurs": [
+      {
+        "name": "Majungasaurus",
+        "slug": "majungasaurus",
+        "image": "/images/majungasaurus.webp"
+      }
+    ]
   }
 ]

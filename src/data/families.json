@@ -246,6 +246,11 @@
         "name": "Carnotaurus",
         "slug": "carnotaurus",
         "image": "/images/carnotaurus.webp"
+      },
+      {
+        "name": "Majungasaurus",
+        "slug": "majungasaurus",
+        "image": "/images/majungasaurus.webp"
       }
     ]
   },

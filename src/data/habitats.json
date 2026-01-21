@@ -402,6 +402,11 @@
         "name": "Deinocheirus",
         "slug": "deinocheirus",
         "image": "/images/deinocheirus.webp"
+      },
+      {
+        "name": "Majungasaurus",
+        "slug": "majungasaurus",
+        "image": "/images/majungasaurus.webp"
       }
     ]
   },

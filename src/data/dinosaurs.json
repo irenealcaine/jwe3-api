@@ -5017,5 +5017,62 @@
       }
     ],
     "game": "Base game"
+  },
+  {
+    "id": 96,
+    "name": "Majungasaurus",
+    "slug": "majungasaurus",
+    "image": "/images/majungasaurus.webp",
+    "description": "Majungasaurus is a carnivorous theropod from the Late Cretaceous period and grew to around 9m in length. As the apex predator of its era, it used its sharp teeth and powerful bite to tear flesh from its targets and is one of the few dinosaurs known to have eaten members of its own genera - although research has not confirmed whether this cannibalistic behaviour took the form of hunting or scavenging on carcasses.",
+    "discovery": "Named after the location of its discovery (Mahajanga, Madagascar), Majungasaurus was discovered by an army officer in 1896, when he noticed a series of fossils along the Betsiboka river. Further remains were unearthed throughout the 20th Century, offering evidence that it was a new genus – and in 1955, French palaeontologist René Lavocat officially named it Majungasaurus.",
+    "palaeoecology": "This genus co-existed with many other animals on the island of Madagascar around 70-80m years ago, although as one of the last dinosaurs to exist, many of its neighbours were mammals, birds and fish. It lived along the coast, preying upon sauropods such as Rapetosaurus.",
+    "era": "Late Cretaceous",
+    "family": "Abelisauridae",
+    "genus": "Majungasaurus",
+    "height": 2.8,
+    "length": 9,
+    "weight": 907,
+    "diet": [
+      "Carnivore"
+    ],
+    "feeder": [
+      "Meat",
+      "Live Prey"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 1,
+        "max": 3
+      }
+    ],
+    "dig_sites": [
+      "Maevarano Formation"
+    ],
+    "security_rating": 5,
+    "minimum_population": 1,
+    "environment": [
+      {
+        "water": 5,
+        "forest": 30,
+        "open_space": 57,
+        "rock": 7,
+        "prey": 0.50
+      }
+    ],
+    "habitat": "Terrestrial",
+    "cohabitation": [
+      {
+        "likes": [
+          "Qianzhousaurus",
+          "Carnotaurus",
+          "Scavenger"
+        ],
+        "dislikes": [
+          "Carnivores",
+          "Therizinosaurus"
+        ]
+      }
+    ],
+    "game": "Base game"
   }
 ]
