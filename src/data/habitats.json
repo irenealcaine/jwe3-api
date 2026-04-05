@@ -19,6 +19,11 @@
         "image": "/images/allosaurus.webp"
       },
       {
+        "name": "Amargasaurus",
+        "slug": "amargasaurus",
+        "image": "/images/amargasaurus.webp"
+      },
+      {
         "name": "Ankylodocus",
         "slug": "ankylodocus",
         "image": "/images/ankylodocus.webp"
@@ -97,6 +102,11 @@
         "name": "Corythosaurus",
         "slug": "corythosaurus",
         "image": "/images/corythosaurus.webp"
+      },
+      {
+        "name": "Cryolophosaurus",
+        "slug": "cryolophosaurus",
+        "image": "/images/cryolophosaurus.webp"
       },
       {
         "name": "Deinonychus",

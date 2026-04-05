@@ -64,6 +64,11 @@
         "image": "/images/concavenator.webp"
       },
       {
+        "name": "Cryolophosaurus",
+        "slug": "cryolophosaurus",
+        "image": "/images/cryolophosaurus.webp"
+      },
+      {
         "name": "Deinonychus",
         "slug": "deinonychus",
         "image": "/images/deinonychus.webp"
@@ -224,6 +229,11 @@
     "name": "Herbivore",
     "description": "Plant-eating dinosaurs that feed exclusively on vegetation. This diverse group includes armored ankylosaurs, long-necked sauropods, duck-billed hadrosaurs, and horned ceratopsians. They possess specialized teeth and digestive systems adapted for processing plant matter, ranging from leaves and ferns to tough fibrous vegetation.",
     "dinosaurs": [
+      {
+        "name": "Amargasaurus",
+        "slug": "amargasaurus",
+        "image": "/images/amargasaurus.webp"
+      },
       {
         "name": "Ankylodocus",
         "slug": "ankylodocus",

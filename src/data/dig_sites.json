@@ -371,6 +371,17 @@
     ]
   },
   {
+    "name": "Hanson Formation",
+    "zone": "Antarctica",
+    "dinosaurs": [
+      {
+        "name": "Cryolophosaurus",
+        "slug": "cryolophosaurus",
+        "image": "/images/cryolophosaurus.webp"
+      }
+    ]
+  },
+  {
     "name": "Hell Creek Formation",
     "zone": "North America",
     "dinosaurs": [
@@ -565,6 +576,17 @@
         "name": "Parasaurolophus",
         "slug": "parasaurolophus",
         "image": "/images/parasaurolophus.webp"
+      }
+    ]
+  },
+  {
+    "name": "La Amarga Formation",
+    "zone": "South America",
+    "dinosaurs": [
+      {
+        "name": "Amargasaurus",
+        "slug": "amargasaurus",
+        "image": "/images/amargasaurus.webp"
       }
     ]
   },

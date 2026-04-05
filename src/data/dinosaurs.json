@@ -5074,5 +5074,117 @@
       }
     ],
     "game": "Base game"
+  },
+  {
+    "id": 97,
+    "name": "Amargasaurus",
+    "slug": "Amargasaurus",
+    "image": "/images/amargasaurus.webp",
+    "description": "Amargasaurus is named after the site of its discovery, La Amarga Formation in Argentina, and is a herbivorous dinosaur of the Dicraeosauridae family weighing around 2.9 tons and spanning 9.5m in length. Its long neck and sharp teeth allow it to eat tough vegetation from trees, while the two rows of long spines on its neck and back help Amargasaurus to defend itself from predators – an important characteristic given that this dinosaur has poor hearing and is unable to move at high speeds.",
+    "discovery": "The discovery of Amargasaurus came in 1984, when José Bonaparte led a team in excavating a near-complete skeleton from the sedimentary rocks of La Amarga Formation. Despite numerous attempts to unearth more, Bonaparte’s discovery is the only Amargasaurus fossil on record.",
+    "palaeoecology": "Amargasaurus lived in the Early Cretaceous period around 120-130 million years ago, and existed alongside other Sauropods including Amargatitanis and Zapalasaurus, as well as Stegosaurus. It lived in groups among the woodlands and creeks of South America, migrating regularly in search of food.",
+    "era": "Early Cretaceous",
+    "family": "Dicraeosauridae",
+    "genus": "Amargasaurus",
+    "height": 2.7,
+    "length": 10.1,
+    "weight": 2900,
+    "diet": [
+      "Herbivore"
+    ],
+    "feeder": [
+      "Ground Palaeobotany"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 1,
+        "max": 2
+      }
+    ],
+    "dig_sites": [
+      "La Amarga Formation"
+    ],
+    "security_rating": 2,
+    "minimum_population": 1,
+    "environment": [
+      {
+        "water": 3,
+        "forest": 65,
+        "ground_fiber": 32
+      }
+    ],
+    "habitat": "Terrestrial",
+    "cohabitation": [
+      {
+        "likes": [
+          "Ornithomimosaurid",
+          "Ceratopsid",
+          "Ankylosaurid",
+          "Hadrosaurid",
+          "Pachycephalosaurid",
+          "Stegosaurid"
+        ],
+        "dislikes": [
+          "Sauropod",
+          "Indominus rex",
+          "Scorpios rex"
+        ]
+      }
+    ],
+    "game": "Base game"
+  },
+  {
+    "id": 98,
+    "name": "Cryolophosaurus",
+    "slug": "Cryolophosaurus",
+    "image": "/images/cryolophosaurus.webp",
+    "description": "Cryolophosaurus is one of the largest theropods of the Early Jurassic era, measuring around 7m in length and half a tonne in weight. It was one of the first carnivorous dinosaurs, feeding on smaller dinosaurs and mammals. The name Cryolophosaurus, which translates to ‘frozen crested lizard’, is a reference to the striking crest on its head and the cold climate of its habitat, Antarctica.",
+    "discovery": "This genus was discovered in 1990 by American palaeontologist William R. Hammer while on an expedition to Antarctica. Hammer unearthed a femur and a skull from a quarry, noting that the unique head crest must mean that it was a new genus – a belief that was confirmed when the find was officially classified in 1994.",
+    "palaeoecology": "Although Antarctica is one of the coldest places on earth nowadays, during Cryolophosaurus’ existence – during the Early Jurassic period, around 170m years ago - it had a cool climate that rarely reached freezing temperatures. Cryolophosaurus lived alongside only one other known genus of dinosaur, the sauropodomorph Glacialisaurus, although other reptiles and mammals shared the environment.",
+    "era": "Early Jurassic",
+    "family": "Tetanurae",
+    "genus": "Cryolophosaurus",
+    "height": 2.5,
+    "length": 7.5,
+    "weight": 780,
+    "diet": [
+      "Carnivore"
+    ],
+    "feeder": [
+      "Meat",
+      "Live Prey"
+    ],
+    "egg_batch_size": [
+      {
+        "min": 1,
+        "max": 3
+      }
+    ],
+    "dig_sites": [
+      "Hanson Formation"
+    ],
+    "security_rating": 4,
+    "minimum_population": 1,
+    "environment": [
+      {
+        "water": 7,
+        "forest": 23,
+        "open_space": 70,
+        "prey": 0.5
+      }
+    ],
+    "habitat": "Terrestrial",
+    "cohabitation": [
+      {
+        "likes": [
+          "Scavenger"
+        ],
+        "dislikes": [
+          "Carnivores",
+          "Therizinosaurus"
+        ]
+      }
+    ],
+    "game": "Base game"
   }
 ]
